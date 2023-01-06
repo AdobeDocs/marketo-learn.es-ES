@@ -1,8 +1,8 @@
 ---
-source-git-commit: 1a71a11a686ca3aa9d6f7451f394aa1f6a40e653
+source-git-commit: 33fc78768c3664f9ed9b608c260414b16f37613a
 workflow-type: tm+mt
-source-wordcount: '296'
-ht-degree: 0%
+source-wordcount: '294'
+ht-degree: 22%
 
 ---
 # Contribución
@@ -13,12 +13,12 @@ A continuación se muestra un conjunto de directrices que se deben seguir al con
 
 ## Código de conducta
 
-Este proyecto se adhiere al Adobe [código de conducta](code-of-conduct.md). Al participar, se espera que respete este código. Informe de comportamientos inaceptables a
+Este proyecto se adhiere al [código de conducta](code-of-conduct.md) de Adobe. Al participar, se espera que mantenga este código. Informe de comportamientos inaceptables a
 [Grp-opensourceoffice@adobe.com](mailto:Grp-opensourceoffice@adobe.com).
 
 ## Documentación de la Guía del colaborador
 
-Consulte la [Guía del colaborador](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html).
+Consulte la [Guía del colaborador](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html).
 
 ## ¿Tiene una pregunta?
 
@@ -26,12 +26,11 @@ Comience por enviar un problema. Los supervisores de este proyecto trabajan para
 
 ## Acuerdo de licencia del colaborador
 
-Todas las contribuciones de terceros a este proyecto deben ir acompañadas de un contrato de licencia de colaborador firmado. Esto da permiso al Adobe para redistribuir las contribuciones como parte del proyecto. [Firmar nuestro contrato de licencia de colaborador](http://opensource.adobe.com/cla.html). Solo es necesario que envíe un CLA de Adobe una vez, así que si ha enviado uno anteriormente, ¡ya está listo!
+Todas las contribuciones de terceros a este proyecto deben ir acompañadas de un contrato de licencia de colaborador firmado. Esto otorga permiso a Adobe para redistribuir sus contribuciones como parte del proyecto. [Firmar nuestro contrato de licencia de colaborador](http://opensource.adobe.com/cla.html). Solo es necesario que envíe un CLA de Adobe una vez, así que si ha enviado uno anteriormente, ¡ya está listo!
 
 ## Revisiones de código
 
-Todas las presentaciones deben presentarse en forma de solicitudes de extracción y los comités de proyectos deben revisarlas. Lectura [Documentación de la solicitud de extracción de GitHub](https://help.github.com/articles/about-pull-requests/)
-para obtener más información sobre el envío de solicitudes de extracción.
+Todas las solicitudes deben llegar en forma de solicitudes “pull” y el comité de proyectos deberá revisarlas. Consulte la [documentación de las solicitudes “pull”](https://help.github.com/es/github/collaborating-with-issues-and-pull-requests/about-pull-requests) para obtener más información sobre cómo enviar solicitudes “pull”.
 
 <!--
 Lastly, please follow the [pull request template](PULL_REQUEST_TEMPLATE.md) when
