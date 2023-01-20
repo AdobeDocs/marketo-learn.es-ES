@@ -2,9 +2,9 @@
 user-guide-title: Tutoriales de Marketo Engage
 user-guide-description: Una colección de vídeos y tutoriales para Adobe Marketo Engage.
 breadcrumb-title: Tutoriales de Marketo Engage
-source-git-commit: 0684c5bdea44a6852e7b889eeb3c6ab11419da96
+source-git-commit: 5db8b7cf5855df56e9fca79ca3a0b3fed3300537
 workflow-type: tm+mt
-source-wordcount: '190'
+source-wordcount: '202'
 ht-degree: 12%
 
 ---
@@ -13,31 +13,6 @@ ht-degree: 12%
 # [!DNL Marketo Engage] tutoriales {#tutorials}
 
 + [[!DNL Marketo Engage] tutoriales](overview.md)
-+ Aspectos básicos {#fundamentals}
-   + [Objetivos y estrategia](fundamentals/goals-and-strategy-learn.md)
-   + [Estructura organizativa](fundamentals/organizational-structure-learn.md)
-   + [Marketing de contenido](fundamentals/content-marketing-learn.md)
-   + [Personalidades compradores](fundamentals/buyer-personas-learn.md)
-+ Marketing por correo electrónico {#email-marketing}
-   + [Correo electrónico programado](email-marketing/scheduled-email-learn.md)
-   + [Introducción programada por correo electrónico](email-marketing/scheduled-email-watch.md)
-   + [Boletín personalizado](email-marketing/personalized-newsletter-learn.md)
-   + [Introducción al boletín personalizado](email-marketing/personalized-newsletter-watch.md)
-   + [Oferta de contenido agregado](email-marketing/gated-content-offer-learn.md)
-   + [Introducción a la oferta de contenido conectado](email-marketing/gated-content-offer-watch.md)
-   + [Pruebas A/B](email-marketing/ab-testing-learn.md)
-   + [Introducción a las pruebas A/B](email-marketing/ab-testing-watch.md)
-   + [Páginas de destino ](email-marketing/landing-pages-learn.md)
-   + [Explicación de las páginas de aterrizaje](email-marketing/landing-pages-watch.md)
-   + [Formularios](email-marketing/forms-learn.md)
-   + [Introducción a Forms](email-marketing/forms-watch.md)
-   + [Capacidad de entrega de correos electrónicos](email-marketing/email-deliverability-learn.md)
-   + [Introducción a la capacidad de entrega de correo electrónico](email-marketing/email-deliverability-watch.md)
-   + [Correo electrónico activado](email-marketing/triggered-email-learn.md)
-   + [Introducción al correo electrónico activado](email-marketing/triggered-email-watch.md)
-   + [[!UICONTROL Desarrollo de posibles clientes]](email-marketing/lead-nuturing-learn.md)
-   + [Contenido dinámico y predictivo](email-marketing/dynamic-and-predictive-content-learn.md)
-   + [Filtrado de actividades de bots de correo electrónico: configuración](filtering-email-bot-activities/setup.md)
 + Marketing en canales múltiples {#cross-channel-marketing}
    + [Eventos](email-marketing/events-learn.md)
    + [Explicación de los eventos](email-marketing/events-watch.md)
@@ -61,21 +36,51 @@ ht-degree: 12%
    + [Reservas para reuniones](dynamic-chat/meeting-booking.md)
    + [Activa en 15 minutos](dynamic-chat/go-live-in-15-minutes.md)
    + [Incrustar PDF en conversaciones](dynamic-chat/document-cloud-integration.md)
++ Marketing por correo electrónico {#email-marketing}
+   + [Correo electrónico programado](email-marketing/scheduled-email-learn.md)
+   + [Introducción programada por correo electrónico](email-marketing/scheduled-email-watch.md)
+   + [Boletín personalizado](email-marketing/personalized-newsletter-learn.md)
+   + [Introducción al boletín personalizado](email-marketing/personalized-newsletter-watch.md)
+   + [Oferta de contenido agregado](email-marketing/gated-content-offer-learn.md)
+   + [Introducción a la oferta de contenido conectado](email-marketing/gated-content-offer-watch.md)
+   + [Pruebas A/B](email-marketing/ab-testing-learn.md)
+   + [Introducción a las pruebas A/B](email-marketing/ab-testing-watch.md)
+   + [Páginas de destino ](email-marketing/landing-pages-learn.md)
+   + [Explicación de las páginas de aterrizaje](email-marketing/landing-pages-watch.md)
+   + [Formularios](email-marketing/forms-learn.md)
+   + [Introducción a Forms](email-marketing/forms-watch.md)
+   + [Capacidad de entrega de correos electrónicos](email-marketing/email-deliverability-learn.md)
+   + [Introducción a la capacidad de entrega de correo electrónico](email-marketing/email-deliverability-watch.md)
+   + [Correo electrónico activado](email-marketing/triggered-email-learn.md)
+   + [Introducción al correo electrónico activado](email-marketing/triggered-email-watch.md)
+   + [Desarrollo de posibles clientes](email-marketing/lead-nuturing-learn.md)
+   + [Contenido dinámico y predictivo](email-marketing/dynamic-and-predictive-content-learn.md)
+   + [Filtrado de actividades de bots de correo electrónico: configuración](filtering-email-bot-activities/setup.md)
++ Eventos {#events}
+   + [Eventos](events/events-learn.md)
+   + [Explicación de los eventos](events/events-watch.md)
+   + [Diseño de un seminario web interactivo eficaz](events/design-an-effective-interactive-webinar.md)
+   + [Seminarios web](events/webinar-learn.md)
+   + [Introducción a los seminarios web](events/webinar-watch.md)
++ Aspectos básicos {#fundamentals}
+   + [Objetivos y estrategia](fundamentals/goals-and-strategy-learn.md)
+   + [Estructura organizativa](fundamentals/organizational-structure-learn.md)
+   + [Marketing de contenido](fundamentals/content-marketing-learn.md)
+   + [Personalidades compradores](fundamentals/buyer-personas-learn.md)
++ Administración de instancias {#instance-management}
+   + [Prácticas recomendadas](instance-management/best-practice-learn.md)
+   + [Introducción a las prácticas recomendadas](instance-management/best-practice-watch.md)
++ Administración de datos y posibles clientes {#lead-and-data-management}
+   + [Puntuación de posible cliente](lead-and-data-management/lead-scoring-learn.md)
+   + [Introducción a la puntuación de posibles clientes](lead-and-data-management/lead-scoring-watch.md)
+   + [Ejemplos de puntuación de posibles clientes](lead-and-data-management/lead-scoring.md)
+   + [Centro de suscripciones](lead-and-data-management/subscription-center-learn.md)
+   + [Introducción al centro de suscripciones](lead-and-data-management/subscription-center-watch.md)
+   + [Sincronización de CRM](lead-and-data-management/crm-sync-learn.md)
+   + [Ciclo de vida de posible cliente](lead-and-data-management/lead-lifecycle-learn.md)
+   + [Introducción al ciclo vital de los posibles clientes](lead-and-data-management/lead-lifecycle-watch.md)
 + Acciones de perspectiva de ventas {#sales-insight-actions}
    + [Resumen](sales-insight-actions/overview.md)
    + [Información general sobre las acciones de perspectiva de ventas](sales-insight-actions/sales-insight-actions-overview.md)
    + [Acceso a la instancia de acciones de perspectiva de ventas](sales-insight-actions/accessing-your-sales-insight-actions-instance.md)
    + [Configure el inicio de sesión de actividades de ventas en [!DNL Salesforce]](sales-insight-actions/configure-sales-activity-logging-to-salesforce.md)
-+ Administración de datos y posibles clientes {#lead-and-data-management}
-   + [Puntuación de posible cliente](lead-and-data-management/lead-scoring-learn.md)
-   + [Introducción a la puntuación de posibles clientes](lead-and-data-management/lead-scoring-watch.md)
-   + [Centro de suscripciones](lead-and-data-management/subscription-center-learn.md)
-   + [Introducción al centro de suscripciones](lead-and-data-management/subscription-center-watch.md)
-   + [Sincronización de CRM](lead-and-data-management/crm-sync-learn.md)
-   + [[!UICONTROL Ciclo de vida de posible cliente]](lead-and-data-management/lead-lifecycle-learn.md)
-   + [Introducción al ciclo vital de los posibles clientes](lead-and-data-management/lead-lifecycle-watch.md)
-+ Administración de instancias {#instance-management}
-   + [Prácticas recomendadas](instance-management/best-practice-learn.md)
-   + [Introducción a las prácticas recomendadas](instance-management/best-practice-watch.md)
-+ Eventos {#events}
-   + [Puntuación de posibles clientes](events/lead-scoring.md)
