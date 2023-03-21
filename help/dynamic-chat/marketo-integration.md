@@ -6,9 +6,9 @@ level: Beginner
 kt: 9697
 thumbnail: 340260.jpeg
 exl-id: 61a5c634-d6c4-4ea6-bad4-d69dabc89410
-source-git-commit: 456e16b830e491f688900e91de90e2a6765afaf4
+source-git-commit: 40e21085caf5a23f98607d20930976d1f6fdb469
 workflow-type: tm+mt
-source-wordcount: '72'
+source-wordcount: '75'
 ht-degree: 0%
 
 ---
@@ -23,3 +23,4 @@ ht-degree: 0%
 
 * [Crear y administrar cuadros de diálogo personalizados](dialogue-management.md)
 * [Agregar y administrar usuarios de [!UICONTROL Chat dinámico] ](user-management.md)
+* [Captura de atributos deducidos](capture-inferred-attributes.md)
