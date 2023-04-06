@@ -3,7 +3,7 @@ title: Tutorials de acciones de perspectiva de ventas
 description: Uso [!UICONTROL Acciones de perspectiva de ventas] para acelerar los esfuerzos de prospección con herramientas de participación e inteligencia impulsadas por marketing en un único flujo de trabajo.
 doc-type: overview-page
 exl-id: fac23fde-1fc8-4710-a5f5-2e19a2618d6d
-source-git-commit: 5a65ad7660a368a10e31b76ec81594304c304cc9
+source-git-commit: 9bba0f24a492fdd5b21b30f605498b7519cd8200
 workflow-type: tm+mt
 source-wordcount: '277'
 ht-degree: 0%
@@ -49,8 +49,8 @@ Uso [!UICONTROL Acciones de perspectiva de ventas] para acelerar los esfuerzos d
 <p><em>Acelere los esfuerzos de prospección con herramientas de participación e inteligencia impulsadas por marketing.</em></p>
 </td>
 <td>
-<a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-guide.html"><img alt="imagen en miniatura para [!DNL Sales Insight Actions] Guía de incorporación del usuario" src="assets/sales-insight-actions-user-onboarding-guide-thumb.png" /></a>
-<div><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-guide.html"><strong>[!DNL Sales Insight Actions] Guía de incorporación del usuario</strong></a></div>
+<a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-checklist.html"><img alt="imagen en miniatura para [!DNL Sales Insight Actions] Guía de incorporación del usuario" src="assets/sales-insight-actions-user-onboarding-guide-thumb.png" /></a>
+<div><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-checklist.html"><strong>[!DNL Sales Insight Actions] Guía de incorporación del usuario</strong></a></div>
 <p><em>Pasos que deberán seguir los nuevos usuarios para comenzar.</em></p>
 </td>
 <td>
