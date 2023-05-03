@@ -1,33 +1,33 @@
 ---
-title: Tutoriales de Marketo Engage
+title: tutoriales del Marketo Engage
 description: Vea tutoriales en vídeo sobre [!DNL Marketo Engage]. Mejore su comprensión sobre cómo utilizar las funciones de automatización de marketing y mucho más.
 doc-type: overview-page
 exl-id: 1b2d6334-377a-4f59-923a-ecbe0dc0ba0c
 source-git-commit: c6472ca19d0fcf147d53de6ecb8f263f41046e7b
 workflow-type: tm+mt
-source-wordcount: '173'
-ht-degree: 20%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 # [!DNL Marketo Engage] tutoriales
 
-Examine nuestra biblioteca de tutoriales y saque el máximo partido a [!DNL Marketo Engage]. Estos tutoriales pueden ayudar a complementar [[!DNL Marketo] documentación del producto](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"} para ayudarle a comprender mejor las funciones de automatización de marketing.
+Examine nuestra biblioteca de tutoriales y aproveche al máximo [!DNL Marketo Engage]. Estos tutoriales pueden ayudarle a complementar [[!DNL Marketo] documentación del producto](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"} para ayudarle a comprender mejor las funciones de automatización de marketing.
 
 <div id="whats-new-section">
 
 ## Novedades
 
-Añadidos recientemente [!DNL Marketo Engage] tutoriales:
+Agregado recientemente [!DNL Marketo Engage] tutoriales:
 
-* **[[!UICONTROL Dynamic Chat]  tutoriales](dynamic-chat/dynamic-chat-overview.md)**
+* **[[!UICONTROL Chat dinámico]  tutoriales](dynamic-chat/dynamic-chat-overview.md)**
 
    _Utilice estos tutoriales junto con la documentación para comprender mejor cómo utilizar Dynamic Chat con el fin de crear conversaciones personalizadas._
 
 * **[[!DNL Sales Insight Actions] tutoriales](/help/sales-insight-actions/overview.md)**
-   _Uso [!UICONTROL Acciones de perspectiva de ventas] para acelerar los esfuerzos de prospección con herramientas de inteligencia y participación impulsadas por marketing en un solo flujo de trabajo._
+   _Uso [!UICONTROL Acciones de perspectiva de ventas] para acelerar los esfuerzos de prospección con herramientas de participación e inteligencia impulsadas por marketing en un único flujo de trabajo._
 
-* **[Tutoriales de filtrado de actividades de bots de correo electrónico](filtering-email-bot-activities/setup.md)**
+* **[Filtrado de tutoriales de actividades de bots de correo electrónico](filtering-email-bot-activities/setup.md)**
 
    _Una guía para ayudarle a habilitar la identificación de actividades de correo electrónico por bots y cómo puede filtrar y crear campañas excluyendo bots._
 
@@ -37,7 +37,7 @@ Añadidos recientemente [!DNL Marketo Engage] tutoriales:
 
 * **[Contenido dinámico y predictivo](email-marketing/dynamic-and-predictive-content-learn.md)**
 
-   _Aprenda a utilizar la inteligencia artificial aplicada al contenido de Marketo y a aplicar contenido dinámico al trabajar con Marketo._
+   _Aprenda a utilizar Marketo Content AI y a aplicar contenido dinámico al trabajar con Marketo._
 
 </div>
 <div id="recs-overview-body-1"></div>
