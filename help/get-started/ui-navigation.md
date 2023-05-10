@@ -1,5 +1,5 @@
 ---
-title: Navegación por la interfaz de usuario del Marketo Engage
+title: Navegar por la interfaz de usuario del Marketo Engage
 description: Obtenga información sobre cómo navegar por la interfaz de usuario y familiarizarse con su recorrido por la plataforma de Marketo Engage.
 role: User
 level: Beginner
@@ -7,15 +7,15 @@ doc-type: Feature Video
 last-substantial-update: 2023-05-08T00:00:00Z
 jira: KT-13202
 thumbnail: 3419131.jpeg
-source-git-commit: 2945c1ad019e43cc192c3754c989b0836884366f
+source-git-commit: 891bb906e5257a26cab2148fe0087521bc37908b
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '95'
 ht-degree: 0%
 
 ---
 
 
-# Navegación por la interfaz de usuario del Marketo Engage
+# Navegar por la interfaz de usuario del Marketo Engage
 
 Obtenga información sobre cómo navegar por la interfaz de usuario y familiarizarse con su recorrido por la plataforma de Marketo Engage.
 
@@ -23,7 +23,7 @@ Obtenga información sobre cómo navegar por la interfaz de usuario y familiariz
 
 ## Recursos adicionales
 
-* [Glosario de Marketo](https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/marketo-glossary.html?lang=en)
+* [glosario del Marketo Engage](https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/marketo-glossary.html?lang=en)
 Definiciones de muchos de los términos que puede encontrar al usar Marketo.
 * [Icono glosario](https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-engage-modern-ux/icon-glossary.html?lang=en)
 Glosario de los iconos de la interfaz del Marketo Engage.
