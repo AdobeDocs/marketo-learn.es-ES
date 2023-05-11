@@ -1,20 +1,20 @@
 ---
-title: Creación y ejecución de un programa de seminario web
-description: Vea paso a paso cómo crear un seminario web y administrarlo desde Marketo.
+title: Crear y ejecutar un programa de seminario web
+description: Obtenga información sobre cómo crear un seminario web y administrarlo desde Marketo.
 role: User
 level: Beginner
 kt: 10760
 thumbnail: 345477.jpeg
 exl-id: 06757667-eae0-41d8-ab0d-a70759f6532c
-source-git-commit: 5db8b7cf5855df56e9fca79ca3a0b3fed3300537
+source-git-commit: 2e074e845657a0841e762dc3d7f8358e17a4b720
 workflow-type: tm+mt
-source-wordcount: '40'
+source-wordcount: '34'
 ht-degree: 0%
 
 ---
 
-# Creación y ejecución de un programa de seminario web
+# Crear y ejecutar un programa de seminario web
 
-Vea paso a paso cómo crear un seminario web y administrarlo desde Marketo.
+Obtenga información sobre cómo crear un seminario web y administrarlo desde Marketo.
 
 >[!VIDEO](https://video.tv.adobe.com/v/345477/?quality=12&learn=on)
