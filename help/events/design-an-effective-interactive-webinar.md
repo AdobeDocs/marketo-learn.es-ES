@@ -3,10 +3,8 @@ title: Diseño de un seminario web interactivo eficaz
 description: Aprenda a crear y diseñar un seminario web interactivo eficaz
 role: User
 level: Beginner
-hide: true
-hidefromtoc: true
 exl-id: 927099a4-009b-45d6-9a32-ba685751ba04
-source-git-commit: 875c71551f71628bedbad36ec6e64a49071d3257
+source-git-commit: 8b72cf68529cdcb898ff14d3952920b949daa3c9
 workflow-type: tm+mt
 source-wordcount: '117'
 ht-degree: 0%
