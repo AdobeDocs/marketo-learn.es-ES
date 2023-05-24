@@ -2,9 +2,9 @@
 user-guide-title: Tutoriales de Marketo Engage
 user-guide-description: Una colección de vídeos y tutoriales para Adobe Marketo Engage.
 breadcrumb-title: Tutoriales de Marketo Engage
-source-git-commit: 5a661800e947fef2fdd418e49440c34a9cb5af1d
+source-git-commit: eb2c2bc28f352b0fc2681e2b20fe94e86a459a41
 workflow-type: tm+mt
-source-wordcount: '241'
+source-wordcount: '254'
 ht-degree: 12%
 
 ---
@@ -19,13 +19,19 @@ ht-degree: 12%
    + [Marketing de contenido](/help/fundamentals/content-marketing-learn.md)
    + [Personalidades del comprador](/help/fundamentals/buyer-personas-learn.md)
    + [Programas y campañas](/help/fundamentals/programs-and-campaigns.md)
-+ Introducción {#get-started}
-   + [Navegar por la IU](/help/get-started/ui-navigation.md)
+   + [Navegar por la IU](/help/fundamentals/ui-navigation.md)
+   + Programas y campañas {#programs}
+      + [Explicación de programas y campañas](help/programs/understanding-programs-and-campaigns.md)
+      + [Programas predeterminados](/help/programs/default-programs.md)
+      + [Programas de correo electrónico](/help/programs/email-programs.md)
+      + [Programas de eventos](/help/programs/event-programs.md)
+      + [Programas de participación](/help/programs/engagement-programs.md)
 + Programas {#programs}
-   + [Información general de programas predeterminados](/help/programs/default-programs-overview.md)
-   + [Resumen de programas de correo electrónico](/help/programs/email-programs-overview.md)
-   + [Resumen de programas de eventos](/help/programs/event-programs-overview.md)
-   + [Resumen de programas de participación](/help/programs/engagement-programs-overview.md)
+   + [Explicación de programas y campañas](help/programs/understanding-programs-and-campaigns.md)
+   + [Programas predeterminados](/help/programs/default-programs.md)
+   + [Programas de correo electrónico](/help/programs/email-programs.md)
+   + [Programas de eventos](/help/programs/event-programs.md)
+   + [Programas de participación](/help/programs/engagement-programs.md)
 + Marketing por correo electrónico {#email-marketing}
    + [Correo electrónico programado](/help/email-marketing/scheduled-email-learn.md)
    + [Recorrido del correo electrónico programado](/help/email-marketing/scheduled-email-watch.md)
