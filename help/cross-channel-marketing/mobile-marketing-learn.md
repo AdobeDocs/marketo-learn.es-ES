@@ -1,13 +1,12 @@
 ---
 title: Integración del marketing móvil
 description: Aprenda a desarrollar relaciones con sus compradores creando conexiones personales y en tiempo real a través de la comodidad de los dispositivos móviles.
-feature: null
 role: User
 level: Beginner
 kt: 10727
 thumbnail: 345403.jpeg
 exl-id: 4fb8e452-11d0-4d89-85c2-5a9ed097853b
-source-git-commit: 965e7fd5cbac9eb7b34398b9317143b0e8418ba6
+source-git-commit: 688b3906f03b84e9d5e7233a2646fec76976aa93
 workflow-type: tm+mt
 source-wordcount: '65'
 ht-degree: 0%
