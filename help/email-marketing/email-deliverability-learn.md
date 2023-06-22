@@ -1,20 +1,20 @@
 ---
-title: Obtenga información sobre la optimización de la capacidad de envío de correo electrónico
-description: Su mensaje de marketing no cumplirá sus objetivos si sus correos electrónicos no llegan a las bandejas de entrada de sus suscriptores. Obtenga información sobre cómo enviar correos electrónicos correctamente a los suscriptores que deseen leerlos.
+title: Obtenga información sobre la optimización de la entrega de correo electrónico
+description: El mensaje de marketing no alcanzará sus objetivos si los correos electrónicos no llegan a las bandejas de entrada de los suscriptores. Obtenga información sobre cómo enviar correctamente correos electrónicos a los suscriptores que desean leerlos.
 role: User
 level: Beginner
-kt: 10764
+jira: KT-10764
 thumbnail: 345481.jpeg
 exl-id: abc6d870-6c2c-453f-9239-424cb2803aec
-source-git-commit: 98ead59ff285e4133e4d5f0668f5724a9d680309
+source-git-commit: c2aa5a0dbd22bb949a865f219e5ecbc2c96d6286
 workflow-type: tm+mt
 source-wordcount: '72'
 ht-degree: 0%
 
 ---
 
-# Obtenga información sobre la optimización de la capacidad de envío de correo electrónico
+# Obtenga información sobre la optimización de la entrega de correo electrónico
 
-Su mensaje de marketing no cumplirá sus objetivos si sus correos electrónicos no llegan a las bandejas de entrada de sus suscriptores. Obtenga información sobre cómo enviar correos electrónicos correctamente a los suscriptores que deseen leerlos.
+El mensaje de marketing no alcanzará sus objetivos si los correos electrónicos no llegan a las bandejas de entrada de los suscriptores. Obtenga información sobre cómo enviar correctamente correos electrónicos a los suscriptores que desean leerlos.
 
 >[!VIDEO](https://video.tv.adobe.com/v/345481/?quality=12&learn=on)

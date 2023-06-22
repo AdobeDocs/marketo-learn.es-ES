@@ -1,20 +1,20 @@
 ---
-title: Más información sobre la creación de personalidades compradoras
-description: ¿Quiere asegurarse de que el marketing de contenido atrae a posibles compradores y genera posibles clientes? La creación de personalidades de comprador le ayudará a determinar qué tipo de contenido necesita y cómo los compradores encontrarán y consumirán la información.
+title: Más información sobre cómo crear perfiles de comprador
+description: ¿Quiere asegurarse de que el marketing de contenido atraiga a posibles compradores y genere posibles clientes? La creación de perfiles de comprador te ayudará a determinar qué tipo de contenido necesitas y cómo encontrarán y consumirán información los compradores.
 role: User
 level: Beginner
-kt: 10732
+jira: KT-10732
 thumbnail: 345415.jpeg
 exl-id: 50b9b05f-7235-4c9b-ba92-8d1284fa2e3d
-source-git-commit: 98ead59ff285e4133e4d5f0668f5724a9d680309
+source-git-commit: c2aa5a0dbd22bb949a865f219e5ecbc2c96d6286
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 0%
 
 ---
 
-# Más información sobre la creación de personalidades compradoras
+# Más información sobre cómo crear perfiles de comprador
 
-¿Quiere asegurarse de que el marketing de contenido atrae a posibles compradores y genera posibles clientes? La creación de personalidades de comprador le ayudará a determinar qué tipo de contenido necesita y cómo los compradores encontrarán y consumirán la información.
+¿Quiere asegurarse de que el marketing de contenido atraiga a posibles compradores y genere posibles clientes? La creación de perfiles de comprador te ayudará a determinar qué tipo de contenido necesitas y cómo encontrarán y consumirán información los compradores.
 
 >[!VIDEO](https://video.tv.adobe.com/v/345415/?quality=12&learn=on)
