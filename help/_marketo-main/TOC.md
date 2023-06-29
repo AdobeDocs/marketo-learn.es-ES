@@ -2,7 +2,7 @@
 user-guide-title: Tutoriales de Marketo Engage
 user-guide-description: Una colección de vídeos y tutoriales para Adobe Marketo Engage.
 breadcrumb-title: Tutoriales de Marketo Engage
-source-git-commit: 0ae3946dbb09034052fefc66019d0b1a2ea942e4
+source-git-commit: 9a0c4c02d2ec4b4d093764d93402dab01c603850
 workflow-type: tm+mt
 source-wordcount: '271'
 ht-degree: 11%
@@ -26,7 +26,7 @@ ht-degree: 11%
    + [Programas de eventos](/help/programs/event-programs.md)
    + [Programas de participación](/help/programs/engagement-programs.md)
    + [Programas de correo electrónico](/help/programs/email-programs.md)
-   + [Programas predeterminados]{#default-programs}
+   + Programas predeterminados {#default-programs}
       + [Creación y medición de un programa predeterminado](/help/programs/create-and-measure-default-programs.md)
       + [Aproveche la flexibilidad de los programas predeterminados](/help/programs/leverage-the-flexibility-of-default-programs.md)
 + Marketing por correo electrónico {#email-marketing}
