@@ -7,13 +7,14 @@ doc-type: Feature Video
 last-substantial-update: 2023-05-08T00:00:00Z
 jira: KT-13202
 thumbnail: 3419131.jpeg
-source-git-commit: eb2c2bc28f352b0fc2681e2b20fe94e86a459a41
+exl-id: b4c7aeb6-d1f9-4164-a318-3e12b0e8aaea
+feature: Modern UX
+source-git-commit: 433b00dc5dc1b7dde2931c6b9eaa8a403eae2415
 workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 0%
 
 ---
-
 
 # Navegación por la interfaz de usuario del Marketo Engage
 

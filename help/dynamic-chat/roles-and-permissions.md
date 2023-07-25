@@ -8,7 +8,8 @@ last-substantial-update: 2023-03-20T00:00:00Z
 jira: KT-12967
 thumbnail: 3416920.jpeg
 exl-id: ac7de00d-9093-427a-bbf7-c26a703d9c63
-source-git-commit: 7e4dd6f3d2e3a34751dcdc047337bea0d9c955bf
+feature: Dynamic Chat
+source-git-commit: 433b00dc5dc1b7dde2931c6b9eaa8a403eae2415
 workflow-type: tm+mt
 source-wordcount: '58'
 ht-degree: 0%
@@ -23,6 +24,6 @@ Descubra cómo puede crear nuevas funciones y establecer permisos para los usuar
 
 ## Vídeos más útiles
 
-* [Agregar y administrar usuarios de [!UICONTROL Chat dinámico] ](user-management.md)
-* [Crear y administrar cuadros de diálogo personalizados](dialogue-management.md)
-* [Active la integración de Marketo con [!UICONTROL Chat dinámico] ](marketo-integration.md)
+* [Adición y administración de usuarios de [!UICONTROL Dynamic Chat]](user-management.md)
+* [Creación y administración de cuadros de diálogo personalizados](dialogue-management.md)
+* [Activar la integración de Marketo con [!UICONTROL Dynamic Chat]](marketo-integration.md)
