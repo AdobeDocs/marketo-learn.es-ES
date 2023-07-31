@@ -1,6 +1,6 @@
 ---
 title: Asignación de participación a campañas anidadas
-description: Descifrar campañas interconectadas y profundamente anidadas para obtener una mejor visibilidad de todo el recorrido del cliente mediante el mapa de participación.
+description: Aprenda a descifrar campañas interconectadas y profundamente anidadas para obtener una mejor visibilidad de todo el recorrido del cliente mediante el Mapa de participación.
 feature: Smart Campaigns
 role: User
 level: Beginner
@@ -8,9 +8,9 @@ doc-type: Feature Video
 last-substantial-update: 2023-07-31T00:00:00Z
 jira: KT-13741
 thumbnail: 3422235.jpeg
-source-git-commit: 8296e335005687d23bba7e67684669ca056b67cf
+source-git-commit: 9673f463cb97b66512f31cb22398dd487cc4e036
 workflow-type: tm+mt
-source-wordcount: '44'
+source-wordcount: '50'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # Asignación de participación a campañas anidadas
 
-Descifrar campañas interconectadas y profundamente anidadas para obtener una mejor visibilidad de todo el recorrido del cliente mediante el mapa de participación.
+Aprenda a descifrar campañas interconectadas y profundamente anidadas para obtener una mejor visibilidad de todo el recorrido del cliente mediante el Mapa de participación.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422235/?learn=on)
