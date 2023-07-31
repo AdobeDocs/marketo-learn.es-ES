@@ -2,9 +2,9 @@
 user-guide-title: Tutoriales de Marketo Engage
 user-guide-description: Una colección de vídeos y tutoriales para Adobe Marketo Engage.
 breadcrumb-title: Tutoriales de Marketo Engage
-source-git-commit: 8c572e543d2c1c0b1f5a3b2b73fc0f19888c3878
+source-git-commit: a662b700709081a7f071c01e95f5faca8e1e3139
 workflow-type: tm+mt
-source-wordcount: '280'
+source-wordcount: '295'
 ht-degree: 10%
 
 ---
@@ -32,6 +32,10 @@ ht-degree: 10%
       + [Creación y medición de un programa predeterminado](/help/programs/create-and-measure-default-programs.md)
       + [Aproveche la flexibilidad de los programas predeterminados](/help/programs/leverage-the-flexibility-of-default-programs.md)
    + [Programas de participación](/help/programs/engagement-programs.md)
+   + Mapas de participación {#engagement-maps}
+      + [Información general del mapa de participación](help/campaigns/engagement-maps/engagement-map-overview.md)
+      + [Asignación de participación a campañas anidadas](help/campaigns/engagement-maps/engagement-map-nested-campaign.md)
+      + [Detección y resolución de errores del mapa de participación](/help/engagement-maps/engagement-map-error-detection-and-resolution.md)
 + Marketing por correo electrónico {#email-marketing}
    + [Correo electrónico programado](/help/email-marketing/scheduled-email-learn.md)
    + [Recorrido del correo electrónico programado](/help/email-marketing/scheduled-email-watch.md)
@@ -61,7 +65,7 @@ ht-degree: 10%
    + [Guía de marketing social](/help/cross-channel-marketing/social-marketing-watch.md)
    + [Personalización web](/help/cross-channel-marketing/web-personalization-learn.md)
    + [Guía de personalización web](/help/cross-channel-marketing/web-personalization-watch.md)
-+ Chat dinámico {#dynamic-chat}
++ Dynamic Chat {#dynamic-chat}
    + [Tutoriales de Dynamic Chat](/help/dynamic-chat/dynamic-chat-overview.md)
    + [Recorrido del producto](/help/dynamic-chat/product-tour.md)
    + [Instalación e instalación](/help/dynamic-chat/setup.md)
