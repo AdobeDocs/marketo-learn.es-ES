@@ -4,14 +4,14 @@ description: Obtenga información sobre los informes clave dentro de Marketo Eng
 role: User
 level: Beginner
 doc-type: Feature Video
-last-substantial-update: 2023-05-30T00:00:00Z
+last-substantial-update: 2023-09-06T00:00:00Z
 jira: KT-13261
 thumbnail: 3420138.jpeg
-hide: true
-hidefromtoc: true
+hide: false
+hidefromtoc: false
 exl-id: 6110c26a-5920-4b98-82fa-bbe76f402a71
 feature: Reporting
-source-git-commit: 82ba4de18e8527cbd7cee3b0f63b51cb092e2602
+source-git-commit: 38e33ae7403649ae26c138cbfa74b9fbfab738a3
 workflow-type: tm+mt
 source-wordcount: '117'
 ht-degree: 0%
