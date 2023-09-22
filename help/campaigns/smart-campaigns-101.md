@@ -9,9 +9,9 @@ jira: KT-13263
 thumbnail: 3420096.jpeg
 exl-id: a9349c7f-0590-4d7c-89cc-a86fec8cdc40
 feature: Smart Campaigns
-source-git-commit: 433b00dc5dc1b7dde2931c6b9eaa8a403eae2415
+source-git-commit: 63d4aea1c818d35724c0cdc14e69ea00eb06b4a0
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '115'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Las campañas inteligentes son el motor de Marketo. Además de utilizar campañas inteligentes para enviar correos electrónicos y programas, puede utilizar campañas inteligentes para una variedad de casos de uso. Descubra cómo puede utilizar campañas inteligentes para la normalización de datos y alertas automatizadas.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420096/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3420096/?quality=12&learn=on){transcript=true}
 
 
 ## Recursos adicionales

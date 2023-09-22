@@ -1,7 +1,7 @@
 ---
-source-git-commit: eb2c2bc28f352b0fc2681e2b20fe94e86a459a41
+source-git-commit: 63d4aea1c818d35724c0cdc14e69ea00eb06b4a0
 workflow-type: tm+mt
-source-wordcount: '101'
+source-wordcount: '103'
 ht-degree: 0%
 
 ---
@@ -9,7 +9,7 @@ ht-degree: 0%
 
 Los programas representan una única iniciativa de marketing. Aprenda a aprovecharlos junto con las campañas para llegar a su audiencia de varias formas.
 
->[!VIDEO](https://video.tv.adobe.com/v/3418042/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3418042/?quality=12&learn=on){transcript=true}
 
 ## Recursos adicionales
 

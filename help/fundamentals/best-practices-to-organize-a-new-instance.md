@@ -8,9 +8,9 @@ last-substantial-update: 2023-07-11T00:00:00Z
 jira: KT-13608
 thumbnail: 3421577.jpeg
 feature: Getting Started
-source-git-commit: 433b00dc5dc1b7dde2931c6b9eaa8a403eae2415
+source-git-commit: 63d4aea1c818d35724c0cdc14e69ea00eb06b4a0
 workflow-type: tm+mt
-source-wordcount: '210'
+source-wordcount: '212'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Cuando empiece a trabajar con Marketo Engage, la organización es clave. Mantenerse organizado en la instancia facilita al usuario y a los compañeros el seguimiento de las campañas, los programas y los recursos. Aprenda a organizar su árbol de navegación en [!UICONTROL Actividades de marketing] uso de carpetas, convenciones de nomenclatura estándar y funciones como la clonación para trabajar fácilmente con sus compañeros de trabajo en un nuevo [!DNL Marketo Engage] ejemplo. 
 
->[!VIDEO](https://video.tv.adobe.com/v/3421577/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3421577/?learn=on){transcript=true}
 
 ## Recursos adicionales
 

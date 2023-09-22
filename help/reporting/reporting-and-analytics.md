@@ -9,9 +9,9 @@ jira: KT-13219
 thumbnail: 3419295.jpeg
 exl-id: 735587c7-01e8-47d8-9514-ceea1c02bd65
 feature: Reporting
-source-git-commit: 433b00dc5dc1b7dde2931c6b9eaa8a403eae2415
+source-git-commit: 63d4aea1c818d35724c0cdc14e69ea00eb06b4a0
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '99'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Obtenga información sobre cómo navegar por la sección Analytics and Database para extraer diferentes informes predeterminados en Marketo Engage.
 
->[!VIDEO](https://video.tv.adobe.com/v/3419295/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3419295/?learn=on){transcript=true}
 
 ## Recursos adicionales
 

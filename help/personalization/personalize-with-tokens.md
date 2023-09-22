@@ -8,9 +8,9 @@ doc-type: Feature Video
 last-substantial-update: 2023-07-21T00:00:00Z
 jira: KT-13611
 thumbnail: 3421605.jpeg
-source-git-commit: 8c572e543d2c1c0b1f5a3b2b73fc0f19888c3878
+source-git-commit: 63d4aea1c818d35724c0cdc14e69ea00eb06b4a0
 workflow-type: tm+mt
-source-wordcount: '64'
+source-wordcount: '66'
 ht-degree: 0%
 
 ---
@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Aprenda a utilizar tokens en programas de Marketo. El uso de tokens en programas de Marketo puede ayudar en la personalización, acelerar el tiempo de generación del programa y reducir la probabilidad de errores tipográficos o humanos.
 
->[!VIDEO](https://video.tv.adobe.com/v/3421605/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3421605/?learn=on){transcript=true}

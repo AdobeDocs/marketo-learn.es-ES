@@ -7,9 +7,9 @@ jira: KT-10722
 thumbnail: 345407.jpeg
 exl-id: 42268471-dc3e-46d9-9729-84494c8b6723
 feature: Social
-source-git-commit: 433b00dc5dc1b7dde2931c6b9eaa8a403eae2415
+source-git-commit: 63d4aea1c818d35724c0cdc14e69ea00eb06b4a0
 workflow-type: tm+mt
-source-wordcount: '60'
+source-wordcount: '62'
 ht-degree: 0%
 
 ---
@@ -18,4 +18,4 @@ ht-degree: 0%
 
 ¿No está seguro de cómo utilizar mejor el marketing social? Aprenda a aumentar de forma eficaz la imagen de marca y a fomentar la participación de la marca mediante su canal social.
 
->[!VIDEO](https://video.tv.adobe.com/v/345407/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/345407/?quality=12&learn=on){transcript=true}

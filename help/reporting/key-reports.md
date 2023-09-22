@@ -11,9 +11,9 @@ hide: false
 hidefromtoc: false
 exl-id: 6110c26a-5920-4b98-82fa-bbe76f402a71
 feature: Reporting
-source-git-commit: 38e33ae7403649ae26c138cbfa74b9fbfab738a3
+source-git-commit: 63d4aea1c818d35724c0cdc14e69ea00eb06b4a0
 workflow-type: tm+mt
-source-wordcount: '117'
+source-wordcount: '119'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Obtenga información sobre los informes clave dentro de Marketo Engage y cómo extraerlos.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420138/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3420138/?learn=on){transcript=true}
 
 ## Recursos adicionales
 
