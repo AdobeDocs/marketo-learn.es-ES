@@ -6,10 +6,10 @@ role: User
 level: Beginner
 exl-id: 3dadcf5d-1a06-44d2-839a-99ac1dbc2eae
 feature: Dynamic Chat
-source-git-commit: 433b00dc5dc1b7dde2931c6b9eaa8a403eae2415
+source-git-commit: d6f93ad6b4216c9c886a288a23918f9f25187165
 workflow-type: tm+mt
-source-wordcount: '325'
-ht-degree: 9%
+source-wordcount: '353'
+ht-degree: 10%
 
 ---
 
@@ -19,31 +19,41 @@ ht-degree: 9%
 
 Bienvenido a [!UICONTROL Dynamic Chat]  sitio de tutoriales de. Utilice estos tutoriales junto con la documentación para comprender mejor cómo usar [!UICONTROL Dynamic Chat]  para crear conversaciones personalizadas. Los siguientes temas pueden ayudarle a empezar:
 
-* **[Un rápido recorrido por los productos](product-tour.md)**
-  *Obtenga información general sobre el producto completo y descubra cómo puede aprovecharlo [!UICONTROL Dynamic Chat].*
-* **[Configuración e instalación de un bot de chat](setup.md)**
-  *Conozca los pasos para configurar su [!UICONTROL Dynamic Chat]  suscripción.*
-* **[Activar la integración de Marketo con [!UICONTROL Dynamic Chat]](marketo-integration.md)**
-  *Dirija sus visitantes web a conversaciones y personalícelos con la información de posibles clientes de Marketo.*
-* **[Adición y administración de usuarios de [!UICONTROL Dynamic Chat]](user-management.md)**
-  *Obtenga información sobre cómo añadir o administrar usuarios en [!UICONTROL Dynamic Chat] .*
-* **[Creación y administración de cuadros de diálogo personalizados](dialogue-management.md)**
-  *Aprenda a crear cuadros de diálogo para atraer rápidamente a su visitante web con [!UICONTROL Dynamic Chat].*
-* **[Permite que tus clientes potenciales reserven reuniones con tus ventas](meeting-booking.md)**
-  *Acelere la conexión con las ventas para aquellos [!DNL target] cuentas con funciones de reservas de reuniones.*
-* **[Publicación en 15 minutos](go-live-in-15-minutes.md)**
-  *Una guía paso a paso para ayudarle a publicar su primer cuadro de diálogo con [!UICONTROL Dynamic Chat]  ¡en solo 15 minutos!*
-* **[Incrustar PDF en conversaciones](document-cloud-integration.md)**
-  *Compartir documentos del PDF en conversaciones personalizadas que diseñe en [!UICONTROL Dynamic Chat].*
-* **[Buscar en el Diseñador de secuencias](search-in-stream-designer.md)**
-  *Una búsqueda rápida puede ayudarle a llegar a cualquier tarjeta de su diseñador de flujo en un solo clic.*
-* **[Captura de atributos deducidos](capture-inferred-attributes.md)**
-  *Podemos identificar y rellenar atributos deducidos de cada posible cliente capturado mediante Dynamic Chat aprovechando el ID de Munchkin.*
-* **[Previsualización de diálogo](dialogue-preview.md)**
-  *Previsualizar el cuadro de diálogo antes de publicar es muy fácil con la función de previsualización de cuadros de diálogo.*
-* **[Informe de participación](engagement-report.md)**
-  *Vea las tendencias de cómo los visitantes web interactúan con el diálogo*
-* **[Globalización del contenido estático](globalization-of-static-content.md)**
-  *Puede personalizar el contenido estático/del sistema en el idioma que prefiera.*
-* **[Funciones y permisos](roles-and-permissions.md)**
-  *Descubra cómo puede crear nuevas funciones y establecer permisos para los usuarios de Dynamic Chat.*
+* Información general
+   * **[Un rápido recorrido por los productos](product-tour.md)**
+     *Obtenga información general sobre el producto completo y descubra cómo puede aprovechar [!UICONTROL Dynamic Chat].*
+   * **[Publicación en 15 minutos](go-live-in-15-minutes.md)**
+     *Una guía paso a paso para ayudarle a publicar su primer cuadro de diálogo con [!UICONTROL Dynamic Chat]  ¡en solo 15 minutos!*
+* Instalación
+   * **[Configuración e instalación de un bot de chat](setup.md)**
+     *Conozca los pasos para configurar su [!UICONTROL Dynamic Chat]  suscripción.*
+   * **[Activar la integración de Marketo con [!UICONTROL Dynamic Chat]](marketo-integration.md)**
+     *Dirija sus visitantes web a conversaciones y personalícelos con la información de posibles clientes de Marketo.*
+   * **[Adición y administración de usuarios de [!UICONTROL Dynamic Chat]](user-management.md)**
+     *Obtenga información sobre cómo añadir o administrar usuarios en [!UICONTROL Dynamic Chat] .*
+   * **[Funciones y permisos](roles-and-permissions.md)**
+     *Descubra cómo puede crear nuevas funciones y establecer permisos para los usuarios de Dynamic Chat.*
+   * **[Gestión de agentes](agent-management.md)**
+     *Obtenga información sobre cómo administrar agentes.*
+* Chat automatizado
+   * **[Creación y administración de cuadros de diálogo personalizados](dialogue-management.md)**
+     *Aprenda a crear cuadros de diálogo para atraer rápidamente a su visitante web con [!UICONTROL Dynamic Chat].*
+   * **[Incrustar PDF en conversaciones](document-cloud-integration.md)**
+     *Compartir documentos del PDF en conversaciones personalizadas que diseñe en [!UICONTROL Dynamic Chat].*
+   * **[Buscar en el Diseñador de secuencias](search-in-stream-designer.md)**
+     *Una búsqueda rápida puede ayudarle a llegar a cualquier tarjeta de su diseñador de flujo en un solo clic.*
+   * **[Captura de atributos deducidos](capture-inferred-attributes.md)**
+     *Podemos identificar y rellenar atributos deducidos de cada posible cliente capturado mediante Dynamic Chat aprovechando el ID de Munchkin.*
+   * **[Previsualización de diálogo](dialogue-preview.md)**
+     *Previsualizar el cuadro de diálogo antes de publicar es muy fácil con la función de previsualización de cuadros de diálogo.*
+   * **[Globalización del contenido estático](globalization-of-static-content.md)**
+     *Puede personalizar el contenido estático/del sistema en el idioma que prefiera.*
+* Chat en vivo y reserva de reuniones
+   * **[Configuración del chat en directo](set-up-live-chat.md)**
+     *Aprenda a configurar el chat en vivo.*
+   * **[Permite que tus clientes potenciales reserven reuniones con tus ventas](meeting-booking.md)**
+     *Acelere la conexión con las ventas para aquellos [!DNL target] cuentas con funciones de reservas de reuniones.*
+* Analytics
+   * **[Informe de participación](engagement-report.md)**
+     *Vea las tendencias de cómo los visitantes web interactúan con el diálogo*
+
