@@ -3,9 +3,9 @@ user-guide-title: Tutoriales de Marketo Engage
 user-guide-description: Una colección de vídeos y tutoriales para Adobe Marketo Engage.
 breadcrumb-title: Tutoriales de Marketo Engage
 auto-video-transcripts: true
-source-git-commit: d6f93ad6b4216c9c886a288a23918f9f25187165
+source-git-commit: 01e5afc2449579fe995ffb670afbe0a42ed53353
 workflow-type: tm+mt
-source-wordcount: '304'
+source-wordcount: '307'
 ht-degree: 11%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 11%
    + [Prácticas recomendadas para organizar una nueva instancia](/help/fundamentals/best-practices-to-organize-a-new-instance.md)
    + [Prácticas recomendadas para crear programas básicos](/help/fundamentals/best-practices-for-creating-foundational-programs.md)
    + [Personalizar con tokens](/help/personalization/personalize-with-tokens.md)
-   + [Auditoría de instancias heredadas](/help/fundamentals/inherted-instance-audit.md)
+   + [Auditoría de una instancia heredada](/help/fundamentals/inherted-instance-audit.md)
 + Programas y campañas {#programs-and-campaigns}
    + [Explicación de los programas y campañas](/help/programs/understanding-programs-and-campaigns.md)
    + [Campañas inteligentes 101](/help/campaigns/smart-campaigns-101.md)
@@ -91,8 +91,8 @@ ht-degree: 11%
    + [Acceso a la instancia de acciones de Sales Insight](/help/sales-insight-actions/accessing-your-sales-insight-actions-instance.md)
    + [Configurar el registro de actividades de ventas en [!DNL Salesforce]](/help/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md)
 + Administración de datos y posibles clientes {#lead-and-data-management}
-   + [Puntuación de posibles clientes](/help/lead-and-data-management/lead-scoring-learn.md)
-   + [Introducción a la puntuación de posibles clientes](/help/lead-and-data-management/lead-scoring-watch.md)
+   + [Puntuación de posible cliente/persona](/help/lead-and-data-management/lead-scoring-learn.md)
+   + [Guía de puntuación del posible cliente/persona](/help/lead-and-data-management/lead-scoring-watch.md)
    + [Centro de suscripciones](/help/lead-and-data-management/subscription-center-learn.md)
    + [Recorrido del centro de suscripciones](/help/lead-and-data-management/subscription-center-watch.md)
    + [Sincronización CRM](/help/lead-and-data-management/crm-sync-learn.md)

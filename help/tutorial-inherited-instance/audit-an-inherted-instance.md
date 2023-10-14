@@ -10,9 +10,9 @@ last-substantial-update: 2023-08-08T00:00:00Z
 jira: KT-13762
 thumbnail: 3422473.jpeg
 hide: true
-source-git-commit: b614aa134ee0ccbbfd70c6ab73339287d6ebb27a
+source-git-commit: e7fe8da128a1c46620484d9b92823ba51791a671
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '169'
 ht-degree: 0%
 
 ---
@@ -24,4 +24,4 @@ Heredar una instancia de Marketo Engage puede ser un momento estresante, tanto s
 
 En este tutorial, le guiaremos por las secciones más importantes dentro de Marketo Engage, incluidas Administración, Actividades de marketing, Design Studio y Base de datos, y le proporcionaremos sugerencias para la auditoría y la optimización a lo largo del camino.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422473/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422473/?learn=on)

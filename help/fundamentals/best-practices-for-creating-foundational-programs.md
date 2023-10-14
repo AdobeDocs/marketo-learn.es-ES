@@ -1,6 +1,6 @@
 ---
 title: Prácticas recomendadas para crear programas básicos
-description: Conozca los cuatro tipos de programas, cómo importar programas, programas de puntuación de posibles clientes y definición de etiquetas de canal. Conozca los casos de uso comunes y las prácticas recomendadas.
+description: Conozca los cuatro tipos de programas, cómo importar programas, programas de puntuación de posibles clientes/personas y definición de etiquetas de canal. Conozca los casos de uso comunes y las prácticas recomendadas.
 role: Admin
 level: Beginner
 doc-type: Feature Video
@@ -8,17 +8,17 @@ last-substantial-update: 2023-07-11T00:00:00Z
 jira: KT-13567
 thumbnail: 3421275.jpeg
 feature: Programs
-source-git-commit: 63d4aea1c818d35724c0cdc14e69ea00eb06b4a0
+exl-id: 2b850b08-3e9d-4bfb-8ac1-21fd9bdeaf83
+source-git-commit: b614aa134ee0ccbbfd70c6ab73339287d6ebb27a
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '148'
 ht-degree: 0%
 
 ---
 
-
 # Prácticas recomendadas para crear programas básicos
 
-Conozca los cuatro tipos de programas, cómo importar programas, programas de puntuación de posibles clientes y definición de etiquetas de canal. Conozca los casos de uso comunes y las prácticas recomendadas.
+Conozca los cuatro tipos de programas, cómo importar programas, programas de puntuación de posibles clientes/personas y definición de etiquetas de canal. Conozca los casos de uso comunes y las prácticas recomendadas.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421275/?learn=on){transcript=true}
 
