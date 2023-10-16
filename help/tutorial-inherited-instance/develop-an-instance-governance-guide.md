@@ -5,11 +5,11 @@ feature: Administration
 role: Admin
 level: Intermediate, Experienced
 doc-type: Tutorial
-last-substantial-update: 2023-10-12T00:00:00Z
+last-substantial-update: 2023-10-16T00:00:00Z
 jira: KT-14103
 thumbnail: KT-14103.jpeg
-hide: true
-source-git-commit: e7fe8da128a1c46620484d9b92823ba51791a671
+hide: false
+source-git-commit: 4dc6aeed353fdd8bac960603af22b060ae2d7f00
 workflow-type: tm+mt
 source-wordcount: '906'
 ht-degree: 1%
@@ -21,7 +21,7 @@ ht-degree: 1%
 
 A medida que avanza hacia un legado [!DNL Marketo Engage] Por ejemplo, a menudo conlleva el desafío de carecer de documentación técnica y funcional actualizada. Como administrador, establecer directrices para garantizar un control adecuado de las instancias es una responsabilidad central que no se puede pasar por alto. Es una de las estrategias críticas para [aumente la eficacia mientras trabaja en una instancia de Marketo Engage consolidada](https://nation.marketo.com/t5/champion-program-blogs/3-tips-to-increase-your-efficiency-in-an-inherited-instance/ba-p/247582).
 
-Este tutorial paso a paso procede de [!DNL Adobe Marketo Champion], Nick Hajdin, le guiará a través de este proceso para esbozar la configuración de su instancia, documentar sus programas operativos principales y mantener un [!DNL changelog] para aplicar una política de gobernanza estricta.
+Este tutorial paso a paso procede de [!DNL Adobe Marketo Champion] (2018), Nick Hajdin, le guiará a través de este proceso para esbozar la configuración de su instancia, documentar sus programas operativos principales y mantener un [!DNL changelog] para aplicar una política de gobernanza estricta.
 
 ## ¿Por qué desarrollar una guía y documentación de gobernanza de instancias para su instancia heredada?
 
