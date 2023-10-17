@@ -6,9 +6,9 @@ role: User
 level: Beginner
 exl-id: 3dadcf5d-1a06-44d2-839a-99ac1dbc2eae
 feature: Dynamic Chat
-source-git-commit: d6f93ad6b4216c9c886a288a23918f9f25187165
+source-git-commit: 0a5330152f2bf8326c8642e09cc7ba6099869283
 workflow-type: tm+mt
-source-wordcount: '353'
+source-wordcount: '369'
 ht-degree: 10%
 
 ---
@@ -48,6 +48,8 @@ Bienvenido a [!UICONTROL Dynamic Chat]  sitio de tutoriales de. Utilice estos tu
      *Previsualizar el cuadro de diálogo antes de publicar es muy fácil con la función de previsualización de cuadros de diálogo.*
    * **[Globalización del contenido estático](globalization-of-static-content.md)**
      *Puede personalizar el contenido estático/del sistema en el idioma que prefiera.*
+   * **[Formularios de conversación](conversational-forms.md)**
+     *Aprenda a atraer a los visitantes del sitio web inmediatamente después de rellenar un formulario.*
 * Chat en vivo y reserva de reuniones
    * **[Configuración del chat en directo](set-up-live-chat.md)**
      *Aprenda a configurar el chat en vivo.*
