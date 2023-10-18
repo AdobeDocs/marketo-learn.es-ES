@@ -10,7 +10,7 @@ doc-type: Feature Video
 last-substantial-update: 2023-10-17T00:00:00Z
 jira: KT-14113
 thumbnail: 3424719.jpeg
-source-git-commit: a2a4c986fa5f46682c79a61a539f057d74eef6a1
+source-git-commit: a40cb276fbf63d4707d6e238c4b536f7629a748e
 workflow-type: tm+mt
 source-wordcount: '290'
 ht-degree: 0%
@@ -28,7 +28,7 @@ Descubra cómo Marketo Engage y Salesforce trabajan juntos para mantener sus dat
 
 ## Vínculos utilizados en el vídeo
 
-* [Explicación de la sincronización de Salesforce](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html)]
+* [Explicación de la sincronización de Salesforce](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html)
 
 * [Adición de campos de Marketo a Salesforce (Enterprise/Unlimited)](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.html)
 
@@ -36,7 +36,7 @@ Descubra cómo Marketo Engage y Salesforce trabajan juntos para mantener sus dat
 
 * [Conectar Marketo y Salesforce (Enterprise/Unlimited)](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.html)
 
-* [Los usuarios tendrían que Configurar la aplicación conectada en el lado de Salesforce antes de continuar con la sincronización de Marketo y Salesforce.](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0.html)]
+* [Los usuarios tendrían que Configurar la aplicación conectada en el lado de Salesforce antes de continuar con la sincronización de Marketo y Salesforce.](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0.html)
 
 * [Estado de sincronización de Salesforce](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/salesforce-sync-status.html)
 
