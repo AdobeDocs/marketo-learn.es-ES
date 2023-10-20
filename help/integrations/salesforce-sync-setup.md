@@ -10,17 +10,15 @@ doc-type: Feature Video
 last-substantial-update: 2023-10-17T00:00:00Z
 jira: KT-14113
 thumbnail: 3424719.jpeg
-source-git-commit: a40cb276fbf63d4707d6e238c4b536f7629a748e
+source-git-commit: d7daf2d9664baafeafd887d27cf412d7a183dd76
 workflow-type: tm+mt
-source-wordcount: '290'
+source-wordcount: '286'
 ht-degree: 0%
 
 ---
 
 
 # Introducción a la sincronización con Salesforce
-
-*Fuente: Adobe Marketo Champions*
 
 Descubra cómo Marketo Engage y Salesforce trabajan juntos para mantener sus datos de ventas y marketing sincronizados. Este tutorial le guiará por el funcionamiento de la sincronización, la configuración de la sincronización para que los datos fluyan correctamente y los aspectos esenciales para comprobar que funciona correctamente. Se comparten sugerencias y trucos adicionales para administrar la sincronización de Salesforce que le ayudarán a seleccionar los campos para la sincronización y a ocultar los campos que ya no son necesarios.
 
