@@ -3,10 +3,10 @@ user-guide-title: Tutoriales de Marketo Engage
 user-guide-description: Una colección de vídeos y tutoriales para Adobe Marketo Engage.
 breadcrumb-title: Tutoriales de Marketo Engage
 auto-video-transcripts: true
-source-git-commit: e131a83a6314b77d842b003824b9e33649ab224c
+source-git-commit: 0ec4c6cada3b33a40b9e29a8dfaa3360208e589d
 workflow-type: tm+mt
-source-wordcount: '332'
-ht-degree: 10%
+source-wordcount: '322'
+ht-degree: 9%
 
 ---
 
@@ -38,7 +38,7 @@ ht-degree: 10%
       + [Información general del mapa de participación](/help/engagement-maps/engagement-map-overview.md)
       + [Asignación de participación a campañas anidadas](/help/engagement-maps/engagement-map-nested-campaign.md)
       + [Detección y resolución de errores del mapa de participación](/help/engagement-maps/engagement-map-error-detection-and-resolution.md)
-+ Marketing por correo electrónico {#email-marketing}
++ Marketing por email {#email-marketing}
    + [Correo electrónico programado](/help/email-marketing/scheduled-email-learn.md)
    + [Recorrido del correo electrónico programado](/help/email-marketing/scheduled-email-watch.md)
    + [Newsletter personalizada](/help/email-marketing/personalized-newsletter-learn.md)
@@ -87,7 +87,6 @@ ht-degree: 10%
    + [Previsualización de diálogo](/help/dynamic-chat/dialogue-preview.md)
    + [Informe de participación](/help/dynamic-chat/engagement-report.md)
    + [Globalización del contenido estático](/help/dynamic-chat/globalization-of-static-content.md)
-   + [Funciones y permisos](/help/dynamic-chat/roles-and-permissions.md)
 + Acciones de perspectiva de ventas {#sales-insight-actions}
    + [Información general](/help/sales-insight-actions/overview.md)
    + [Resumen de acciones de Sales Insight](/help/sales-insight-actions/sales-insight-actions-overview.md)

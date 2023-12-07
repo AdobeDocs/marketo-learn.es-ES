@@ -6,10 +6,10 @@ role: User
 level: Beginner
 exl-id: 3dadcf5d-1a06-44d2-839a-99ac1dbc2eae
 feature: Dynamic Chat
-source-git-commit: d16a98ae56fecd3db1b775428ac52682f1cd73cb
+source-git-commit: 0ec4c6cada3b33a40b9e29a8dfaa3360208e589d
 workflow-type: tm+mt
-source-wordcount: '405'
-ht-degree: 9%
+source-wordcount: '392'
+ht-degree: 8%
 
 ---
 
@@ -33,9 +33,7 @@ Bienvenido a [!UICONTROL Dynamic Chat]  sitio de tutoriales de. Utilice estos tu
      *Dirija sus visitantes web a conversaciones y personalícelos con la información de posibles clientes de Marketo.*
    * **[Adición y administración de usuarios de [!UICONTROL Dynamic Chat]](user-management.md)**
      *Obtenga información sobre cómo añadir o administrar usuarios en [!UICONTROL Dynamic Chat] .*
-   * **[Funciones y permisos](roles-and-permissions.md)**
-     *Descubra cómo puede crear nuevas funciones y establecer permisos para los usuarios de Dynamic Chat.*
-   * **[Gestión de agentes](agent-management.md)**
+   * **[Administración de agentes](agent-management.md)**
      *Obtenga información sobre cómo administrar agentes.*
 * Chat automatizado
    * **[Creación y administración de cuadros de diálogo personalizados](dialogue-management.md)**
@@ -50,7 +48,7 @@ Bienvenido a [!UICONTROL Dynamic Chat]  sitio de tutoriales de. Utilice estos tu
      *Previsualizar el cuadro de diálogo antes de publicar es muy fácil con la función de previsualización de cuadros de diálogo.*
    * **[Globalización del contenido estático](globalization-of-static-content.md)**
      *Puede personalizar el contenido estático/del sistema en el idioma que prefiera.*
-   * **[Formularios de conversación](conversational-forms.md)**
+   * **[Conversational Forms](conversational-forms.md)**
      *Aprenda a atraer a los visitantes del sitio web inmediatamente después de rellenar un formulario.*
    * **[SDK de conversaciones](conversations-sdk.md)**
      *Aprenda a implementar el SDK de Conversaciones para convertir cualquier clic de CTA en una conversación atractiva.*
