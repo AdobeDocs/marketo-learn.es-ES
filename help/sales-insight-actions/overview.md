@@ -6,9 +6,9 @@ role: User, Admin, Leader
 level: Beginner, Intermediate, Experienced
 exl-id: fac23fde-1fc8-4710-a5f5-2e19a2618d6d
 feature: Sales Insight Actions
-source-git-commit: 433b00dc5dc1b7dde2931c6b9eaa8a403eae2415
+source-git-commit: 063ac280987d4a2b68245f51cde1199ea93319df
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '158'
 ht-degree: 0%
 
 ---
@@ -18,10 +18,6 @@ ht-degree: 0%
 ![](assets/header.png)
 
 Uso [!UICONTROL Acciones de perspectiva de ventas] para acelerar los esfuerzos de prospección con herramientas de inteligencia y participación impulsadas por marketing en un solo flujo de trabajo.
-
->[!AVAILABILITY]
->
->Actualmente, esta función se está implementando por fases. Póngase en contacto con el administrador de éxito del cliente o envíe un correo electrónico a `sales-insights(at)adobe(dot)com` para solicitar acceso.
 
 ## Tutorials destacados {#featured-tutorials}
 
@@ -63,11 +59,3 @@ Uso [!UICONTROL Acciones de perspectiva de ventas] para acelerar los esfuerzos d
 </td>
 </tr>
 </table>
-
-## Soporte personalizado {#personalized-support}
-
-Para recibir soporte personalizado para esta función, [programar una llamada](https://outlook.office365.com/owa/calendar/AdobeInc1@adobe.onmicrosoft.com/bookings/) con el equipo de productos.
-
-## Informar sobre un error/comentario {#report-a-bug-feedback}
-
-Si encuentra un error o tiene comentarios generales sobre esta función, envíenos un correo electrónico a `sales-insights(at)adobe(dot)com`.
