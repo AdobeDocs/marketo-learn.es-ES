@@ -3,10 +3,10 @@ user-guide-title: Tutoriales de Marketo Engage
 user-guide-description: Una colección de vídeos y tutoriales para Adobe Marketo Engage.
 breadcrumb-title: Tutoriales de Marketo Engage
 auto-video-transcripts: true
-source-git-commit: 1b43db90dcd3d8427a53b1aed861c2886e8b6d9a
+source-git-commit: e4d3ae7bb16fa9e1ab58a79cedd8378dbbf56794
 workflow-type: tm+mt
-source-wordcount: '326'
-ht-degree: 10%
+source-wordcount: '357'
+ht-degree: 9%
 
 ---
 
@@ -109,7 +109,13 @@ ht-degree: 10%
    + [Creación de un programa de eventos](/help/events/events-learn.md)
    + [Seminarios web](/help/events/webinar-learn.md)
    + [Recorrido de seminarios web](/help/events/webinar-watch.md)
+   + [Seminarios web interactivos Administración de usuarios y licencias](/help/events/interactive-webinars-user-and-license-management.md)
+   + [Creación de programas de seminarios web interactivos](/help/events/interactive-webinars-event-program-creation.md)
+   + [Resumen del programa de eventos de seminarios web interactivos](/help/events/interactive-webinars-event-program-overview.md)
+   + [Configuración de eventos de seminarios web interactivos](/help/events/interactive-webinars-event-configuration.md)
    + [Diseñar un seminario web interactivo eficaz](/help/events/design-an-effective-interactive-webinar.md)
+   + [Entrega de eventos de seminarios web interactivos](/help/events/interactive-webinars-event-delivery.md)
+   + [Seminarios web interactivos Publicar acciones e información del evento](/help/events/interactive-webinars-post-event-insights-and-actions.md)
 + Informes y análisis {#reporting}
    + [Informes y análisis](/help/reporting/reporting-and-analytics.md)
    + [Informes clave](/help/reporting/key-reports.md)
