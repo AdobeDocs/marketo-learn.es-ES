@@ -6,9 +6,9 @@ role: User
 level: Beginner
 exl-id: 3dadcf5d-1a06-44d2-839a-99ac1dbc2eae
 feature: Dynamic Chat
-source-git-commit: 1b43db90dcd3d8427a53b1aed861c2886e8b6d9a
+source-git-commit: 02c297e50ae5ba663afe024766877e72ed94fceb
 workflow-type: tm+mt
-source-wordcount: '439'
+source-wordcount: '464'
 ht-degree: 7%
 
 ---
@@ -52,6 +52,8 @@ Bienvenido a [!UICONTROL Dynamic Chat]  sitio de tutoriales de. Utilice estos tu
      *Aprenda a atraer a los visitantes del sitio web inmediatamente después de rellenar un formulario.*
    * **[SDK de conversaciones](conversations-sdk.md)**
      *Aprenda a implementar el SDK de Conversaciones para convertir cualquier clic de CTA en una conversación atractiva.*
+   * **[Flujos reutilizables](reusable-flows.md)**
+     *Simplifica el diseño y la gestión de tus conversaciones con la nueva tarjeta de Flujo de Conversación. Cree una secuencia conversacional una vez y reúna varios cuadros de diálogo para adaptarla a sus necesidades.*
    * **[Páginas de aterrizaje de conversación](conversational-landing-pages.md)**
      *Con solo unos clics, instale Flujos de conversación Dynamic Chat en cualquier página de aterrizaje (páginas de aterrizaje de Marketo o personalizadas) y convierta cualquier vínculo o botón en un déclencheur de conversación.*
 * Chat en vivo y reserva de reuniones
