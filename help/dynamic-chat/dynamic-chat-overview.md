@@ -1,15 +1,16 @@
 ---
 title: Tutoriales de Dynamic Chat
 description: Obtenga información acerca de Dynamic Chat en Adobe Experience League. Utilice estos tutoriales junto con la documentación para comprender mejor cómo utilizar Dynamic Chat con el fin de crear conversaciones personalizadas.
+short-description: Utilice estos tutoriales junto con la documentación del producto para comprender mejor las distintas formas en que Dynamic Chat puede trabajar para usted.
 doc-type: overview-page
 role: User
 level: Beginner
 exl-id: 3dadcf5d-1a06-44d2-839a-99ac1dbc2eae
 feature: Dynamic Chat
-source-git-commit: 02c297e50ae5ba663afe024766877e72ed94fceb
+source-git-commit: 081fe7d08986c45f83a8edd1a0805a66e1ff20d6
 workflow-type: tm+mt
-source-wordcount: '464'
-ht-degree: 7%
+source-wordcount: '486'
+ht-degree: 6%
 
 ---
 
@@ -40,7 +41,7 @@ Bienvenido a [!UICONTROL Dynamic Chat]  sitio de tutoriales de. Utilice estos tu
      *Aprenda a crear cuadros de diálogo para atraer rápidamente a su visitante web con [!UICONTROL Dynamic Chat].*
    * **[Incrustar PDF en conversaciones](document-cloud-integration.md)**
      *Compartir documentos del PDF en conversaciones personalizadas que diseñe en [!UICONTROL Dynamic Chat].*
-   * **[Buscar en el Diseñador de secuencias](search-in-stream-designer.md)**
+   * **[Buscar en Stream Designer](search-in-stream-designer.md)**
      *Una búsqueda rápida puede ayudarle a llegar a cualquier tarjeta de su diseñador de flujo en un solo clic.*
    * **[Captura de atributos deducidos](capture-inferred-attributes.md)**
      *Podemos identificar y rellenar atributos deducidos de cada posible cliente capturado mediante Dynamic Chat aprovechando el ID de Munchkin.*

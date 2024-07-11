@@ -1,15 +1,16 @@
 ---
 title: Diseñar un seminario web interactivo y eficaz
 description: Aprenda a crear y diseñar un seminario web interactivo eficaz
+short-description: Aprenda a diseñar un seminario web interactivo y eficaz, el primer paso para garantizar que el evento del seminario web sea atractivo y memorable.
 jira: KT-13352
 thumbnail: 3418602.jpeg
 feature: Events
 role: User
 level: Beginner
 exl-id: 927099a4-009b-45d6-9a32-ba685751ba04
-source-git-commit: 63d4aea1c818d35724c0cdc14e69ea00eb06b4a0
+source-git-commit: 081fe7d08986c45f83a8edd1a0805a66e1ff20d6
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '139'
 ht-degree: 0%
 
 ---
