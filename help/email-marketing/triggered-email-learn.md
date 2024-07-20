@@ -1,6 +1,6 @@
 ---
 title: Obtenga información sobre la creación de campañas de correo electrónico activadas
-description: Aprenda a utilizar [!DNL Marketo] para sacar el máximo partido a los comportamientos de los compradores mediante campañas de correo electrónico activadas que les permitan interactuar con mensajes relevantes y oportunos.
+description: Aprenda a usar [!DNL Marketo] para capitalizar los comportamientos de los compradores mediante campañas de correo electrónico activadas para interactuar con mensajes relevantes y oportunos.
 role: User
 level: Beginner
 jira: KT-10762
@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # Obtenga información sobre la creación de campañas de correo electrónico activadas
 
-Aprenda a utilizar [!DNL Marketo] para sacar el máximo partido a los comportamientos de los compradores mediante campañas de correo electrónico activadas que les permitan interactuar con mensajes relevantes y oportunos.
+Aprenda a usar [!DNL Marketo] para sacar el máximo partido a los comportamientos de los compradores mediante campañas de correo electrónico activadas para interactuar con mensajes relevantes y oportunos.
 
 >[!VIDEO](https://video.tv.adobe.com/v/345479/?quality=12&learn=on){transcript=true}

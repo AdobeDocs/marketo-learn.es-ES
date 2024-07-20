@@ -1,6 +1,6 @@
 ---
 title: Tutorials de acciones de Sales Insight
-description: Uso [!UICONTROL Acciones de perspectiva de ventas] para acelerar los esfuerzos de prospección con herramientas de inteligencia y participación impulsadas por marketing en un solo flujo de trabajo.
+description: Use [!UICONTROL Acciones de perspectiva de ventas] para acelerar los esfuerzos de prospección con herramientas de inteligencia y participación impulsadas por marketing en un solo flujo de trabajo.
 doc-type: overview-page
 role: User, Admin, Leader
 level: Beginner, Intermediate, Experienced
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ![](assets/header.png)
 
-Uso [!UICONTROL Acciones de perspectiva de ventas] para acelerar los esfuerzos de prospección con herramientas de inteligencia y participación impulsadas por marketing en un solo flujo de trabajo.
+Use [!UICONTROL Acciones de perspectiva de ventas] para acelerar los esfuerzos de prospección con herramientas de inteligencia y participación impulsadas por marketing en un solo flujo de trabajo.
 
 ## Tutorials destacados {#featured-tutorials}
 
@@ -25,11 +25,11 @@ Uso [!UICONTROL Acciones de perspectiva de ventas] para acelerar los esfuerzos d
 <tr>
 <td>
 <a href="/help/sales-insight-actions/sales-insight-actions-overview.md"><img alt="imagen en miniatura para Acciones de Sales Insight Información general" src="assets/sales-insight-actions-feature-overview-videothumb.png" /></a>
-<div><a href="/help/sales-insight-actions/sales-insight-actions-overview.md"><strong>Resumen de acciones de Sales Insight</strong></a></div>
+<div><a href="/help/sales-insight-actions/sales-insight-actions-overview.md"><strong>Información general sobre acciones de información de ventas</strong></a></div>
 </td>
 <td>
 <a href="/help/sales-insight-actions/accessing-your-sales-insight-actions-instance.md"><img alt="imagen en miniatura para acceder a su instancia de acciones de Sales Insight" src="assets/accessing-your-sales-insight-actions-instance-videothumb.png" /></a>
-<div><a href="/help/sales-insight-actions/accessing-your-sales-insight-actions-instance.md"><strong>Acceso a la instancia de acciones de Sales Insight</strong></a></div>
+<div><a href="/help/sales-insight-actions/accessing-your-sales-insight-actions-instance.md"><strong>Acceder A Su Instancia De Acciones De Perspectiva De Ventas</strong></a></div>
 </td>
 <td>
 <a href="/help/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md"><img alt="imagen en miniatura para Configurar el registro de actividades de ventas en [!DNL Salesforce]" src="assets/configure-sales-activity-logging-to-salesforce-videothumb.png" /></a>
@@ -44,17 +44,17 @@ Uso [!UICONTROL Acciones de perspectiva de ventas] para acelerar los esfuerzos d
 <tr>
 <td>
 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/sales-insight-actions-feature-overview.html"><img alt="imagen en miniatura para Acciones de Sales Insight Información general de funciones" src="assets/sales-insight-actions-feature-overview-thumb.png" /></a>
-<div><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/sales-insight-actions-feature-overview.html"><strong>Información general sobre acciones de Sales Insight</strong></a></div>
+<div><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/sales-insight-actions-feature-overview.html"><strong>Información general sobre la función Acciones de perspectiva de ventas</strong></a></div>
 <p><em>Acelere los esfuerzos de prospección con herramientas de participación e inteligencia impulsadas por el marketing.</em></p>
 </td>
 <td>
-<a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-checklist.html"><img alt="imagen en miniatura para [!DNL Sales Insight Actions] Guía de incorporación del usuario" src="assets/sales-insight-actions-user-onboarding-guide-thumb.png" /></a>
-<div><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-checklist.html"><strong>[!DNL Sales Insight Actions] Guía de incorporación del usuario</strong></a></div>
+<a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-checklist.html"><img alt="imagen en miniatura de la Guía de incorporación del usuario de [!DNL Sales Insight Actions]" src="assets/sales-insight-actions-user-onboarding-guide-thumb.png" /></a>
+<div><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-checklist.html"><strong>[!DNL Sales Insight Actions] Guía de incorporación de usuario</strong></a></div>
 <p><em>Pasos que los nuevos usuarios deberán seguir para comenzar.</em></p>
 </td>
 <td>
 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/admin/actions-data-sync-faq.html"><img alt="imagen en miniatura para las preguntas frecuentes sobre sincronización de datos de acciones" src="assets/actions-data-sync-faq-thumb.png" /></a>
-<div><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/admin/actions-data-sync-faq.html"><strong>Preguntas frecuentes sobre sincronización de datos de acciones</strong></a></div>
+<div><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/admin/actions-data-sync-faq.html"><strong>Preguntas frecuentes sobre la sincronización de datos de acciones</strong></a></div>
 <p><em>Preguntas frecuentes relacionadas con el funcionamiento de la sincronización de unificación de datos.</em></p>
 </td>
 </tr>

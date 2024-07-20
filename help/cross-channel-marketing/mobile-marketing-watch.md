@@ -1,6 +1,6 @@
 ---
 title: Integración del marketing móvil con Marketo
-description: Mira cómo crear perfiles de compradores, definir KPI, determinar tu cadencia de comunicación, usar [!DNL Marketo’s] Calendario de marketing y mucho más para mejorar su estrategia de marketing móvil.
+description: Descubre cómo crear perfiles de compradores, definir KPI, determinar tu cadencia de comunicación, usar  [!DNL Marketo’s] Calendario de marketing y mucho más para mejorar tu estrategia de marketing móvil.
 role: User
 level: Beginner
 jira: KT-10729
@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # Integración del marketing móvil con Marketo
 
-Averigua cómo crear perfiles de compradores, definir KPI, determinar tu cadencia de comunicación y usar el [!DNL Marketo] Calendario de marketing y mucho más para mejorar su estrategia de marketing móvil.
+Descubra cómo crear perfiles de compradores, definir KPI, determinar la cadencia de la comunicación, utilizar el calendario de marketing de [!DNL Marketo] y mucho más para mejorar su estrategia de marketing móvil.
 
 >[!VIDEO](https://video.tv.adobe.com/v/345402/?quality=12&learn=on){transcript=true}

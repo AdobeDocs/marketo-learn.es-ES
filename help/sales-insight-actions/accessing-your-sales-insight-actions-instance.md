@@ -14,11 +14,11 @@ ht-degree: 0%
 
 # Acceso a la instancia de acciones de Sales Insight {#accessing-your-sales-insight-actions-instance}
 
-Este vídeo proporciona información general sobre cómo acceder a su [!UICONTROL Acciones de perspectiva de ventas] para crear contenido, configurar su cuenta de, invitar a un nuevo usuario y mucho más.
+En este vídeo se explica cómo obtener acceso a la cuenta de [!UICONTROL Sales Insight Actions] para crear contenido, configurar la cuenta, invitar a nuevos usuarios y mucho más.
 
 >[!VIDEO](https://video.tv.adobe.com/v/340925/?quality=12&learn=on){transcript=true}
 
 ## Vídeos relacionados
 
-* [Resumen de acciones de Sales Insight](/help/sales-insight-actions/sales-insight-actions-overview.md){target="_blank"}
-* [Configurar el registro de actividades de ventas en [!DNL Salesforce]](/help/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md){target="_blank"}
+* [Información general sobre acciones de información de ventas](/help/sales-insight-actions/sales-insight-actions-overview.md){target="_blank"}
+* [Configurar el registro de actividades de ventas a [!DNL Salesforce]](/help/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md){target="_blank"}

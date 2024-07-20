@@ -20,5 +20,5 @@ Acelere los esfuerzos de prospección con herramientas de participación e intel
 
 ## Vídeos relacionados
 
-* [Configurar el registro de actividades de ventas en [!DNL Salesforce]](/help/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md){target="_blank"}
-* [Acceso a su [!DNL Sales Insight Actions] Instancia](/help/sales-insight-actions/accessing-your-sales-insight-actions-instance.md){target="_blank"}
+* [Configurar el registro de actividades de ventas a [!DNL Salesforce]](/help/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md){target="_blank"}
+* [Accediendo A Su [!DNL Sales Insight Actions] Instancia](/help/sales-insight-actions/accessing-your-sales-insight-actions-instance.md){target="_blank"}

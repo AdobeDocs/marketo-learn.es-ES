@@ -1,7 +1,7 @@
 ---
 source-git-commit: 63d4aea1c818d35724c0cdc14e69ea00eb06b4a0
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '76'
 ht-degree: 0%
 
 ---
@@ -20,4 +20,4 @@ Consulte las guías del producto relacionadas para obtener más información:
 
 Aprenda de sus compañeros a utilizar campañas inteligentes:
 
-* [Publicación del blog del cliente experto: Campañas inteligentes 101: Una profundización en la función más potente de Adobe Marketo Engage](https://nation.marketo.com/t5/product-blogs/smart-campaigns-101-a-deep-dive-into-adobe-marketo-engage-s-most/ba-p/313385#M1838)
+* [Publicación de blog de cliente experto: Campañas inteligentes 101: Una profundización en la función más potente de Adobe Marketo Engage](https://nation.marketo.com/t5/product-blogs/smart-campaigns-101-a-deep-dive-into-adobe-marketo-engage-s-most/ba-p/313385#M1838)

@@ -1,5 +1,5 @@
 ---
-title: Cómo usar [!DNL Marketo] prácticas recomendadas de instancias y programas
+title: Prácticas recomendadas sobre el uso de  [!DNL Marketo] instancias y programas
 description: Descubra cómo implementar las prácticas recomendadas de instancias y programas sugeridos por Marketo en Marketo.
 role: User
 level: Beginner
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ---
 
-# Cómo usar [!DNL Marketo] prácticas recomendadas de instancias y programas
+# Prácticas recomendadas sobre el uso de la instancia y el programa [!DNL Marketo]
 
 Descubra cómo implementar las prácticas recomendadas de instancias y programas sugeridos por Marketo en Marketo.
 

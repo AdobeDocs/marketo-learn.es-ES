@@ -25,8 +25,8 @@ ht-degree: 8%
    + [Prácticas recomendadas para organizar una nueva instancia](/help/fundamentals/best-practices-to-organize-a-new-instance.md)
    + [Prácticas recomendadas para crear programas básicos](/help/fundamentals/best-practices-for-creating-foundational-programs.md)
    + [Personalizar con tokens](/help/personalization/personalize-with-tokens.md)
-   + [Implementación de una nueva instancia: tutorial](https://experienceleague.adobe.com/en/docs/experiences-by-you/implementing-new-instance/overview)
-   + [Auditoría de una instancia heredada: tutorial](https://experienceleague.adobe.com/docs/marketo-learn/auditing-an-inherited-instance/overview.html)
+   + [Implementar una nueva instancia - Tutorial](https://experienceleague.adobe.com/en/docs/experiences-by-you/implementing-new-instance/overview)
+   + [Auditar una instancia heredada: tutorial](https://experienceleague.adobe.com/docs/marketo-learn/auditing-an-inherited-instance/overview.html)
 + Programas y campañas {#programs-and-campaigns}
    + [Explicación de los programas y campañas](/help/programs/understanding-programs-and-campaigns.md)
    + [Campañas inteligentes 101](/help/campaigns/smart-campaigns-101.md)
@@ -40,7 +40,7 @@ ht-degree: 8%
       + [Información general del mapa de participación](/help/engagement-maps/engagement-map-overview.md)
       + [Asignación de participación a campañas anidadas](/help/engagement-maps/engagement-map-nested-campaign.md)
       + [Detección y resolución de errores del mapa de participación](/help/engagement-maps/engagement-map-error-detection-and-resolution.md)
-+ Marketing por email {#email-marketing}
++ Marketing por correo electrónico {#email-marketing}
    + [Correo electrónico programado](/help/email-marketing/scheduled-email-learn.md)
    + [Recorrido del correo electrónico programado](/help/email-marketing/scheduled-email-watch.md)
    + [Newsletter personalizada](/help/email-marketing/personalized-newsletter-learn.md)
@@ -58,7 +58,7 @@ ht-degree: 8%
    + [Recorrido de correo electrónico activado](/help/email-marketing/triggered-email-watch.md)
    + [Nutrición del plomo](/help/email-marketing/lead-nuturing-learn.md)
    + [Contenido dinámico y predictivo](/help/email-marketing/dynamic-and-predictive-content-learn.md)
-   + [Filtrado de actividades de bots de correo electrónico: configuración](/help/filtering-email-bot-activities/setup.md)
+   + [Filtrado de actividades de bots de correo electrónico - Configuración](/help/filtering-email-bot-activities/setup.md)
 + Marketing en canales múltiples {#cross-channel-marketing}
    + [Recorrido por Forms](/help/email-marketing/forms-watch.md)
    + [Integración del marketing móvil](/help/cross-channel-marketing/mobile-marketing-learn.md)
@@ -80,7 +80,7 @@ ht-degree: 8%
    + [Gestión de agentes](/help/dynamic-chat/agent-management.md)
    + [Gestión de diálogos](/help/dynamic-chat/dialogue-management.md)
    + [Incrustar PDF en conversaciones](/help/dynamic-chat/document-cloud-integration.md)
-   + [Buscar en el Diseñador de secuencias](/help/dynamic-chat/search-in-stream-designer.md)
+   + [Buscar en Stream Designer](/help/dynamic-chat/search-in-stream-designer.md)
    + [Captura de atributos deducidos](/help/dynamic-chat/capture-inferred-attributes.md)
    + [Previsualización de diálogo](/help/dynamic-chat/dialogue-preview.md)
    + [Globalización del contenido estático](/help/dynamic-chat/globalization-of-static-content.md)
@@ -96,8 +96,8 @@ ht-degree: 8%
    + [Información general](/help/sales-insight-actions/overview.md)
    + [Resumen de acciones de Sales Insight](/help/sales-insight-actions/sales-insight-actions-overview.md)
    + [Acceso a la instancia de acciones de Sales Insight](/help/sales-insight-actions/accessing-your-sales-insight-actions-instance.md)
-   + [Configurar el registro de actividades de ventas en [!DNL Salesforce]](/help/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md)
-+ Administración de datos y posibles clientes {#lead-and-data-management}
+   + [Configurar el registro de actividades de ventas en  [!DNL Salesforce]](/help/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md)
++ Administración de clientes potenciales y datos {#lead-and-data-management}
    + [Puntuación de posible cliente/persona](/help/lead-and-data-management/lead-scoring-learn.md)
    + [Guía de puntuación del posible cliente/persona](/help/lead-and-data-management/lead-scoring-watch.md)
    + [Centro de suscripciones](/help/lead-and-data-management/subscription-center-learn.md)

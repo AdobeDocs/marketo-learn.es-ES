@@ -1,5 +1,5 @@
 ---
-title: Aprenda a optimizar sus esfuerzos de SEO con [!DNL Marketo]
+title: Aprenda a optimizar sus esfuerzos de optimización de los motores de búsqueda con  [!DNL Marketo]
 description: ¿Su sitio web se está perdiendo en cientos de resultados de búsqueda? Aprenda a aumentar la visibilidad de su marca mejorando sus estrategias de SEO y PPC.
 role: User
 level: Beginner
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Aprenda a optimizar sus esfuerzos de SEO con [!DNL Marketo]
+# Obtenga información sobre cómo optimizar los esfuerzos de SEO con [!DNL Marketo]
 
 ¿Su sitio web se está perdiendo en cientos de resultados de búsqueda? Aprenda a aumentar la visibilidad de su marca mejorando sus estrategias de SEO y PPC.
 

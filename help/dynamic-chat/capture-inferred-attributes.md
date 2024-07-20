@@ -24,6 +24,6 @@ Dado que Dynamic Chat utiliza la misma cookie munchkin de Adobe Marketo Engage, 
 
 ## Vídeos más útiles
 
-* [Adición y administración de usuarios de [!UICONTROL Dynamic Chat]](user-management.md)
+* [Agregar y administrar usuarios de [!UICONTROL Dynamic Chat]](user-management.md)
 * [Creación y administración de cuadros de diálogo personalizados](dialogue-management.md)
 * [Activar la integración de Marketo con [!UICONTROL Dynamic Chat]](marketo-integration.md)

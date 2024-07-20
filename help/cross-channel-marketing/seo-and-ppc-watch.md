@@ -1,5 +1,5 @@
 ---
-title: Cómo optimizar tus esfuerzos de SEO con [!DNL Marketo]
+title: Cómo optimizar tus esfuerzos de SEO con  [!DNL Marketo]
 description: Vea cómo implementar pasos de éxito para crear estrategias beneficiosas de SEO y PPC.
 role: User
 level: Beginner

@@ -1,6 +1,6 @@
 ---
-title: Obtenga información sobre el uso de [!DNL Marketo] prácticas recomendadas de instancias y programas
-description: Siguientes [!DNL Marketo's] las prácticas recomendadas para organizar sus programas y su instancia pueden ayudarle a usted y a sus compañeros a encontrar lo que necesita en su instancia cuando lo necesita, y a hacer que la creación de informes sea más precisa.
+title: Obtenga información sobre cómo usar  [!DNL Marketo] prácticas recomendadas de instancia y programa
+description: Seguir  [!DNL Marketo's] las prácticas recomendadas sugeridas para organizar sus programas y su instancia puede ayudarle a usted y a sus colegas a encontrar lo que necesita en su instancia cuando lo necesita, y ayuda a que sus informes sean más precisos.
 role: User
 level: Beginner
 jira: KT-10736
@@ -15,8 +15,8 @@ ht-degree: 0%
 
 ---
 
-# Obtenga información sobre el uso de [!DNL Marketo] prácticas recomendadas de instancias y programas
+# Obtenga información acerca del uso de la instancia [!DNL Marketo] y las prácticas recomendadas del programa
 
-Siguientes [!DNL Marketo's] las prácticas recomendadas para organizar sus programas y su instancia pueden ayudarle a usted y a sus compañeros a encontrar lo que necesita en su instancia cuando lo necesita, y a hacer que la creación de informes sea más precisa.
+Seguir [!DNL Marketo's] prácticas recomendadas sugeridas para organizar sus programas y su instancia puede ayudarle a usted y a sus compañeros a encontrar lo que necesita en su instancia cuando lo necesita, y ayuda a que sus informes sean más precisos.
 
 >[!VIDEO](https://video.tv.adobe.com/v/345420/?quality=12&learn=on){transcript=true}

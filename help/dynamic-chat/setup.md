@@ -1,6 +1,6 @@
 ---
 title: Configuración e instalación de un bot de chat
-description: Obtenga información sobre cómo configurar [!UICONTROL Dynamic Chat] para el primer uso.
+description: Aprenda a configurar [!UICONTROL Dynamic Chat] para usarlo por primera vez.
 role: User
 level: Beginner
 jira: KT-9693
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # Configuración e instalación de un bot de chat
 
-Una guía para ayudarle a instalar un bot de chat de JavaScript en su sitio web o página de aterrizaje y personalizar su aspecto para que coincida con su marca.
+Una guía para ayudarle a instalar un bot de chat de JavaScript en su sitio web o página de aterrizaje, así como personalizar su aspecto para que coincida con su marca.
 
 >[!VIDEO](https://video.tv.adobe.com/v/340257/?quality=12&learn=on){transcript=true}
 
@@ -24,4 +24,4 @@ Una guía para ayudarle a instalar un bot de chat de JavaScript en su sitio web 
 
 * [Activación de la integración de Marketo con Dynamic Chat](marketo-integration.md)
 * [Creación y administración de cuadros de diálogo personalizados](dialogue-management.md)
-* [Adición y administración de usuarios de [!UICONTROL Dynamic Chat]](user-management.md)
+* [Agregar y administrar usuarios de [!UICONTROL Dynamic Chat]](user-management.md)

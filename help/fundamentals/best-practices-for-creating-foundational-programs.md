@@ -11,7 +11,7 @@ feature: Programs
 exl-id: 2b850b08-3e9d-4bfb-8ac1-21fd9bdeaf83
 source-git-commit: b614aa134ee0ccbbfd70c6ab73339287d6ebb27a
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '99'
 ht-degree: 0%
 
 ---
@@ -24,11 +24,11 @@ Conozca los cuatro tipos de programas, cómo importar programas, programas de pu
 
 ## Recursos adicionales
 
-**Guías del producto:**
+**Guías de productos:**
 
 * [Explicación de programas](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.html)
 * [Crear un programa](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.html)
 * [Prácticas recomendadas: Cómo organizar los programas](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.html)
 * [Importar un programa](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.html)
 * [Explicación de las etiquetas](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.html)
-* [La guía definitiva para la puntuación de posibles clientes](https://business.adobe.com/resources/guides/lead-scoring.html)
+* [Guía definitiva para la puntuación de posibles clientes](https://business.adobe.com/resources/guides/lead-scoring.html)

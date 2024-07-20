@@ -14,9 +14,9 @@ ht-degree: 0%
 
 ---
 
-# Adición y administración de usuarios de [!UICONTROL Dynamic Chat]
+# Agregar y administrar usuarios de [!UICONTROL Dynamic Chat]
 
-Administre su [!UICONTROL Dynamic Chat]  usuarios a través de Adobe Admin Console.
+Administre a sus usuarios de [!UICONTROL Dynamic Chat] a través de Adobe Admin Console.
 
 >[!VIDEO](https://video.tv.adobe.com/v/340249/?quality=12&learn=on){transcript=true}
 

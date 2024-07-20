@@ -9,11 +9,11 @@ jira: KT-13261
 thumbnail: 3420138.jpeg
 hide: false
 hidefromtoc: false
-exl-id: 6110c26a-5920-4b98-82fa-bbe76f402a71
+exl-id: c2973736-d4dc-492f-8815-9bc93dc5a870
 feature: Reporting
-source-git-commit: 63d4aea1c818d35724c0cdc14e69ea00eb06b4a0
+source-git-commit: a80342218bbc8c42f88c6ccf3a435cbbd3bd47d0
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '93'
 ht-degree: 0%
 
 ---
@@ -28,10 +28,10 @@ Obtenga información sobre los informes clave dentro de Marketo Engage y cómo e
 
 Lea las guías del producto relacionadas:
 
-* [Resumen del tipo de informe](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-types/report-type-overview.html?lang=en)
+* [Información general del tipo de informe](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-types/report-type-overview.html?lang=en)
 
 Aprenda de sus compañeros:
 
-* [Publicación del blog del cliente experto: Cómo el campeón Chelsea Kiko informa en varios espacios del Marketo Engage](https://nation.marketo.com/t5/product-blogs/how-marketo-champion-chelsea-kiko-reports-in-various-marketo/ba-p/242627)
-* [Seminario web de expertos del cliente: más allá de lo básico con Courtney Tobe](https://nation.marketo.com/t5/product-blogs/on-demand-webinar-beyond-the-basics-marketo-reporting/ba-p/302116)
-* [Seminario web para expertos del cliente: Cómo crear una estrategia completa de creación de informes de ROI con Britney Young](https://nation.marketo.com/t5/product-blogs/on-demand-webinar-rounding-out-your-reporting-how-to-build-a/ba-p/319082)
+* [Publicación del blog de un experto del cliente: Cómo informa la campeona Chelsea Kiko en varios espacios de Marketo Engage](https://nation.marketo.com/t5/product-blogs/how-marketo-champion-chelsea-kiko-reports-in-various-marketo/ba-p/242627)
+* [Seminario web para expertos: más allá de lo básico con Courtney Tobe](https://nation.marketo.com/t5/product-blogs/on-demand-webinar-beyond-the-basics-marketo-reporting/ba-p/302116)
+* [Seminario web para clientes expertos: cómo crear una estrategia completa de informes de ROI con Britney Young](https://nation.marketo.com/t5/product-blogs/on-demand-webinar-rounding-out-your-reporting-how-to-build-a/ba-p/319082)

@@ -24,6 +24,6 @@ Ahora vea las tendencias de cómo los visitantes web interactúan con el cuadro 
 
 ## Vídeos más útiles
 
-* [Adición y administración de usuarios de [!UICONTROL Dynamic Chat]](user-management.md)
+* [Agregar y administrar usuarios de [!UICONTROL Dynamic Chat]](user-management.md)
 * [Creación y administración de cuadros de diálogo personalizados](dialogue-management.md)
 * [Activar la integración de Marketo con [!UICONTROL Dynamic Chat]](marketo-integration.md)

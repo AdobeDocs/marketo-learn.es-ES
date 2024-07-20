@@ -1,6 +1,6 @@
 ---
 title: Obtenga información sobre la creación y edición de formularios
-description: Uso [!DNL Marketo forms] para recopilar datos de personas de forma progresiva cuando los posibles clientes visitan el sitio web.
+description: Use [!DNL Marketo forms] para capturar datos de personas de forma progresiva cuando los posibles clientes visiten el sitio web.
 role: User
 level: Beginner
 jira: KT-10755
@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # Obtenga información sobre la creación y edición de formularios
 
-Uso [!DNL Marketo forms] para recopilar datos de personas de forma progresiva cuando los posibles clientes visitan el sitio web.
+Use [!DNL Marketo forms] para capturar progresivamente los datos de las personas cuando los posibles clientes visiten el sitio web.
 
 >[!VIDEO](https://video.tv.adobe.com/v/345474/?quality=12&learn=on){transcript=true}

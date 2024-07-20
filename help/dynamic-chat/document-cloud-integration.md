@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # Incrustar PDF en conversaciones
 
-[!UICONTROL Dynamic Chat]  ahora está integrado con la API de incrustación del PDF de Document Cloud. Esto le permite compartir documentos de PDF en conversaciones personalizadas que diseña en [!UICONTROL Dynamic Chat] .
+[!UICONTROL Dynamic Chat] está ahora integrado con la API de incrustación del PDF de Document Cloud. Esto le permite compartir documentos del PDF en conversaciones personalizadas que diseñó en [!UICONTROL Dynamic Chat]
 
 >[!VIDEO](https://video.tv.adobe.com/v/343479/?quality=12&learn=on){transcript=true}

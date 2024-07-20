@@ -1,5 +1,5 @@
 ---
-title: Obtenga información sobre cómo crear y ejecutar [!UICONTROL dirigir] campañas enriquecedoras
+title: Obtenga información sobre cómo crear y ejecutar [!UICONTROL campañas de nutrición de posibles clientes]
 description: Con el cuidado de la persona, usted puede escuchar las necesidades de las personas y responder con contenido relevante a través de su recorrido de comprador único. Aprenda sobre los programas de nutrición, cómo funcionan y los pasos para el éxito.
 role: User
 level: Beginner
@@ -14,8 +14,8 @@ ht-degree: 0%
 
 ---
 
-# Obtenga información sobre cómo crear y ejecutar [!UICONTROL dirigir] campañas enriquecedoras
+# Obtenga información sobre cómo crear y ejecutar [!UICONTROL campañas de nutrición de posibles clientes]
 
-Con [!UICONTROL crianza de la persona]Además, puedes escuchar las necesidades de las personas y responder con contenido relevante a lo largo de su recorrido de comprador único. Aprenda sobre los programas de nutrición, cómo funcionan y los pasos para el éxito.
+Con [!UICONTROL crianza de personas], puedes escuchar las necesidades de las personas y responder con contenido relevante a través de su recorrido de comprador único. Aprenda sobre los programas de nutrición, cómo funcionan y los pasos para el éxito.
 
 >[!VIDEO](https://video.tv.adobe.com/v/345478/?quality=12&learn=on){transcript=true}

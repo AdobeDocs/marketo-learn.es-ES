@@ -7,12 +7,12 @@ doc-type: Feature Video
 last-substantial-update: 2023-05-23T00:00:00Z
 jira: KT-13258
 thumbnail: 3419622.jpeg
-exl-id: e5acbd36-011d-4ad4-b881-d21227bc37da
+exl-id: 1d31201c-1c61-4ab8-8a2c-dad60655941a
 feature: Programs
-source-git-commit: 63d4aea1c818d35724c0cdc14e69ea00eb06b4a0
+source-git-commit: a80342218bbc8c42f88c6ccf3a435cbbd3bd47d0
 workflow-type: tm+mt
-source-wordcount: '111'
-ht-degree: 3%
+source-wordcount: '79'
+ht-degree: 5%
 
 ---
 
@@ -29,8 +29,8 @@ Consulte las guías del producto relacionadas para obtener más información:
 * [Explicación de la documentación de programas de eventos](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/understanding-events/understanding-event-programs.html?lang=en)
 
 Vea vídeos adicionales para obtener más ayuda sobre esta función:
-* [Recorrido por eventos](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/events/events-watch.html?lang=en)
-* [Recorrido por seminarios web](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/events/webinar-watch.html?lang=en)
+* [Paseo por eventos](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/events/events-watch.html?lang=en)
+* [Seminarios web abiertos](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/events/webinar-watch.html?lang=en)
 
 Aprenda de sus compañeros a utilizar los programas de eventos:
-* [Publicación del blog del cliente experto: Programas de eventos](https://nation.marketo.com/t5/product-blogs/marketo-success-series-event-programs/ba-p/299191)
+* [Publicación de blog de cliente experto: Programas de eventos](https://nation.marketo.com/t5/product-blogs/marketo-success-series-event-programs/ba-p/299191)

@@ -1,5 +1,5 @@
 ---
-title: Prácticas recomendadas para organizar una nueva [!DNL Marketo Engage] instancia
+title: Prácticas recomendadas para organizar una nueva instancia de  [!DNL Marketo Engage]
 description: Aprenda a organizar su árbol de navegación en las actividades de marketing mediante carpetas, convenciones de nomenclatura estándar y funciones como la clonación para trabajar fácilmente con sus compañeros en una nueva instancia de Marketo Engage.
 role: Admin
 level: Beginner
@@ -8,23 +8,23 @@ last-substantial-update: 2023-07-11T00:00:00Z
 jira: KT-13608
 thumbnail: 3421577.jpeg
 feature: Getting Started
-source-git-commit: 63d4aea1c818d35724c0cdc14e69ea00eb06b4a0
+exl-id: baded0c2-3bb0-4361-a7f3-a99a65784829
+source-git-commit: a80342218bbc8c42f88c6ccf3a435cbbd3bd47d0
 workflow-type: tm+mt
-source-wordcount: '212'
+source-wordcount: '152'
 ht-degree: 0%
 
 ---
 
+# Prácticas recomendadas para organizar una nueva instancia de [!DNL Marketo Engage]
 
-# Prácticas recomendadas para organizar una nueva [!DNL Marketo Engage] instancia
-
-Cuando empiece a trabajar con Marketo Engage, la organización es clave. Mantenerse organizado en la instancia facilita al usuario y a los compañeros el seguimiento de las campañas, los programas y los recursos. Aprenda a organizar su árbol de navegación en [!UICONTROL Actividades de marketing] uso de carpetas, convenciones de nomenclatura estándar y funciones como la clonación para trabajar fácilmente con sus compañeros de trabajo en un nuevo [!DNL Marketo Engage] ejemplo. 
+Cuando empiece a trabajar con Marketo Engage, la organización es clave. Mantenerse organizado en la instancia facilita al usuario y a los compañeros el seguimiento de las campañas, los programas y los recursos. Aprenda a organizar su árbol de navegación en [!UICONTROL Actividades de marketing] mediante carpetas, convenciones de nomenclatura estándar y funciones como la clonación para trabajar fácilmente con sus colegas en una nueva instancia de [!DNL Marketo Engage]. 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421577/?learn=on){transcript=true}
 
 ## Recursos adicionales
 
-**Guías del producto:**
+**Guías de productos:**
 
 * [Práctica recomendada: Cómo organizar los programas](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.html)
 * [Clonar un programa](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.html)

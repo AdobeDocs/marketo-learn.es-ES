@@ -22,6 +22,6 @@ El diseño de conversaciones dirigidas y personalizadas es la clave para crear u
 
 ## Vídeos más útiles
 
-* [Adición y administración de usuarios de [!UICONTROL Dynamic Chat]](user-management.md)
+* [Agregar y administrar usuarios de [!UICONTROL Dynamic Chat]](user-management.md)
 * [Activación de la integración de Marketo con Dynamic Chat](marketo-integration.md)
 * [Permite que tus clientes potenciales reserven reuniones con tus ventas](meeting-booking.md)

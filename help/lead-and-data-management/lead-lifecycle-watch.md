@@ -1,6 +1,6 @@
 ---
 title: Cómo crear un programa de ciclo vital de persona
-description: Crear un [!UICONTROL ciclo vital de persona] programa que rastrea sus posibles clientes mediante los estados del programa y actúa en esos posibles clientes que están listos para las ventas.
+description: Cree un programa del ciclo vital de [!UICONTROL persona] que haga un seguimiento de sus posibles clientes mediante los estados del programa y que actúe en esos posibles clientes que estén listos para las ventas.
 role: User
 level: Beginner
 jira: KT-10739
@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # Cómo crear un programa de ciclo vital de persona
 
-Crear un [!UICONTROL ciclo vital de persona] programa que rastrea sus posibles clientes mediante los estados del programa y actúa en esos posibles clientes que están listos para las ventas.
+Cree un programa del ciclo vital de [!UICONTROL persona] que haga un seguimiento de sus posibles clientes mediante los estados del programa y que actúe en esos posibles clientes que estén listos para las ventas.
 
 >[!VIDEO](https://video.tv.adobe.com/v/345423/?quality=12&learn=on){transcript=true}
