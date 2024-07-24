@@ -7,18 +7,18 @@ hide: true
 hidefromtoc: true
 feature: Marketing
 exl-id: 8368a148-c0c8-462f-b166-9efc412c4a0f
-source-git-commit: fe760c2fc53b96d5c176de377730bce2e89dbc74
+source-git-commit: 7cdfe25c955ef1de485d67dc43440554b2237d40
 workflow-type: tm+mt
-source-wordcount: '1079'
+source-wordcount: '1053'
 ht-degree: 0%
 
 ---
 
 # Migración a Identity Management de Adobe
 
-El Adobe está mejorando la forma de administrar las suscripciones y los usuarios de Adobe Marketo Engage. Estamos mejorando la productividad para usted y su organización mediante la migración de sus suscripciones de Marketo Engage y usuarios a Adobe Admin Console.
+El Adobe está mejorando la forma de administrar las suscripciones y los usuarios de Adobe Marketo Engage. Estamos aumentando la productividad de su organización mediante la migración de sus suscripciones de Marketo Engage y usuarios a Adobe Admin Console.
 
-Este tutorial le permite desplazarse por la migración para poder administrar Adobe Marketo Engage junto con otras cuentas de Adobe y productos para los usuarios en una ubicación central. La migración es necesaria y no afectará al flujo de trabajo, el contenido, las integraciones ni los recursos de marketing.
+Este tutorial le ayudará a navegar por la migración para que pueda empezar a administrar Adobe Marketo Engage junto con otras cuentas de Adobe y productos para sus usuarios en una ubicación central. La migración es necesaria y no afectará al flujo de trabajo, el contenido, las integraciones ni los recursos de marketing.
 
 ## Lista de comprobación previa a la migración para administradores de Marketo Engage {#pre-migration-checklist-for-marketo-engage-administrators}
 
@@ -28,10 +28,9 @@ Para garantizar que su organización pueda migrar Adobe Marketo Engage a Adobe A
 
 * Si no está seguro de quiénes son los administradores del sistema de su organización, póngase en contacto con el equipo de cuenta de Adobe o póngase en contacto con el soporte técnico de Adobe `marketocares@marketo.com`.
 
-* Confirme la Adobe Admin Console (u organización de Adobe) a la que se migrarán las suscripciones de Marketo Engage.  Las suscripciones de Marketo Engage deben implementarse en la misma organización que Dynamic Chat, una herramienta nativa de automatización de conversaciones integrada con Marketo Engage.
-  `TBD LINK TO https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console#subscription-migration-complete`
+* Confirme la Adobe Admin Console (u organización de Adobe) a la que se migrarán las suscripciones de Marketo Engage.  Las suscripciones de Marketo Engage deben implementarse en la misma organización que Dynamic Chat, una herramienta nativa de automatización de conversaciones integrada con Marketo Engage. [Más información](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console#subscription-migration-complete){target="_blank"}
 
-* Obtenga más información acerca de cómo comunicarse con los administradores del sistema en la [Sección de correo electrónico de ejemplo](#announce-the-migration-timeline).
+* Aprenda qué debe comunicarse con los administradores del sistema en la [Sección de correo electrónico de ejemplo](#announce-the-migration-timeline).
 
 ### 2. Familiarícese con los cambios y el impacto de migrar a Identidad de Adobe {#familiarize-yourself-with-the-changes}
 
@@ -55,9 +54,9 @@ Encontrará más ayuda sobre este tema para los administradores de Marketo Engag
 
 * Marque la fecha de migración en los calendarios de los administradores del Marketo Engage y los usuarios una vez que se haya programado.
 
-Puede modificar la fecha de migración en **Administración** > **Consola de migración** > **Premigración** para que se ajuste mejor a la cronología interna. Obtenga más información acerca de la reprogramación y las limitaciones de [modificar la fecha de migración](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/migrating-to-adobe-identity#pre-migration){target="_blank"}.
+Puede modificar la fecha de migración en **Administración** > **Consola de migración** > **Premigración** para que se ajuste mejor a su cronograma interno. Obtenga más información acerca de la reprogramación y las limitaciones de [modificar la fecha de migración](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/migrating-to-adobe-identity#pre-migration){target="_blank"}.
 
-* Envíe un correo electrónico para comunicarse con los administradores del sistema.
+* Envíe un correo electrónico a los administradores del sistema.
 
 A continuación se muestra un ejemplo de correo electrónico que puede enviar a los administradores del sistema. Normalmente, el departamento de TI gestiona todas las licencias de Adobe.
 
@@ -71,18 +70,20 @@ Nuestra suscripción de Marketo Engage se migrará pronto al sistema Identity Ma
 
 `1.` Confirme si la organización ya administra otros productos de Adobe en Adobe Admin Console y si Marketo Engage se migrará a la misma consola.
 
-* Tenga en cuenta que las suscripciones de Marketo Engage deben estar en la misma organización que Dynamic Chat, una herramienta nativa de automatización de conversaciones integrada con Marketo Engage.
+* Las suscripciones de Marketo Engage deben estar en la misma organización que Dynamic Chat, una herramienta nativa de automatización de conversaciones integrada con Marketo Engage.
 
-* Si tiene dudas o preguntas acerca del Admin Console al que se agregará un Marketo Engage, comuníquese con el equipo de atención al cliente en `marketocares@marketo.com` e inclúyanos en su comunicación.
+* Si tiene alguna pregunta o duda con respecto al Admin Console al que se agregará ese Marketo Engage, póngase en contacto con el equipo de atención al Adobe en `marketocares@marketo.com` y pídale confirmación.
 
 `2.` Esté atento a un correo electrónico de Adobe con la línea de asunto &quot;Acción necesaria para administrar el acceso de los usuarios a Adobe Marketo Engage `[Package Tier]`&quot;. Este correo electrónico se ha enviado después de aprovisionar las licencias de Marketo Engage en nuestro Admin Console. Solo los administradores del sistema recibirán este correo electrónico. Por favor, infórmenos de inmediato cuando lo reciba.
 
-* El Adobe puede solicitar su consentimiento, que es el administrador del sistema del Admin Console, para migrar automáticamente a los usuarios a la consola existente de su organización. En el mensaje de correo electrónico con la línea de asunto &quot;Acción necesaria para administrar el acceso de los usuarios a Adobe Marketo Engage `[Package Tier]`&quot;, haga clic en el botón &quot;Comenzar&quot; para ir a la página de consentimiento.
+* El Adobe puede solicitar su autorización, la del Administrador del sistema del Admin Console, para migrar automáticamente a los usuarios a la consola existente de su organización. En el mensaje de correo electrónico con la línea de asunto &quot;Acción necesaria para administrar el acceso de los usuarios a Adobe Marketo Engage `[Package Tier]`&quot;, haga clic en el botón &quot;Comenzar&quot; para ir a la página de consentimiento.
 
 `3.` **Opcional:** Configuración de SSO (inicio de sesión único) en Adobe Admin Console.
 
-* Para que nuestros usuarios puedan iniciar sesión con SSO en su identidad de Adobe a partir de ahora, le pedimos que nos ayude con la configuración de SSO en Adobe Admin Console antes de que se produzca la migración de usuarios.
-Agradecemos su cooperación durante esta transición. Avíseme cuando haya completado estos pasos para poder continuar con la migración de usuarios con Marketo Engage.
+* Para beneficiar a los usuarios que inician sesión con SSO en su identidad de Adobe a partir de ahora, le pedimos que nos ayude con la configuración de SSO en Adobe Admin Console antes de que se produzca la migración de usuarios.
+
+Agradecemos su cooperación durante esta transición. Avíseme cuando haya completado estos pasos para que pueda continuar con la migración.
+
 Un saludo,
 
 `[Your Name]`
@@ -91,7 +92,7 @@ Un saludo,
 
 * Envíe un correo electrónico a los usuarios de Marketo Engage.
 
-A continuación se muestra un ejemplo de correo electrónico que puede utilizar para anunciar la próxima migración a los usuarios de Marketo Engage que no tienen privilegios de administrador.
+A continuación se muestra un ejemplo de correo electrónico que puede utilizar para anunciar la próxima migración a los usuarios de Marketo Engage que no tengan privilegios de administrador.
 
 `---------------------------------------------------`
 
@@ -99,31 +100,33 @@ A continuación se muestra un ejemplo de correo electrónico que puede utilizar 
 
 Estimados usuarios de Marketo Engage:
 
-Tenemos un anuncio importante sobre la instancia de Marketo Engage y cómo iniciará sesión. El Adobe consiste en trasladar las suscripciones de Marketo Engage y los usuarios a Adobe Admin Console para permitir a sus clientes centralizar toda la administración de productos en un solo lugar. Esto no afectará a los flujos de trabajo, el contenido, las integraciones ni los recursos de marketing.
+Tenemos un anuncio importante sobre la instancia de Marketo Engage y cómo iniciará sesión. El Adobe consiste en trasladar las suscripciones de Marketo Engage y los usuarios a Adobe Admin Console para permitirnos centralizar toda la administración de productos en una ubicación. Esto no afectará a los flujos de trabajo, el contenido, las integraciones ni los recursos de marketing.
 
-Detalles clave:
+**Detalles de clave:**
 
-* Fecha de migración: [Especifique la fecha programada; busque esta información en el Marketo Engage en **Administración** > **Consola de migración** > **Premigración**]
+* **Fecha de migración**: `[Specify the scheduled date - please find this in Marketo Engage under Admin > Migration Console > Pre-migration]`
 
-* Horario: la migración comienza alrededor de la medianoche (hora local) para nuestra suscripción.
+* **Horario**: la migración comienza alrededor de la medianoche (hora local) para nuestra suscripción.
 
-* Impacto: no se perderá el acceso al producto durante la migración de usuarios. Si ha iniciado sesión cuando se migra su cuenta, se cerrará la sesión y se le pedirá que vuelva a iniciarla en cuestión de minutos mediante el servicio de identidad de Adobe después de la migración.
+* **Impacto**: no habrá pérdida de acceso al producto durante la migración de usuarios. Si ha iniciado sesión cuando se migra su cuenta, se cerrará la sesión y se le pedirá que vuelva a iniciarla en cuestión de minutos mediante el servicio de identidad de Adobe después de la migración.
 
-* Ventajas: Autentique el Marketo Engage y otros productos de Adobe mediante una sola identidad de Adobe, ya sea un Federated ID de Adobe ID o de Adobe (SSO).
+* **Beneficios**: Autentique el Marketo Engage y otros productos de Adobe mediante una sola identidad de Adobe: Adobe ID o un Federated ID de Adobe (SSO).
 
-Qué debe hacer:
+**Lo que necesita hacer:**
 
-`1.` Prepararse: se requiere la verificación por correo electrónico para que pueda migrarse a una identidad de Adobe.
+`1.` **Preparar**: se requiere la verificación por correo electrónico para que pueda migrarse a una identidad de Adobe.
 
-i. Ha recibido un correo electrónico de solicitud de verificación por correo electrónico con un vínculo (permanece válido durante 3 días). Si el vínculo ha caducado, puedes volver a enviar el correo electrónico de verificación yendo a **Administración** > **Mi cuenta** > **Configuración de la cuenta** y haciendo clic en **Volver a enviar verificación**.
+i. Ha recibido un correo electrónico de solicitud de verificación por correo electrónico con un vínculo (permanece válido durante 3 días). Si el vínculo ha caducado, puede volver a enviar el correo electrónico de verificación desde Marketo Engage. Para ello, vaya a **Administración** > **Mi cuenta** > **Configuración de la cuenta** y haga clic en **Volver a enviar verificación**.
+
 ii. Se requiere una sesión de usuario activa para que la verificación del correo electrónico se realice correctamente. Inicie sesión en la suscripción de Marketo Engage usando primero la URL del proveedor de identidad (IdP).
 
-`2.` integrada: una vez que se haya migrado su cuenta de usuario, recibirá un correo electrónico del Adobe con respecto a los cambios en el método de inicio de sesión.
+`2.` **A bordo**: Una vez migrada su cuenta de usuario, recibirá un mensaje de correo electrónico del Adobe con respecto a los cambios en el método de inicio de sesión.
 
 i. Acepte la nueva invitación haciendo clic en el botón &quot;Aceptar invitación&quot; e iniciando sesión con el Adobe Identidad.
+
 ii. En la página de inicio de sesión de Adobe, inicie sesión con un Adobe ID existente.
 
-`3.` Contacto: si tiene alguna pregunta o necesita ayuda después de migrar su cuenta o si no se ha migrado su cuenta y ha perdido el acceso a Marketo Engage, póngase en contacto con el equipo de migración de Marketo Engage en `[your internal contact email/phone]`.
+`3.` **Contacto**: Si tiene alguna pregunta o necesita ayuda después de migrar su cuenta, o si no se migró su cuenta y perdió el acceso al Marketo Engage, póngase en contacto con el equipo de migración del Marketo Engage en `[your internal contact email/phone]`.
 
 Agradecemos su cooperación durante esta transición. Gracias por su comprensión y compromiso para mantener nuestros sistemas seguros.
 
