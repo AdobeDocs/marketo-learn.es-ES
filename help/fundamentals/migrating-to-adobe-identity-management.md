@@ -7,7 +7,7 @@ hide: true
 hidefromtoc: true
 feature: Marketing
 exl-id: 8368a148-c0c8-462f-b166-9efc412c4a0f
-source-git-commit: 7cdfe25c955ef1de485d67dc43440554b2237d40
+source-git-commit: 8c9705b79083fd7b143b88800046180c94d377da
 workflow-type: tm+mt
 source-wordcount: '1053'
 ht-degree: 0%
@@ -130,7 +130,7 @@ ii. En la página de inicio de sesión de Adobe, inicie sesión con un Adobe ID 
 
 Agradecemos su cooperación durante esta transición. Gracias por su comprensión y compromiso para mantener nuestros sistemas seguros.
 
-Mejor,
+Un saludo,
 
 `[Your Name]`
 
