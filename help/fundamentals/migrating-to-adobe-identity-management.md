@@ -7,9 +7,9 @@ hide: true
 hidefromtoc: true
 feature: Marketing
 exl-id: 8368a148-c0c8-462f-b166-9efc412c4a0f
-source-git-commit: f6ae52b43770789c24237f0bc664d33541469a50
+source-git-commit: fe760c2fc53b96d5c176de377730bce2e89dbc74
 workflow-type: tm+mt
-source-wordcount: '1089'
+source-wordcount: '1079'
 ht-degree: 0%
 
 ---
@@ -67,7 +67,7 @@ A continuación se muestra un ejemplo de correo electrónico que puede enviar a 
 
 Estimado `[IT Administrator/NAME]`:
 
-Nuestra suscripción de Marketo Engage se migrará pronto al sistema Identity Management de Adobe. El [equipo de operaciones de mercadotecnia] necesita su ayuda para completar algunos pasos necesarios antes de que comience la migración de usuarios, a fin de minimizar el impacto en los usuarios Marketo Engage
+Nuestra suscripción de Marketo Engage se migrará pronto al sistema Identity Management de Adobe. `[Marketing Operation team]` necesita su ayuda para completar algunos pasos necesarios antes de que comience la migración de usuarios, a fin de minimizar el impacto en los usuarios de Marketo Engage.
 
 `1.` Confirme si la organización ya administra otros productos de Adobe en Adobe Admin Console y si Marketo Engage se migrará a la misma consola.
 
@@ -123,12 +123,12 @@ ii. Se requiere una sesión de usuario activa para que la verificación del corr
 i. Acepte la nueva invitación haciendo clic en el botón &quot;Aceptar invitación&quot; e iniciando sesión con el Adobe Identidad.
 ii. En la página de inicio de sesión de Adobe, inicie sesión con un Adobe ID existente.
 
-`3.` Contacto: si tiene alguna pregunta o necesita ayuda después de migrar su cuenta o si no se ha migrado su cuenta y ha perdido el acceso a Marketo Engage, póngase en contacto con el equipo de migración de Marketo Engage en [su correo electrónico o teléfono de contacto interno].
+`3.` Contacto: si tiene alguna pregunta o necesita ayuda después de migrar su cuenta o si no se ha migrado su cuenta y ha perdido el acceso a Marketo Engage, póngase en contacto con el equipo de migración de Marketo Engage en `[your internal contact email/phone]`.
 
 Agradecemos su cooperación durante esta transición. Gracias por su comprensión y compromiso para mantener nuestros sistemas seguros.
 
 Mejor,
 
-[Su nombre]
+`[Your Name]`
 
 `---------------------------------------------------`
