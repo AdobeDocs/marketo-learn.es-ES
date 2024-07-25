@@ -1,7 +1,7 @@
 ---
 title: Campañas inteligentes 101
 description: Descubra cómo puede utilizar campañas inteligentes para la normalización de datos y alertas automatizadas.
-short-description: Si Marketo Engage es un coche, la campaña inteligente es su motor. Las campañas inteligentes pueden hacer más de lo que imaginas y es fácil empezar a usarlas.
+short-description: Si Marketo Engage es un coche, la campaña inteligente es su motor. Las campañas inteligentes pueden hacer más de lo que imagina y es fácil empezar a usarlas.
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -13,7 +13,7 @@ feature: Smart Campaigns
 source-git-commit: 081fe7d08986c45f83a8edd1a0805a66e1ff20d6
 workflow-type: tm+mt
 source-wordcount: '125'
-ht-degree: 0%
+ht-degree: 41%
 
 ---
 
