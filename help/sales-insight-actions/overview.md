@@ -6,9 +6,9 @@ role: User, Admin, Leader
 level: Beginner, Intermediate, Experienced
 exl-id: fac23fde-1fc8-4710-a5f5-2e19a2618d6d
 feature: Sales Insight Actions
-source-git-commit: 063ac280987d4a2b68245f51cde1199ea93319df
+source-git-commit: 15a81dde3b410827d93466595bcf41a5aa8ce58f
 workflow-type: tm+mt
-source-wordcount: '158'
+source-wordcount: '190'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,10 @@ ht-degree: 0%
 ![](assets/header.png)
 
 Use [!UICONTROL Acciones de perspectiva de ventas] para acelerar los esfuerzos de prospección con herramientas de inteligencia y participación impulsadas por marketing en un solo flujo de trabajo.
+
+>[!NOTE]
+>
+>Marketo Sales Insight Actions es una aplicación basada en web que se integra exclusivamente con Salesforce CRM mediante el [paquete de Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. A veces se denomina &quot;Ventas Marketo&quot; o simplemente &quot;Acciones&quot;.
 
 ## Tutorials destacados {#featured-tutorials}
 
