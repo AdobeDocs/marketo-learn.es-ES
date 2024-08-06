@@ -3,10 +3,10 @@ user-guide-title: Tutoriales de Marketo Engage
 user-guide-description: Una colección de vídeos y tutoriales para Adobe Marketo Engage.
 breadcrumb-title: Tutoriales de Marketo Engage
 auto-video-transcripts: true
-source-git-commit: 71f6ec1f4dd2c5a0a2d0c1959da7a78002644edb
+source-git-commit: 757f21c965161fba774c2c31e02baa75f4691e4d
 workflow-type: tm+mt
-source-wordcount: '370'
-ht-degree: 8%
+source-wordcount: '381'
+ht-degree: 9%
 
 ---
 
@@ -26,7 +26,7 @@ ht-degree: 8%
    + [Prácticas recomendadas para crear programas básicos](/help/fundamentals/best-practices-for-creating-foundational-programs.md)
    + [Personalizar con tokens](/help/personalization/personalize-with-tokens.md)
    + [Implementar una nueva instancia - Tutorial](https://experienceleague.adobe.com/en/docs/experiences-by-you/implementing-new-instance/overview)
-   + [Auditar una instancia heredada: tutorial](https://experienceleague.adobe.com/docs/marketo-learn/auditing-an-inherited-instance/overview.html)
+   + [Auditar una instancia heredada: tutorial](https://experienceleague.adobe.com/docs/marketo-learn/auditing-an-inherited-instance/overview.html?lang=es)
 + Programas y campañas {#programs-and-campaigns}
    + [Explicación de los programas y campañas](/help/programs/understanding-programs-and-campaigns.md)
    + [Campañas inteligentes 101](/help/campaigns/smart-campaigns-101.md)
@@ -123,4 +123,5 @@ ht-degree: 8%
    + [Informes y análisis](/help/reporting/reporting-and-analytics.md)
    + [Informes clave](/help/reporting/key-reports.md)
 + Integraciones {#integrations}
-   + [Marketo con Real-time Customer Data Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html)
+   + [Marketo con Real-time Customer Data Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html?lang=es)
+   + [Ayuda de la API: cómo establecer el token de acceso en una variable](/help/integrations/api-set-access-token-variable.md)
