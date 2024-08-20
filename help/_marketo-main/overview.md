@@ -3,10 +3,10 @@ title: Tutoriales de Marketo Engage
 description: Vea tutoriales de vídeo sobre  [!DNL Marketo Engage]. Mejore su comprensión sobre cómo utilizar las funciones de automatización de marketing y mucho más.
 doc-type: overview-page
 exl-id: 1b2d6334-377a-4f59-923a-ecbe0dc0ba0c
-source-git-commit: c7665e7c82e030f5bc21fa9c8845a75fc47f8483
+source-git-commit: fe4fc30478e83625c345c51b96a6867264953e83
 workflow-type: tm+mt
 source-wordcount: '182'
-ht-degree: 21%
+ht-degree: 17%
 
 ---
 
@@ -25,15 +25,12 @@ Examine nuestra biblioteca de tutoriales y aproveche al máximo [!DNL Marketo En
 ## Novedades {#whats-new}
 
 * [Migrando a Identity Management de Adobe](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/fundamentals/migrating-to-adobe-identity-management)
+  _Aprenda a navegar por la migración de Identity Management de Adobe para que pueda empezar a administrar Adobe Marketo Engage junto con otras cuentas de Adobe y productos para sus usuarios en una ubicación central._
 
-_Aprenda a navegar por la migración de Identity Management de Adobe para que pueda empezar a administrar Adobe Marketo Engage junto con otras cuentas de Adobe y productos para sus usuarios en una ubicación central._
-
-* [Publicación de acciones e información de eventos de seminarios web interactivos](https://experienceleague.adobe.com/es/docs/marketo-learn/tutorials/events/interactive-webinars-post-event-insights-and-actions)
-
+* [Acciones e información sobre la publicación de seminarios web interactivos](https://experienceleague.adobe.com/es/docs/marketo-learn/tutorials/events/interactive-webinars-post-event-insights-and-actions)
 Descubra dónde encontrar información detallada sobre el rendimiento y la participación de su evento de seminarios web interactivos.
 
 * [Vídeo de API de Marketo: cómo establecer el token de acceso en una variable](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/integrations/api-set-access-token-variable)
-
 Obtenga información sobre cómo configurar la aplicación de Postman y cómo aprovechar las variables para guardar datos en la variable con fines de reutilización.
 
 ## Vídeos más populares {#most-popular-videos}
