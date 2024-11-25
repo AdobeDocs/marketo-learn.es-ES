@@ -3,10 +3,10 @@ user-guide-title: Tutoriales de Marketo Engage
 user-guide-description: Una colección de vídeos y tutoriales para Adobe Marketo Engage.
 breadcrumb-title: Tutoriales de Marketo Engage
 auto-video-transcripts: true
-source-git-commit: a3ef8abe1a0928b4119c334ecb96c7e18d63803d
+source-git-commit: 4aa725929374c6a408e5c0f4b0c00e53ba17c3ed
 workflow-type: tm+mt
-source-wordcount: '377'
-ht-degree: 10%
+source-wordcount: '370'
+ht-degree: 9%
 
 ---
 
@@ -21,7 +21,6 @@ ht-degree: 10%
    + [Marketing de contenido](/help/fundamentals/content-marketing-learn.md)
    + [Personalidades del comprador](/help/fundamentals/buyer-personas-learn.md)
    + [Programas y campañas](/help/fundamentals/programs-and-campaigns.md)
-   + [Navegar por la IU](/help/fundamentals/ui-navigation.md)
    + [Prácticas recomendadas para organizar una nueva instancia](/help/fundamentals/best-practices-to-organize-a-new-instance.md)
    + [Prácticas recomendadas para crear programas básicos](/help/fundamentals/best-practices-for-creating-foundational-programs.md)
    + [Personalizar con tokens](/help/personalization/personalize-with-tokens.md)
@@ -30,12 +29,10 @@ ht-degree: 10%
 + Programas y campañas {#programs-and-campaigns}
    + [Explicación de los programas y campañas](/help/programs/understanding-programs-and-campaigns.md)
    + [Campañas inteligentes 101](/help/campaigns/smart-campaigns-101.md)
-   + [Programas de correo electrónico](/help/programs/email-programs.md)
    + [Programas de eventos](/help/programs/event-programs.md)
    + Programas predeterminados {#default-programs}
       + [Creación y medición de un programa predeterminado](/help/programs/create-and-measure-default-programs.md)
       + [Aproveche la flexibilidad de los programas predeterminados](/help/programs/leverage-the-flexibility-of-default-programs.md)
-   + [Programas de participación](/help/programs/engagement-programs.md)
    + Mapas de participación {#engagement-maps}
       + [Información general del mapa de participación](/help/engagement-maps/engagement-map-overview.md)
       + [Asignación de participación a campañas anidadas](/help/engagement-maps/engagement-map-nested-campaign.md)

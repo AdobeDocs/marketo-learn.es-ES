@@ -1,5 +1,5 @@
 ---
-title: Obtenga información acerca de la creación de un programa de correo electrónico de newsletter personalizado... (los títulos no deben tener más de 60 caracteres)
+title: Creación de un programa de correo electrónico de newsletter personalizado
 description: Interactúe con los clientes y posibles clientes de forma rentable mediante boletines de correo electrónico personalizados.
 role: User
 level: Beginner
@@ -7,14 +7,14 @@ jira: KT-10751
 thumbnail: 345471.jpeg
 exl-id: 35f33547-49ff-4e2e-a4b8-2cf8aa21d385
 feature: Programs
-source-git-commit: 63d4aea1c818d35724c0cdc14e69ea00eb06b4a0
+source-git-commit: 4aa725929374c6a408e5c0f4b0c00e53ba17c3ed
 workflow-type: tm+mt
-source-wordcount: '60'
+source-wordcount: '38'
 ht-degree: 0%
 
 ---
 
-# Obtenga información acerca de la creación de un programa de correo electrónico de newsletter personalizado... (los títulos no deben tener más de 60 caracteres)
+# Creación de un programa de correo electrónico de newsletter personalizado
 
 Interactúe con los clientes y posibles clientes de forma rentable mediante boletines de correo electrónico personalizados.
 
