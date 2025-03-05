@@ -3,10 +3,10 @@ title: Tutoriales de Marketo Engage
 description: Vea tutoriales de vídeo sobre  [!DNL Marketo Engage]. Mejore su comprensión sobre cómo utilizar las funciones de automatización de marketing y mucho más.
 doc-type: overview-page
 exl-id: 1b2d6334-377a-4f59-923a-ecbe0dc0ba0c
-source-git-commit: 3c79aa679e95d1aa967a8c3b2aa96607e17adb95
+source-git-commit: ee68cb7fc0dbf9c4ccae3f89fdbb6e097016ebf9
 workflow-type: tm+mt
-source-wordcount: '182'
-ht-degree: 21%
+source-wordcount: '161'
+ht-degree: 24%
 
 ---
 
@@ -21,17 +21,16 @@ Examine nuestra biblioteca de tutoriales y aproveche al máximo [!DNL Marketo En
 <div id="recs-overview-body-5"></div>
 <div id="recs-overview-body-6"></div> -->
 
-
 ## Novedades {#whats-new}
 
-* [Migrando a Identity Management de Adobe](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/fundamentals/migrating-to-adobe-identity-management)
-  _Aprenda a navegar por la migración de Identity Management de Adobe para que pueda empezar a administrar Adobe Marketo Engage junto con otras cuentas de Adobe y productos para sus usuarios en una ubicación central._
+* [Información general sobre seminarios web interactivos](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/events/interactive-webinars-overview)
+  _Obtenga información acerca de los seminarios web interactivos, la plataforma integrada para seminarios web en Marketo Engage._
+
+* [Migrando a Adobe Identity Management](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/fundamentals/migrating-to-adobe-identity-management)
+  _Aprenda a navegar por la migración de Adobe Identity Management para que pueda empezar a administrar Adobe Marketo Engage junto con otras cuentas y productos de Adobe para sus usuarios en una ubicación central._
 
 * [Publicación de acciones e información de eventos de seminarios web interactivos](https://experienceleague.adobe.com/es/docs/marketo-learn/tutorials/events/interactive-webinars-post-event-insights-and-actions)
   _Aprenda dónde encontrar información detallada sobre el rendimiento y la participación de su evento de seminarios web interactivos._
-
-* [Vídeo de API de Marketo: cómo establecer el token de acceso en una variable](https://experienceleague.adobe.com/es/docs/marketo-learn/tutorials/integrations/api-set-access-token-variable)
-  _Aprenda a configurar la aplicación de Postman y a aprovechar las variables para guardar datos en la variable con fines de reutilización._
 
 ## Vídeos más populares {#most-popular-videos}
 
