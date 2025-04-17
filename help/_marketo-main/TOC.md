@@ -3,10 +3,10 @@ user-guide-title: Tutoriales de Marketo Engage
 user-guide-description: Una colección de vídeos y tutoriales para Adobe Marketo Engage.
 breadcrumb-title: Tutoriales de Marketo Engage
 auto-video-transcripts: true
-source-git-commit: b1bca74399683782c4691882f2239db60d117286
+source-git-commit: dcfffa299cbcfef489f5b618fae29f745b878d26
 workflow-type: tm+mt
-source-wordcount: '439'
-ht-degree: 8%
+source-wordcount: '454'
+ht-degree: 9%
 
 ---
 
@@ -89,12 +89,12 @@ ht-degree: 8%
    + [Reservas de reunión](/help/dynamic-chat/meeting-booking.md)
    + [Dirigir conversaciones con tecnología GenAI](/help/dynamic-chat/gen-ai-features.md)
    + [Informe de participación](/help/dynamic-chat/engagement-report.md)
-+ Acciones de perspectiva de ventas {#sales-insight-actions}
++ Acciones de Sales Insight {#sales-insight-actions}
    + [Información general](/help/sales-insight-actions/overview.md)
    + [Resumen de acciones de Sales Insight](/help/sales-insight-actions/sales-insight-actions-overview.md)
    + [Acceso a la instancia de acciones de Sales Insight](/help/sales-insight-actions/accessing-your-sales-insight-actions-instance.md)
    + [Configurar el registro de actividades de ventas en  [!DNL Salesforce]](/help/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md)
-+ Administración de clientes potenciales y datos {#lead-and-data-management}
++ Administración de datos y posibles clientes {#lead-and-data-management}
    + [Puntuación de posible cliente/persona](/help/lead-and-data-management/lead-scoring-learn.md)
    + [Guía de puntuación del posible cliente/persona](/help/lead-and-data-management/lead-scoring-watch.md)
    + [Centro de suscripciones](/help/lead-and-data-management/subscription-center-learn.md)
@@ -123,7 +123,8 @@ ht-degree: 8%
 + Integraciones {#integrations}
    + [Marketo con Real-Time Customer Data Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html?lang=es)
    + [Ayuda de la API: cómo establecer el token de acceso en una variable](/help/integrations/api-set-access-token-variable.md)
-+ Administrar duplicados {#manage-duplicates}
+   + [Cómo almacenar en déclencheur una campaña inteligente en Marketo Engage mediante la API de REST y los tokens](/help/integrations/trigger-smart-campaign-rest-api.md)
++ Administración de duplicados {#manage-duplicates}
    + [Introducción a la administración de duplicados](/help/managing-duplicates/introduction-managing-duplicates.md)
    + [Comprender por qué se producen duplicados](/help/managing-duplicates/why-duplicates-occur.md)
    + [Identificar y evitar registros duplicados](/help/managing-duplicates/identify-prevent-duplicates.md)

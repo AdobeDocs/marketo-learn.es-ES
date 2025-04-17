@@ -7,7 +7,7 @@ recommendations: noDisplay, noCatalog
 last-substantial-update: 2024-07-26T00:00:00Z
 feature: Marketing
 exl-id: 8368a148-c0c8-462f-b166-9efc412c4a0f
-source-git-commit: 55341c3f44aaf01d746b6e3f9e241f8a75c64958
+source-git-commit: dcfffa299cbcfef489f5b618fae29f745b878d26
 workflow-type: tm+mt
 source-wordcount: '1250'
 ht-degree: 0%
@@ -52,11 +52,11 @@ Encontrará más ayuda sobre este tema para los administradores de Marketo Engag
 
 * [Lista de comprobación de configuración de usuario](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/user-setup){target="_blank"}
 
-* [Información general de Adobe Identity Management](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview){target="_blank"}
+* [Información general sobre Adobe Identity Management](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview){target="_blank"}
 
 * [Explicación de la suscripción de Marketo y la migración de usuarios a Adobe Admin Console](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console){target="_blank"}
 
-* [Migrando a la identidad de Adobe con la consola de migración](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/migrating-to-adobe-identity){target="_blank"}
+* [Migración a la identidad de Adobe con la consola de migración](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/migrating-to-adobe-identity){target="_blank"}
 
 * [Entender cómo usar Adobe Admin Console](https://helpx.adobe.com/es/enterprise/using/admin-console.html){target="_blank"}
 
@@ -94,7 +94,7 @@ Nuestra suscripción a Marketo Engage se migrará pronto al sistema Identity Man
 
 * Para beneficiar a los usuarios que inician sesión con SSO en su servicio de identidad de Adobe a partir de ahora, ayuden a configurar el SSO en Adobe Admin Console antes de que se produzca la migración de usuarios.
 
-`5.` **Opcional:** Establezca una duración de sesión [máxima](https://helpx.adobe.com/enterprise/using/authentication-settings.html#advanced-settings){target="_blank"} más larga en Adobe Admin Console.
+`5.` **Opcional:** Establezca una [duración máxima de sesión](https://helpx.adobe.com/enterprise/using/authentication-settings.html#advanced-settings){target="_blank"} más larga en Adobe Admin Console.
 
 * Para evitar que los usuarios tengan que iniciar sesión con frecuencia, personalice la duración de la sesión en la Configuración avanzada con una duración más larga.
 
