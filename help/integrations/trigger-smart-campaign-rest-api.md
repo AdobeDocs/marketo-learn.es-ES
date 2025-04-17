@@ -4,7 +4,7 @@ description: Obtenga información sobre cómo almacenar en déclencheur una camp
 feature: REST API
 role: Admin, Developer
 level: Experienced
-source-git-commit: dcfffa299cbcfef489f5b618fae29f745b878d26
+source-git-commit: e840968877b3947b2d24c9416104f1dd187082cc
 workflow-type: tm+mt
 source-wordcount: '611'
 ht-degree: 1%
@@ -54,13 +54,13 @@ You're registered for **{{my.WebinarTitle}}**.
 Join here: {{my.JoinLink}}
 ```
 
+Si utiliza un token para insertar dinámicamente una URL de imagen (por ejemplo, `{{my.WebinarImage}}`), debe envolver el token en una etiqueta de imagen de HTML:
+
+```html
+<img src="{{my.WebinarImage}}" alt="Webinar banner" />
+```
+
 >[!IMPORTANT]
->
->Si utiliza un token para insertar dinámicamente una URL de imagen (por ejemplo, `{{my.WebinarImage}}`), debe envolver el token en una etiqueta de imagen de HTML:
->
-> ```html
-> <img src="{{my.WebinarImage}}" alt="Webinar banner" />
-> ```
 >
 >Marketo Engage **no** procesará la imagen a menos que el token se coloque dentro de una etiqueta de imagen válida.
 
