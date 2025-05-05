@@ -24,4 +24,4 @@ Obtenga información sobre cómo crear, administrar y rastrear un programa de co
 
 Consulte la guía del producto para obtener más información sobre los programas de correo electrónico:
 
-* [Explicación de la documentación de programas de correo electrónico](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.html?lang=en)
+* [Explicación de la documentación de programas de correo electrónico](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.html?lang=es)

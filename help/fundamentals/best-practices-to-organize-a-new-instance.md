@@ -26,10 +26,10 @@ Cuando empiece a trabajar con Marketo Engage, la organización es clave. Mantene
 
 **Guías de productos:**
 
-* [Práctica recomendada: Cómo organizar los programas](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.html)
-* [Clonar un programa](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.html)
-* [Clonar un recurso en un programa](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.html)
-* [Importar un programa](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.html)
-* [Explicación de carpetas](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.html)
-* [Crear nueva carpeta de campaña](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.html)
-* [Explicación de espacios de trabajo y particiones de persona](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.html)
+* [Práctica recomendada: Cómo organizar los programas](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.html?lang=es)
+* [Clonar un programa](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.html?lang=es)
+* [Clonar un recurso en un programa](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.html?lang=es)
+* [Importar un programa](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.html?lang=es)
+* [Explicación de carpetas](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.html?lang=es)
+* [Crear nueva carpeta de campaña](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.html?lang=es)
+* [Explicación de espacios de trabajo y particiones de persona](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.html?lang=es)

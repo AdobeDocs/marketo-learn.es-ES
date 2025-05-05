@@ -23,7 +23,7 @@ ht-degree: 0%
 
 Si hereda una instancia de Marketo Engage activo que ha sido gestionada por varias personas, es posible que se encuentre haciendo notas mentales de todo lo que parece fuera de lugar. Es importante organizar el trabajo de limpieza y optimización categorizando las tareas y priorizando después las tareas que ayudan mucho.
 
-Este tutorial &quot;Consejos y trucos heredados de auditoría de instancias&quot;, procedente de Adobe Marketo Champions, proporciona una guía paso a paso a los nuevos administradores. El tutorial incluye [listas de comprobación de auditoría](https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/inheriting-a-marketo-engage-instance/where-to-start.html) descargables y plantillas para ayudarle a iniciar una instancia heredada de inmediato. Siga los tutoriales y siéntase inspirado por el aprendizaje de sus compañeros. 
+Este tutorial &quot;Consejos y trucos heredados de auditoría de instancias&quot;, procedente de Adobe Marketo Champions, proporciona una guía paso a paso a los nuevos administradores. El tutorial incluye [listas de comprobación de auditoría](https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/inheriting-a-marketo-engage-instance/where-to-start.html?lang=es) descargables y plantillas para ayudarle a iniciar una instancia heredada de inmediato. Siga los tutoriales y siéntase inspirado por el aprendizaje de sus compañeros. 
 
 ## Temas y lo que aprenderá
 

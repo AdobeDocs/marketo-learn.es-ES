@@ -23,4 +23,4 @@ ht-degree: 0%
 + [Desarrollar una guía de gobernanza de instancias](/help/tutorial-inherited-instance/develop-an-instance-governance-guide.md)
 + [Asignar visualmente su pila de tecnología de marketing](/help/tutorial-inherited-instance/create-a-visual-data-flow-diagram.md)
 + [Proceso de control de calidad previo al lanzamiento del programa](/help/tutorial-inherited-instance/essential-program-pre-launch-qa.md)
-+ [Tutorials Marketo Engage](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=en)
++ [Tutorials Marketo Engage](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=es)

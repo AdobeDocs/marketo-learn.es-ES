@@ -24,4 +24,4 @@ Aprenda a crear un programa de evento de feria comercial basado en un programa c
 
 Consulte la guía del producto para obtener más información sobre cómo crear un programa de eventos:
 
-* [Crear nueva documentación del programa de eventos](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.html?lang=en)
+* [Crear nueva documentación del programa de eventos](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.html?lang=es)
