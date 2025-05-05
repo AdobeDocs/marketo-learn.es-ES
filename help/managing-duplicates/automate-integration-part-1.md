@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Descubra cómo optimizar la administración de duplicados en Marketo Engage mediante integraciones de API con herramientas iPadS como Vertify o Workato.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429487/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3441920/?learn=on&enablevpops&captions=spa)

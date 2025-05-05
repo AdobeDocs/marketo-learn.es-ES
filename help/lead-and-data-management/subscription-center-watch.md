@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Vea cómo implementar procesos entre usted y sus suscriptores configurando y administrando su centro de suscripción.
 
->[!VIDEO](https://video.tv.adobe.com/v/345427/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3412233/?quality=12&learn=on&captions=spa){transcript=true}

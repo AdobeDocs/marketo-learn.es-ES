@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Obtenga información sobre cómo crear un programa de correo electrónico personalizado de newsletter en Marketo.
 
->[!VIDEO](https://video.tv.adobe.com/v/345470/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3411993/?quality=12&learn=on&captions=spa){transcript=true}

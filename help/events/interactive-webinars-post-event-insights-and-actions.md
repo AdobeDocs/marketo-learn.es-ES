@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Descubra dónde encontrar información detallada sobre el rendimiento y la participación del evento de seminarios web interactivos que se entregó. Descubra acciones para segmentar, puntuar y nutrir a los posibles clientes o participantes de forma personalizada en función de las perspectivas de participación y la intención recopiladas.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429641/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447851/?learn=on&captions=spa)

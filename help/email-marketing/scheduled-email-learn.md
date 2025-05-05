@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Prepárese para atraer a sus clientes como individuos en su marketing por correo electrónico. Aprenda a enviar mensajes atractivos relevantes para su audiencia y mida el ROI de sus campañas de correo electrónico.
 
->[!VIDEO](https://video.tv.adobe.com/v/345466/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3412018/?quality=12&learn=on&captions=spa){transcript=true}

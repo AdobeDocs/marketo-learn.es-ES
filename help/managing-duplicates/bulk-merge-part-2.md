@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Obtenga información sobre cómo ordenar y consolidar registros duplicados en Excel mediante fórmulas y prácticas recomendadas para importaciones de listas limpias.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429492/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3449681/?learn=on&enablevpops&captions=spa)

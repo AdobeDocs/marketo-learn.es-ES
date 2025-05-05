@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Aprenda a combinar manualmente los duplicados en la sección Base de datos, ideal para administrar menos registros con precisión y control.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429491/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443653/?learn=on&enablevpops&captions=spa)

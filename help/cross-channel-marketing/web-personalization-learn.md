@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Ofrezca una experiencia personal y relevante a cada visitante del sitio web en función de quiénes son y qué hacen. Obtenga información sobre la segmentación y la segmentación de los visitantes del sitio web para crear experiencias más adaptadas, significativas y atractivas.
 
->[!VIDEO](https://video.tv.adobe.com/v/345405/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3413415/?quality=12&learn=on&captions=spa){transcript=true}

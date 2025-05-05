@@ -20,7 +20,7 @@ ht-degree: 5%
 
 Desarrolle una comprensión básica y cree su primer programa de eventos viendo este vídeo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3419622/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453997/?learn=on&captions=spa){transcript=true}
 
 ## Recursos adicionales
 

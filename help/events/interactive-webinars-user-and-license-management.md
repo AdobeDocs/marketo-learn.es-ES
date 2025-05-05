@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Obtenga información sobre los permisos de usuario para seminarios web interactivos, así como la disponibilidad de licencias y la monitorización de límites de uso para licencias de seminarios web interactivos.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429635/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446119/?learn=on&captions=spa)

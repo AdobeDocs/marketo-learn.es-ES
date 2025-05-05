@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Descubra cómo el Mapa de participación puede aumentar la velocidad de su campaña.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422232/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3423310/?learn=on&captions=spa){transcript=true}

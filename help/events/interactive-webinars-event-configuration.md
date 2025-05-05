@@ -20,4 +20,4 @@ ht-degree: 1%
 
 Aprenda a configurar el evento de seminarios web interactivos antes de la entrega para adaptarlo al objetivo del seminario web y garantizar que la entrega sea lo suficientemente eficaz como para atraer a los participantes y generar interés y solicitar intención para la marca, el producto y los servicios. etc.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429637/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3448987/?learn=on&captions=spa)

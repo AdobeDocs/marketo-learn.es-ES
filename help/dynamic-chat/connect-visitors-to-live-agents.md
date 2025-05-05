@@ -26,4 +26,4 @@ Esto es lo mejor para:
 * Asegurarse de que siempre estás hablando con los que levantan las manos
 * Oferta después de rellenar el formulario o durante la conversación de chat automatizada
 
->[!VIDEO](https://video.tv.adobe.com/v/3424828/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452061/?learn=on&captions=spa)

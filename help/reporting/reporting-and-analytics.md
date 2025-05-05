@@ -22,7 +22,7 @@ ht-degree: 2%
 
 Obtenga información sobre cómo navegar por la sección Analytics and Database para extraer diferentes informes predeterminados en Marketo Engage.
 
->[!VIDEO](https://video.tv.adobe.com/v/3419295/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3446423/?learn=on&captions=spa){transcript=true}
 
 ## Recursos adicionales
 

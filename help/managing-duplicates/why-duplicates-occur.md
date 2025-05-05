@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Descubra cómo se originan los duplicados desde varias fuentes, incluidas las sincronizaciones de CRM, los rellenos de formulario y las importaciones de datos, y cómo minimizarlos.
 
->[!VIDEO](https://video.tv.adobe.com/v/3441864/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443893/?learn=on&enablevpops&captions=spa)

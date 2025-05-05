@@ -18,4 +18,4 @@ ht-degree: 0%
 
 La entrega de contenido relevante es una de las ideas más importantes en el marketing. Aprenda a utilizar la inteligencia artificial aplicada al contenido de Marketo y a aplicar contenido dinámico al trabajar con Marketo.
 
->[!VIDEO](https://video.tv.adobe.com/v/345485/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3411447/?quality=12&learn=on&captions=spa){transcript=true}

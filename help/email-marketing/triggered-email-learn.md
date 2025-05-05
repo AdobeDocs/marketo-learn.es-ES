@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Aprenda a usar [!DNL Marketo] para sacar el máximo partido a los comportamientos de los compradores mediante campañas de correo electrónico activadas para interactuar con mensajes relevantes y oportunos.
 
->[!VIDEO](https://video.tv.adobe.com/v/345479/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3411486/?quality=12&learn=on&captions=spa){transcript=true}

@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Cree un programa del ciclo vital de [!UICONTROL persona] que haga un seguimiento de sus posibles clientes mediante los estados del programa y que actúe en esos posibles clientes que estén listos para las ventas.
 
->[!VIDEO](https://video.tv.adobe.com/v/345423/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3412248/?quality=12&learn=on&captions=spa){transcript=true}

@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Acelere los esfuerzos de prospección con herramientas de participación e inteligencia impulsadas por marketing en un solo flujo de trabajo mediante acciones de perspectiva de ventas.
 
->[!VIDEO](https://video.tv.adobe.com/v/340917/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3447248/?quality=12&learn=on&captions=spa){transcript=true}
 
 ## Vídeos relacionados
 

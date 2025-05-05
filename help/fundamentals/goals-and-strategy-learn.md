@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Cuando todos sus esfuerzos de marketing encajen en una estrategia que admita los objetivos de su organización, podrá demostrar mejor el valor de sus programas y campañas. Aprenda a centralizar sus esfuerzos desarrollando sus objetivos y estrategia de marketing.
 
->[!VIDEO](https://video.tv.adobe.com/v/345419/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3413379/?quality=12&learn=on&captions=spa){transcript=true}

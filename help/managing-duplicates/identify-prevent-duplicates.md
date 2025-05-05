@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Explore herramientas y sugerencias para detectar duplicados y evitarlos con flujos de trabajo estructurados y auditorías periódicas.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429500/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3447101/?learn=on&enablevpops&captions=spa)

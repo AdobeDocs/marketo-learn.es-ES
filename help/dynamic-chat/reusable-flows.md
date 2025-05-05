@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Simplifica el diseño y la gestión de tus conversaciones con la nueva tarjeta de Flujo de Conversación. Cree una secuencia conversacional una vez y reúna varios cuadros de diálogo para adaptarla a sus necesidades.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429715/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446648/?learn=on&captions=spa)

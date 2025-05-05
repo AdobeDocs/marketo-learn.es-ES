@@ -18,4 +18,4 @@ ht-degree: 0%
 
 ¿No está seguro de cómo utilizar mejor el marketing social? Aprenda a aumentar de forma eficaz la imagen de marca y a fomentar la participación de la marca mediante su canal social.
 
->[!VIDEO](https://video.tv.adobe.com/v/345407/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3412040/?quality=12&learn=on&captions=spa){transcript=true}

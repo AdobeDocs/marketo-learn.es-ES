@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Vea cómo configurar y rastrear un programa de correo electrónico con contenido cerrado en Marketo.
 
->[!VIDEO](https://video.tv.adobe.com/v/345465/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3412030/?quality=12&learn=on&captions=spa){transcript=true}

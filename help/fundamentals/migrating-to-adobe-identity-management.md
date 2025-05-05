@@ -46,7 +46,7 @@ Para garantizar que su organización pueda migrar Adobe Marketo Engage a Adobe A
 
 En el siguiente vídeo, el equipo de administración de productos de Marketo Engage le explica el recorrido de migración y qué esperar.
 
->[!VIDEO](https://video.tv.adobe.com/v/3430920t3/?t=170/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3432370/?t=170/?quality=12&learn=on&captions=spa){transcript=true}
 
 Encontrará más ayuda sobre este tema para los administradores de Marketo Engage en los siguientes artículos de ayuda:
 

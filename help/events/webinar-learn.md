@@ -18,4 +18,4 @@ ht-degree: 0%
 
 ¿Listo para ejecutar un seminario web como parte de sus actividades de marketing? Descubra cómo funcionan los seminarios web con [!DNL Marketo Engage] y sus socios de seminarios web de Adobe Exchange.
 
->[!VIDEO](https://video.tv.adobe.com/v/345476/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3411661/?quality=12&learn=on&captions=spa){transcript=true}

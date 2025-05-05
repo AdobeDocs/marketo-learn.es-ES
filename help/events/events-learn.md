@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Aproveche la participación presencial en sus programas de marketing de eventos para crear relaciones, generar buena voluntad y ganarse la confianza de posibles compradores y clientes.
 
->[!VIDEO](https://video.tv.adobe.com/v/345472/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3411681/?quality=12&learn=on&captions=spa){transcript=true}

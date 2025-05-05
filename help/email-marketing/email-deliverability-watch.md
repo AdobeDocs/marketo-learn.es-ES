@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Descubra cómo optimizar la capacidad de entrega de correo electrónico mediante prácticas recomendadas, autenticación de correo electrónico y reputación.
 
->[!VIDEO](https://video.tv.adobe.com/v/345482/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3411471/?quality=12&learn=on&captions=spa){transcript=true}

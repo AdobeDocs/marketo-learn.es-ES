@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Descubra cómo crear perfiles de compradores, definir KPI, determinar la cadencia de la comunicación, utilizar el calendario de marketing de [!DNL Marketo] y mucho más para mejorar su estrategia de marketing móvil.
 
->[!VIDEO](https://video.tv.adobe.com/v/345402/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3413410/?quality=12&learn=on&captions=spa){transcript=true}

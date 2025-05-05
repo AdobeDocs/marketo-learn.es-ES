@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Obtenga información sobre cómo configurar asignaciones de campos, lógica de combinación y programación para automatizar la administración de duplicados entre las herramientas de Marketo Engage e iPadS. Esta demostración en vídeo del flujo de trabajo utiliza Vertify como ejemplo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429486/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3453810/?learn=on&enablevpops&captions=spa)

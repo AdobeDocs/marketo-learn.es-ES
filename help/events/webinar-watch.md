@@ -18,5 +18,5 @@ ht-degree: 0%
 
 Obtenga información sobre cómo crear un seminario web y administrarlo desde Marketo.
 
->[!VIDEO](https://video.tv.adobe.com/v/345477/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3411656/?quality=12&learn=on&captions=spa){transcript=true}
 

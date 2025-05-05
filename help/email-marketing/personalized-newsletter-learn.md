@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Interactúe con los clientes y posibles clientes de forma rentable mediante boletines de correo electrónico personalizados.
 
->[!VIDEO](https://video.tv.adobe.com/v/345471/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3411998/?quality=12&learn=on&captions=spa){transcript=true}

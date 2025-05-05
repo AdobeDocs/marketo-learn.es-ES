@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Una búsqueda rápida puede ayudarle a llegar a cualquier tarjeta de su diseñador de flujo en un solo clic.
 
->[!VIDEO](https://video.tv.adobe.com/v/3416925/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3437243/?quality=12&learn=on&captions=spa){transcript=true}
 
 ## Vídeos más útiles
 

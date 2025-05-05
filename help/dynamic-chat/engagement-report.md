@@ -20,7 +20,7 @@ ht-degree: 7%
 
 Ahora vea las tendencias de cómo los visitantes web interactúan con el cuadro de diálogo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3416921/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3437703/?quality=12&learn=on&captions=spa){transcript=true}
 
 ## Vídeos más útiles
 

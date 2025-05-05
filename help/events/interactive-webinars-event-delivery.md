@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Aprenda a ofrecer su evento de seminarios web interactivos de una manera óptima para lograr su objetivo y atraer a los asistentes. Asegúrese de que su contenido genere interés para que pueda solicitar la intención a través de diferentes herramientas de participación para ayudar a una nutrición y segmentación mejor personalizadas.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429638/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3440040/?learn=on&captions=spa)

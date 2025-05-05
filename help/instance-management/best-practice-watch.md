@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Descubra cómo implementar las prácticas recomendadas de instancias y programas sugeridos por Marketo en Marketo.
 
->[!VIDEO](https://video.tv.adobe.com/v/345421/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3412258/?quality=12&learn=on&captions=spa){transcript=true}

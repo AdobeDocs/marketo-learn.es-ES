@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Obtener algunos de sus mejores contenidos como estrategia de marketing de contenidos le ayudará a generar posibles clientes y a descubrir cuál de sus visitantes es grave. Obtenga información acerca del contenido cerrado, cómo funciona y los pasos para el éxito.
 
->[!VIDEO](https://video.tv.adobe.com/v/345464/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3412224/?quality=12&learn=on&captions=spa){transcript=true}

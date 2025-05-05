@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Aprenda a crear, personalizar y personalizar páginas de aterrizaje.
 
->[!VIDEO](https://video.tv.adobe.com/v/345469/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3412003/?quality=12&learn=on&captions=spa){transcript=true}

@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Obtenga información sobre cómo crear una prueba A/B de correo electrónico en Marketo para mejorar el rendimiento del correo electrónico.
 
->[!VIDEO](https://video.tv.adobe.com/v/345484/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3411452/?quality=12&learn=on&captions=spa){transcript=true}

@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Obtenga información sobre los informes clave dentro de Marketo Engage y cómo extraerlos.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420138/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3432182/?learn=on&captions=spa){transcript=true}
 
 ## Recursos adicionales
 

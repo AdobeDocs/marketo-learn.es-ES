@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Vea cómo crear, diseñar y organizar formularios que incluyen la generación progresiva de perfiles.
 
->[!VIDEO](https://video.tv.adobe.com/v/345475/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3411666/?quality=12&learn=on&captions=spa){transcript=true}

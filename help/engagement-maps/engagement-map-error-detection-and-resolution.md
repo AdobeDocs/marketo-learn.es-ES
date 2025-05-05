@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Descubra cómo el Mapa de participación ayuda a solucionar y solucionar problemas de campañas rápidamente
 
->[!VIDEO](https://video.tv.adobe.com/v/3422246/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3423292/?learn=on&captions=spa){transcript=true}

@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Atraiga, adquiera y comprometa a su audiencia desarrollando una estrategia de marketing de contenido. Conozca los pasos clave para el éxito que incluyen la optimización y medición del impacto del contenido.
 
->[!VIDEO](https://video.tv.adobe.com/v/345417/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3413385/?quality=12&learn=on&captions=spa){transcript=true}

@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Impulse conversiones más altas mediante la creación y el diseño de páginas de aterrizaje que incorporen prácticas recomendadas.
 
->[!VIDEO](https://video.tv.adobe.com/v/345468/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3412008/?quality=12&learn=on&captions=spa){transcript=true}

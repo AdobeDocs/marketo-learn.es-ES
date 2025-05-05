@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Aprenda a descifrar campañas interconectadas y profundamente anidadas para obtener una mejor visibilidad de todo el recorrido del cliente mediante el Mapa de participación.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422235/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3423301/?learn=on&captions=spa){transcript=true}

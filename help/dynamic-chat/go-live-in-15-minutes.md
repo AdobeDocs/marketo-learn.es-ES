@@ -18,6 +18,6 @@ ht-degree: 0%
 
 Una guía paso a paso para ayudarte a publicar tu primer cuadro de diálogo con [!UICONTROL Dynamic Chat] en solo 15 minutos.
 
->[!VIDEO](https://video.tv.adobe.com/v/342164/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452671/?quality=12&learn=on&captions=spa){transcript=true}
 
 *Nota: para aquellos que no saben cómo acceder a [!UICONTROL Dynamic Chat] , [aquí hay un breve vídeo](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/user-management.html?lang=es) para ayudarte a agregar a ti mismo o a otros usuarios a [!UICONTROL Dynamic Chat].*

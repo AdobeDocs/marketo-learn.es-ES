@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Vea cómo implementar pasos de éxito para crear estrategias beneficiosas de SEO y PPC.
 
->[!VIDEO](https://video.tv.adobe.com/v/345400/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3413405/?quality=12&learn=on&captions=spa){transcript=true}

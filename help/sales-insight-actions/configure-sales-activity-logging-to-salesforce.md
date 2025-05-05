@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Aprenda a configurar y registrar actividades de acciones de información de ventas en su cuenta de [!DNL Salesforce].
 
->[!VIDEO](https://video.tv.adobe.com/v/340843/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3449202/?quality=12&learn=on&captions=spa){transcript=true}
 
 ## Vídeos relacionados
 

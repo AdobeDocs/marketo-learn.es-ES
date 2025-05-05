@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Para ganar en el cambiante panorama del marketing digital de hoy en día, necesita un equipo que pueda responder a los desafíos en evolución que los especialistas en marketing afrontan cada día. Obtenga información sobre las formas de estructurar su organización de marketing para satisfacer los nuevos desafíos, los tipos de personas que necesita en el equipo y cómo posicionar mejor el marketing para encauzar su organización en la economía de la participación.
 
->[!VIDEO](https://video.tv.adobe.com/v/345416/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3413390/?quality=12&learn=on&captions=spa){transcript=true}

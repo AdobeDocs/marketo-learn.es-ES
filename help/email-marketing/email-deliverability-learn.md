@@ -18,4 +18,4 @@ ht-degree: 0%
 
 El mensaje de marketing no alcanzará sus objetivos si los correos electrónicos no llegan a las bandejas de entrada de los suscriptores. Obtenga información sobre cómo enviar correctamente correos electrónicos a los suscriptores que desean leerlos.
 
->[!VIDEO](https://video.tv.adobe.com/v/345481/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3411476/?quality=12&learn=on&captions=spa){transcript=true}

@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Previsualizar el cuadro de diálogo antes de publicar es muy fácil con la función de previsualización de cuadros de diálogo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3416923/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3436851/?quality=12&learn=on&captions=spa){transcript=true}
 
 ## Vídeos más útiles
 

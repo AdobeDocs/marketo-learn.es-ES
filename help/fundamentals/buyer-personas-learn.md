@@ -18,4 +18,4 @@ ht-degree: 0%
 
 ¿Quiere asegurarse de que el marketing de contenido atraiga a posibles compradores y genere posibles clientes? La creación de perfiles de comprador te ayudará a determinar qué tipo de contenido necesitas y cómo encontrarán y consumirán información los compradores.
 
->[!VIDEO](https://video.tv.adobe.com/v/345415/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3413395/?quality=12&learn=on&captions=spa){transcript=true}

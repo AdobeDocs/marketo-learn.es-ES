@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Vea cómo conectar [!DNL Marketo] a varios de nuestros socios de LaunchPoint para publicidad digital.
 
->[!VIDEO](https://video.tv.adobe.com/v/345404/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3412263/?quality=12&learn=on&captions=spa){transcript=true}

@@ -18,4 +18,4 @@ ht-degree: 0%
 
 ¿Sabes cuántos posibles clientes hay en cada etapa del recorrido del comprador y cuándo las ventas deben ponerse en contacto con ellos? Obtenga información sobre cómo crear un programa de ciclo vital de [!UICONTROL persona] que use la puntuación a para obtener información sobre dónde se encuentran los posibles clientes en su recorrido.
 
->[!VIDEO](https://video.tv.adobe.com/v/345422/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3412253/?quality=12&learn=on&captions=spa){transcript=true}

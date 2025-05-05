@@ -18,4 +18,4 @@ ht-degree: 0%
 
 ¿Tiene problemas para comunicarse con sus suscriptores? Deja que te digan qué comunicaciones quieren y con qué frecuencia quieren saber de ti. Aprenda a crear y administrar un centro de suscripciones para desarrollar una cadencia y un proceso adecuados.
 
->[!VIDEO](https://video.tv.adobe.com/v/345426/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3412228/?quality=12&learn=on&captions=spa){transcript=true}

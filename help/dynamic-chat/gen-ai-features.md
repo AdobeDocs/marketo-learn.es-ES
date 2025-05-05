@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Aprenda a impulsar conversaciones con tecnología GenAI y permita a sus visitantes hacer preguntas, obtener respuestas rápidas y generar un resumen de sus conversaciones. Aproveche las perspectivas conversacionales directamente en las instancias de Marketo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429153/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454474/?learn=on&captions=spa)

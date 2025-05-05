@@ -26,4 +26,4 @@ Casos de uso que puede desbloquear:
 - Contenido recomendado en función de las opciones o los intereses de los visitantes
 - Uso compartido de documentos y seguimiento de la participación
 
->[!VIDEO](https://video.tv.adobe.com/v/3429414/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3445104/?learn=on&captions=spa)
