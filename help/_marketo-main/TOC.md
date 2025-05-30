@@ -3,7 +3,7 @@ user-guide-title: Tutoriales de Marketo Engage
 user-guide-description: Una colección de vídeos y tutoriales para Adobe Marketo Engage.
 breadcrumb-title: Tutoriales de Marketo Engage
 auto-video-transcripts: true
-source-git-commit: 1f7221f18b629fb5a9ea7d9aa907ac847ff01c50
+source-git-commit: f5e642f54afb279cab8cd8084d5eed60faa7933c
 workflow-type: tm+mt
 source-wordcount: '470'
 ht-degree: 10%
@@ -26,13 +26,13 @@ ht-degree: 10%
    + [Prácticas recomendadas para organizar una nueva instancia](/help/fundamentals/best-practices-to-organize-a-new-instance.md)
    + [Prácticas recomendadas para crear programas básicos](/help/fundamentals/best-practices-for-creating-foundational-programs.md)
    + [Personalizar con tokens](/help/personalization/personalize-with-tokens.md)
-   + [Implementar una nueva instancia - Tutorial](https://experienceleague.adobe.com/es/docs/experiences-by-you/implementing-new-instance/overview)
+   + [Implementar una nueva instancia - Tutorial](https://experienceleague.adobe.com/en/docs/experiences-by-you/implementing-new-instance/overview)
    + [Auditar una instancia heredada: tutorial](https://experienceleague.adobe.com/docs/marketo-learn/auditing-an-inherited-instance/overview.html?lang=es)
 + Programas y campañas {#programs-and-campaigns}
    + [Explicación de los programas y campañas](/help/programs/understanding-programs-and-campaigns.md)
    + [Comprender la pertenencia al programa](/help/programs/understanding-program-membership.md)
    + [Campañas inteligentes 101](/help/campaigns/smart-campaigns-101.md)
-   + [Introducción a Canales, Etiquetas y Costes de Período](/help/campaigns/channels-tags-period-costs.md)
+   + [Introducción a Canales, Etiquetas y Costes de Período](/help/programs/channels-tags-period-costs.md)
    + [Programas de eventos](/help/programs/event-programs.md)
    + Programas predeterminados {#default-programs}
       + [Creación y medición de un programa predeterminado](/help/programs/create-and-measure-default-programs.md)
