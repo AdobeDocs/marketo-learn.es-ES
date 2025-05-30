@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Mejore la calidad de los posibles clientes que el marketing proporciona a las ventas mediante un programa de puntuación de posible cliente/persona. Obtenga información sobre la puntuación del posible cliente/persona, cómo funciona y los pasos para que el éxito se materialice en sus beneficios mensurables.
 
->[!VIDEO](https://video.tv.adobe.com/v/345424/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3412243/?quality=12&learn=on&captions=spa){transcript=true}
