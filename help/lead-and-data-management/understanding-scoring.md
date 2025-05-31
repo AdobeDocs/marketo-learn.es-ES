@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Aprenda a asignar puntuaciones a sus personas o posibles clientes para evaluar su participación con el contenido.
 
->[!VIDEO](https://video.tv.adobe.com/v/3463192/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463239/?learn=on&enablevpops&captions=spa)

@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Aprenda a crear una lista general de personas en Marketo Engage.
 
->[!VIDEO](https://video.tv.adobe.com/v/3463191/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463217/?learn=on&enablevpops&captions=spa)

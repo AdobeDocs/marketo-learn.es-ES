@@ -20,4 +20,4 @@ ht-degree: 12%
 
 Aprenda a encontrar grupos específicos de personas mediante filtros simples a través de listas inteligentes.
 
->[!VIDEO](https://video.tv.adobe.com/v/3463190/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463206/?learn=on&enablevpops&captions=spa)
