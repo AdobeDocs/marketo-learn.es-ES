@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Los tokens son variables que extraen datos personalizados para utilizarlos en pasos, correos electrónicos, páginas de aterrizaje y mucho más del flujo de campañas inteligentes.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470560/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470575/?learn=on&enablevpops&captions=spa)
