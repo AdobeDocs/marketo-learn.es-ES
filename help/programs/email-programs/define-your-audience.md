@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Obtenga información sobre cómo definir la audiencia deseada al utilizar un programa de correo electrónico.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470633/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470670/?learn=on&enablevpops&captions=spa)
