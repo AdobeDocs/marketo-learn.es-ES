@@ -3,10 +3,10 @@ user-guide-title: Tutoriales de Marketo Engage
 user-guide-description: Una colección de vídeos y tutoriales para Adobe Marketo Engage.
 breadcrumb-title: Tutoriales de Marketo Engage
 auto-video-transcripts: true
-source-git-commit: 543139a4013eedcea421bb7eeebea4bb683957a1
+source-git-commit: 9cf0fca2786f14ff1d2f4ddacce8b6f44ca964ca
 workflow-type: tm+mt
-source-wordcount: '501'
-ht-degree: 10%
+source-wordcount: '499'
+ht-degree: 13%
 
 ---
 
@@ -28,13 +28,13 @@ ht-degree: 10%
    + [Migración a Adobe Identity Management](/help/fundamentals/migrating-to-adobe-identity-management.md)
    + [Prácticas recomendadas para organizar una nueva instancia](/help/fundamentals/best-practices-to-organize-a-new-instance.md)
    + [Prácticas recomendadas para crear programas básicos](/help/fundamentals/best-practices-for-creating-foundational-programs.md)
-   + [Implementar una nueva instancia - Tutorial](https://experienceleague.adobe.com/es/docs/experiences-by-you/implementing-new-instance/overview)
+   + [Implementar una nueva instancia - Tutorial](https://experienceleague.adobe.com/en/docs/experiences-by-you/implementing-new-instance/overview)
    + [Auditar una instancia heredada: tutorial](https://experienceleague.adobe.com/docs/marketo-learn/auditing-an-inherited-instance/overview.html?lang=es)
 + Programas y campañas {#programs-and-campaigns}
    + [Explicación de los programas](/help/programs/understanding-programs.md)
    + [Explicación de los programas y campañas](/help/programs/understanding-programs-and-campaigns.md)
    + [Comprender la pertenencia al programa](/help/programs/understanding-program-membership.md)
-   + [Explicación de las campañas inteligentes](/help/campaigns/understanding-smart-campaigns.md)
+   + [Explicación de campañas inteligentes](/help/campaigns/understanding-smart-campaigns.md)
    + [Campañas inteligentes 101](/help/campaigns/smart-campaigns-101.md)
    + [Introducción a Canales, Etiquetas y Costes de Período](/help/programs/channels-tags-period-costs.md)
    + [Programas de eventos](/help/programs/event-programs.md)
@@ -42,7 +42,7 @@ ht-degree: 10%
       + [Creación y medición de un programa predeterminado](/help/programs/create-and-measure-default-programs.md)
       + [Aproveche la flexibilidad de los programas predeterminados](/help/programs/leverage-the-flexibility-of-default-programs.md)
    + Programas de correo electrónico {#email-programs}
-      + [Crear un programa de correo electrónico](/help/programs/email-programs/create-an-email-program.md)
+      + [Creación de un programa de correo electrónico](/help/programs/email-programs/create-an-email-program.md)
       + [Crear un correo electrónico](/help/programs/email-programs/create-an-email.md)
       + [Definición de la audiencia](/help/programs/email-programs/define-your-audience.md)
       + [Crear una página de aterrizaje](/help/programs/email-programs/create-a-landing-page.md)
@@ -63,7 +63,7 @@ ht-degree: 10%
    + [Páginas de destino](/help/email-marketing/landing-pages-learn.md)
    + [Introducción a las páginas de aterrizaje](/help/email-marketing/landing-pages-watch.md)
    + [Formularios](/help/email-marketing/forms-learn.md)
-   + [Entregabilidad de correos electrónicos](/help/email-marketing/email-deliverability-learn.md)
+   + [Entregabilidad del correo electrónico](/help/email-marketing/email-deliverability-learn.md)
    + [Recorrido de envío de correo electrónico](/help/email-marketing/email-deliverability-watch.md)
    + [Correo electrónico activado](/help/email-marketing/triggered-email-learn.md)
    + [Recorrido de correo electrónico activado](/help/email-marketing/triggered-email-watch.md)
@@ -76,7 +76,6 @@ ht-degree: 10%
    + [Guía de marketing móvil](/help/cross-channel-marketing/mobile-marketing-watch.md)
    + [SEO y PPC](/help/cross-channel-marketing/seo-and-ppc-learn.md)
    + [Guía de SEO y PPC](/help/cross-channel-marketing/seo-and-ppc-watch.md)
-   + [Marketing social](/help/cross-channel-marketing/social-marketing-learn.md)
    + [Personalización web](/help/cross-channel-marketing/web-personalization-learn.md)
    + [Guía de personalización web](/help/cross-channel-marketing/web-personalization-watch.md)
 + Dynamic Chat {#dynamic-chat}
@@ -125,7 +124,7 @@ ht-degree: 10%
    + [Creación de un programa de eventos](/help/events/events-learn.md)
    + [Seminarios web](/help/events/webinar-learn.md)
    + [Recorrido de seminarios web](/help/events/webinar-watch.md)
-   + [Información general sobre seminarios web interactivos](/help/events/interactive-webinars-overview.md)
+   + [Información general de seminarios web interactivos](/help/events/interactive-webinars-overview.md)
    + [Seminarios web interactivos Administración de usuarios y licencias](/help/events/interactive-webinars-user-and-license-management.md)
    + [Creación de programas de seminarios web interactivos](/help/events/interactive-webinars-event-program-creation.md)
    + [Resumen del programa de eventos de seminarios web interactivos](/help/events/interactive-webinars-event-program-overview.md)
