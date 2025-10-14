@@ -30,7 +30,7 @@ Para garantizar que su organización pueda migrar Adobe Marketo Engage a Adobe A
 
 * Confirme la Adobe Admin Console (o la organización de Adobe) a la que se migrarán las suscripciones de Marketo Engage. Es probable que tengas un Adobe Admin Console para [Dynamic Chat](/help/dynamic-chat/dynamic-chat-overview.md){target="_blank"}, una herramienta nativa de automatización de conversaciones en Marketo Engage. Las suscripciones de Marketo Engage deben implementarse en la misma organización que Dynamic Chat.
 
-* Trabaje con su equipo de TI para realizar la lista de permitidos de todos los dominios de Adobe enumerados [ en la parte superior de este artículo](https://experienceleague.adobe.com/es/docs/marketo/using/getting-started/initial-setup/configure-protocols-for-marketo){target="_blank"} para evitar la interrupción del acceso a Marketo Engage después de la migración a Adobe Identity.
+* Trabaje con su equipo de TI para realizar la lista de permitidos de todos los dominios de Adobe enumerados [&#x200B; en la parte superior de este artículo](https://experienceleague.adobe.com/es/docs/marketo/using/getting-started/initial-setup/configure-protocols-for-marketo){target="_blank"} para evitar la interrupción del acceso a Marketo Engage después de la migración a Adobe Identity.
 
 * **Opcional:** [Implementar el inicio de sesión único (SSO)](https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console#subscription-migration-complete){target="_blank"} antes de la migración de usuarios.
 
@@ -88,7 +88,7 @@ Nuestra suscripción a Marketo Engage se migrará pronto al sistema Identity Man
 
 * Adobe puede solicitar su consentimiento, como administrador del sistema de Admin Console, para migrar automáticamente a los usuarios a la consola existente de su organización. En el mensaje de correo electrónico con la línea de asunto &quot;Acción necesaria para administrar el acceso de los usuarios a Adobe Marketo Engage `[Package Tier]`&quot;, haga clic en el botón &quot;Comenzar&quot; para ir a la página de consentimiento.
 
-`3.` Después de la migración, Marketo Engage pasará de estar disponible desde experience.adobe.com a Adobe Experience Cloud. Realice una lista de permitidos de todos los dominios de Adobe enumerados [ en la parte superior de este artículo](https://experienceleague.adobe.com/es/docs/marketo/using/getting-started/initial-setup/configure-protocols-for-marketo){target="_blank"} para evitar interrupciones en el acceso a Marketo Engage.
+`3.` Después de la migración, Marketo Engage pasará de estar disponible desde experience.adobe.com a Adobe Experience Cloud. Realice una lista de permitidos de todos los dominios de Adobe enumerados [&#x200B; en la parte superior de este artículo](https://experienceleague.adobe.com/es/docs/marketo/using/getting-started/initial-setup/configure-protocols-for-marketo){target="_blank"} para evitar interrupciones en el acceso a Marketo Engage.
 
 `4.` **Opcional:** Configurar SSO (inicio de sesión único) en Adobe Admin Console.
 

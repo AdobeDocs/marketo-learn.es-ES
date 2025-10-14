@@ -27,7 +27,7 @@ Obtenga información sobre cómo navegar por la sección Analytics and Database 
 ## Recursos adicionales
 
 * **Documentación del producto**
-Obtenga información acerca de los diferentes informes que puede extraer: [Información general de informes](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/reporting-overview.html?lang=es&amp;sdid=M7K4SLTS&amp;mv=email&amp;mv2=instreml)
+Obtenga información acerca de los diferentes informes que puede extraer: [Información general de informes](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/reporting-overview.html?lang=es&sdid=M7K4SLTS&mv=email&mv2=instreml)
 
 * **Publicación de blog de experto del cliente**
 Aprenda de la campeona Chelsea Kiko en la creación de varios informes: [Informes en varios espacios de Marketo Engage](https://nation.marketo.com/t5/product-blogs/how-marketo-champion-chelsea-kiko-reports-in-various-marketo/ba-p/242627)
