@@ -28,7 +28,7 @@ Las campañas inteligentes son el motor de Marketo. Además de utilizar campaña
 
 **Documentación:**
 
-* [Explicación de la documentación de campañas inteligentes](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.html?lang=en)
+* [Explicación de la documentación de campañas inteligentes](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.html?lang=es)
 
 **Publicaciones del blog de clientes expertos:**
 
