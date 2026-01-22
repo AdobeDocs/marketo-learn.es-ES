@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Descubra cómo el mapa de interacción puede aumentar la velocidad de su campaña.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422232/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3423310/?captions=spa&learn=on){transcript=true}
