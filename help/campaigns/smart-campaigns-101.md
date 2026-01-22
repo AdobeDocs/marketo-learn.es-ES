@@ -11,26 +11,26 @@ thumbnail: 3420096.jpeg
 exl-id: fb050abb-5b43-42da-a4ae-83780d4abb1c
 feature: Smart Campaigns
 source-git-commit: 081fe7d08986c45f83a8edd1a0805a66e1ff20d6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '123'
-ht-degree: 40%
+ht-degree: 100%
 
 ---
 
 # Campañas inteligentes 101
 
-Las campañas inteligentes son el motor de Marketo. Además de utilizar campañas inteligentes para enviar correos electrónicos y programas, puede utilizar campañas inteligentes para una variedad de casos de uso. Descubra cómo puede utilizar campañas inteligentes para la normalización de datos y alertas automatizadas.
+Las campañas inteligentes son el motor de Marketo. Además de utilizar campañas inteligentes para enviar correos electrónicos y programas, puede utilizar campañas inteligentes para distintos casos de uso. Descubra cómo puede utilizar campañas inteligentes para la normalización de datos y las alertas automatizadas.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424489/?captions=spa&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3420096/?quality=12&learn=on){transcript=true}
 
 
 ## Recursos adicionales
 
 **Documentación:**
 
-* [Explicación de la documentación de campañas inteligentes](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.html?lang=es)
+* [Documentación sobre cómo entender las campañas inteligentes](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.html?lang=es)
 
 **Publicaciones del blog de clientes expertos:**
 
-* [Campañas Inteligentes 101: Una Profundización En La Función Más Potente De Adobe Marketo Engage](https://nation.marketo.com/t5/product-blogs/smart-campaigns-101-a-deep-dive-into-adobe-marketo-engage-s-most/ba-p/313385#M1838)
+* [Campañas Inteligentes 101: profundización de la función más potente de Adobe Marketo Engage](https://nation.marketo.com/t5/product-blogs/smart-campaigns-101-a-deep-dive-into-adobe-marketo-engage-s-most/ba-p/313385#M1838)
 * [Serie de éxito de Marketo: campañas inteligentes](https://nation.marketo.com/t5/product-blogs/marketo-success-series-smart-campaigns/ba-p/306961)
