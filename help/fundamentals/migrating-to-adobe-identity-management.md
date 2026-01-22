@@ -38,7 +38,7 @@ Para garantizar que su organización pueda migrar de Adobe Marketo Engage a Adob
   >
   >Existen diferencias entre el SSO compatible con Marketo Engage y el SSO de Adobe Admin Console. Por lo tanto, es posible que sea necesario implementar cambios en la configuración.
 
-* **Opcional:** personalice el [tiempo de duración máximo de sesión deseado](https://helpx.adobe.com/enterprise/using/authentication-settings.html?lang=es#advanced-settings){target="_blank"} antes de la migración de usuarios para que los usuarios de Marketo Engage permanezcan autenticados.
+* **Opcional:** personalice el [tiempo de duración máximo de sesión deseado](https://helpx.adobe.com/es/enterprise/using/authentication-settings.html?lang=es#advanced-settings){target="_blank"} antes de la migración de usuarios para que los usuarios de Marketo Engage permanezcan autenticados.
 
 * Aprenda qué debe comunicarse con los administradores del sistema en la [Sección de muestra de correo electrónico](#announce-the-migration-timeline).
 
@@ -94,7 +94,7 @@ Nuestra suscripción a Marketo Engage pronto se migrará al sistema de administr
 
 * Para beneficiar a nuestros usuarios que inician sesión con SSO en Adobe Identity a partir de ahora, ayude a configurar el SSO en Adobe Admin Console antes de que se produzca la migración de usuarios.
 
-`5.` **Opcional:** establezca un [tiempo de duración máximo de sesión](https://helpx.adobe.com/enterprise/using/authentication-settings.html?lang=es#advanced-settings){target="_blank"} más largo en Adobe Admin Console.
+`5.` **Opcional:** establezca un [tiempo de duración máximo de sesión](https://helpx.adobe.com/es/enterprise/using/authentication-settings.html?lang=es#advanced-settings){target="_blank"} más largo en Adobe Admin Console.
 
 * Para evitar que los usuarios tengan que iniciar sesión con frecuencia, personalice la duración de la sesión en la Configuración avanzada con una duración más larga.
 
