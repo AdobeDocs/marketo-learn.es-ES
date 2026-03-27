@@ -1,6 +1,6 @@
 ---
-title: Sugerencias y trucos para auditar una instancia de Marketo Engage heredada
-description: Aprenda a optimizar y escalar una instancia de Marketo Engage en directo que haya heredado.
+title: Sugerencias y trucos para auditar una instancia heredada de Marketo Engage
+description: Aprenda a optimizar y escalar una instancia de Marketo Engage activa que haya heredado.
 feature: Administration
 role: Admin
 level: Beginner
@@ -8,22 +8,22 @@ doc-type: Tutorial
 last-substantial-update: 2023-10-16T00:00:00Z
 jira: KT-13890
 thumbnail: KT-13890.jpeg
-hide: false
+index: true
 exl-id: e42b8fe8-1d9d-4cc1-8175-c47d911f96f3
-source-git-commit: 681d390ce5ab336a7e24cc63256659a492288517
+source-git-commit: 66ace67a9f5e1df875a56124676842372c93589b
 workflow-type: tm+mt
-source-wordcount: '270'
+source-wordcount: '295'
 ht-degree: 0%
 
 ---
 
 # Sugerencias y trucos para auditar una instancia de Marketo Engage heredada: Información general del tutorial
 
-*Source: Campeones del Adobe Marketo*
+*Source: Adobe Marketo Champions*
 
-Si hereda una instancia de Marketo Engage activo que ha sido gestionada por varias personas, es posible que se encuentre haciendo notas mentales de todo lo que parece fuera de lugar. Es importante organizar el trabajo de limpieza y optimización categorizando las tareas y priorizando después las tareas que ayudan mucho.
+Si hereda una instancia de Marketo Engage activa que ha sido administrada por varias personas, es posible que se encuentre tomando notas mentales de todo lo que parece fuera de lugar. Es importante organizar el trabajo de limpieza y optimización categorizando las tareas y priorizando después las tareas que ayudan mucho.
 
-Este tutorial &quot;Consejos y trucos heredados de auditoría de instancias&quot;, procedente de Adobe Marketo Champions, proporciona una guía paso a paso a los nuevos administradores. El tutorial incluye [listas de comprobación de auditoría](https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/inheriting-a-marketo-engage-instance/where-to-start.html?lang=es) descargables y plantillas para ayudarle a iniciar una instancia heredada de inmediato. Siga los tutoriales y siéntase inspirado por el aprendizaje de sus compañeros. 
+Este tutorial &quot;Consejos y trucos heredados de auditoría de instancias&quot;, originado en Adobe Marketo Champions, proporciona orientación paso a paso para nuevos administradores. El tutorial incluye [listas de comprobación de auditoría](https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/inheriting-a-marketo-engage-instance/where-to-start.html) descargables y plantillas para ayudarle a iniciar una instancia heredada de inmediato. Siga los tutoriales y siéntase inspirado por el aprendizaje de sus compañeros. 
 
 ## Temas y lo que aprenderá
 
