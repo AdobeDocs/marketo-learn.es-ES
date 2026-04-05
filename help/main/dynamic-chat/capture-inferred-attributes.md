@@ -20,7 +20,7 @@ ht-degree: 7%
 
 Dado que Dynamic Chat utiliza la misma cookie munchkin de Adobe Marketo Engage, ahora identificamos y rellenamos atributos deducidos con cada persona capturada a través de Dynamic Chat.
 
->[!VIDEO](https://video.tv.adobe.com/v/3416922/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3436184/?captions=spa&quality=12&learn=on){transcript=true}
 
 ## Vídeos más útiles
 

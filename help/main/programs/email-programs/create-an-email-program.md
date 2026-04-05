@@ -20,4 +20,4 @@ ht-degree: 16%
 
 Aprenda a utilizar un programa de correo electrónico para enviar rápida y fácilmente un correo electrónico a varios destinatarios y rastrear sus resultados.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470607/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470610/?captions=spa&learn=on&enablevpops)

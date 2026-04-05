@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Vea cómo crear un programa operativo de puntuación de posible cliente/persona, utilizar tokens en la campaña e importar campañas creadas previamente.
 
->[!VIDEO](https://video.tv.adobe.com/v/345425/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3412238/?captions=spa&quality=12&learn=on){transcript=true}

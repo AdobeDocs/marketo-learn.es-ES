@@ -20,7 +20,7 @@ ht-degree: 13%
 
 Conozca los cuatro tipos de programas, cómo importar programas, programas de puntuación de posibles clientes/personas y definición de etiquetas de canal. Conozca los casos de uso comunes y las prácticas recomendadas.
 
->[!VIDEO](https://video.tv.adobe.com/v/3421275/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422760/?captions=spa&learn=on){transcript=true}
 
 ## Recursos adicionales
 

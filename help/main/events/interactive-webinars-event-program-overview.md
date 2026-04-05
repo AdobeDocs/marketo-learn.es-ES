@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Haga un rápido recorrido por los distintos elementos de un programa de eventos de seminarios web interactivos y conozca las acciones que puede realizar para perfeccionarlo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429640/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3450083/?captions=spa&learn=on)

@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Descubra cómo los servicios profesionales de Adobe pueden ayudarle a administrar registros duplicados con un enfoque sin complicaciones.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429501/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3436786/?captions=spa&learn=on&enablevpops)

@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Conoce cómo progresan los posibles clientes en las distintas etapas de su recorrido de comprador.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470572/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470598/?captions=spa&learn=on&enablevpops)

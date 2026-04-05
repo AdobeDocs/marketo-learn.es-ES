@@ -18,7 +18,7 @@ ht-degree: 33%
 
 Una guía para ayudarle a instalar un bot de chat de JavaScript en su sitio web o página de destino, así como personalizar su aspecto para que coincida con su marca.
 
->[!VIDEO](https://video.tv.adobe.com/v/340257/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/345020/?captions=spa&quality=12&learn=on){transcript=true}
 
 ## Vídeos más útiles
 

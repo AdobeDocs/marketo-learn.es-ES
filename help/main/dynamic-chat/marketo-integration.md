@@ -18,7 +18,7 @@ ht-degree: 4%
 
 [!UICONTROL Dynamic Chat] está integrado de forma nativa en [!DNL Marketo Engage], lo que le permite usar el contexto de las conversaciones del bot de chat para redireccionar o puntuar a sus posibles clientes.
 
->[!VIDEO](https://video.tv.adobe.com/v/340260/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/345041/?captions=spa&quality=12&learn=on){transcript=true}
 
 ## Vídeos más útiles
 

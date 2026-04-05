@@ -18,7 +18,7 @@ ht-degree: 2%
 
 Obtenga información sobre cómo crear, administrar y rastrear un programa de correo electrónico programado.
 
->[!VIDEO](https://video.tv.adobe.com/v/345467/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3412013/?captions=spa&quality=12&learn=on){transcript=true}
 
 ## Recursos adicionales
 

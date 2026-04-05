@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Aprenda a configurar un programa de eventos que le permita crear y programar eventos de seminarios web interactivos en Marketo Engage.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429639/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443415/?captions=spa&learn=on)

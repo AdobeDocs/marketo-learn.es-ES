@@ -18,4 +18,4 @@ ht-degree: 0%
 
 ¿Su sitio web se está perdiendo en cientos de resultados de búsqueda? Aprenda a aumentar su visibilidad de la marca mejorando sus estrategias de SEO y PPC.
 
->[!VIDEO](https://video.tv.adobe.com/v/345401/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3413400/?captions=spa&quality=12&learn=on){transcript=true}
