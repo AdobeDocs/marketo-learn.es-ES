@@ -28,7 +28,7 @@ Obtenga información sobre los informes clave dentro de Marketo Engage y cómo e
 
 Lea las guías del producto relacionadas:
 
-* [Información general del tipo de informe](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-types/report-type-overview.html?lang=en)
+* [Información general del tipo de informe](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-types/report-type-overview.html?lang=es)
 
 Aprenda de sus compañeros:
 
