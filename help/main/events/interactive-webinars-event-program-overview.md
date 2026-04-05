@@ -1,0 +1,23 @@
+---
+title: Información general del programa de eventos de seminarios web interactivos
+description: Haga un rápido recorrido por los distintos elementos de un programa de eventos de seminarios web interactivos y conozca las acciones que puede realizar para perfeccionarlo.
+feature: Interactive Webinars
+role: User
+level: Beginner
+doc-type: Feature Video
+duration: 359
+last-substantial-update: 2024-06-05T00:00:00Z
+jira: KT-15702
+exl-id: d0567944-7126-4e4e-b477-74ad4d7ec3ff
+source-git-commit: 096d4b42008446a72f92b8fe509c0c216bc8f904
+workflow-type: tm+mt
+source-wordcount: '58'
+ht-degree: 100%
+
+---
+
+# Información general del programa de eventos de seminarios web interactivos
+
+Haga un rápido recorrido por los distintos elementos de un programa de eventos de seminarios web interactivos y conozca las acciones que puede realizar para perfeccionarlo.
+
+>[!VIDEO](https://video.tv.adobe.com/v/3429640/?learn=on)
