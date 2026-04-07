@@ -3,9 +3,9 @@ user-guide-title: Tutoriales de Marketo Engage
 user-guide-description: Una colección de vídeos y tutoriales para Adobe Marketo Engage.
 breadcrumb-title: Tutoriales de Marketo Engage
 auto-video-transcripts: true
-source-git-commit: 85ab4e6b4a14b2dfa2faf6b427cb86aab72dc7d0
+source-git-commit: a5807ceea7529380a7e8a03774f8f0956d385693
 workflow-type: tm+mt
-source-wordcount: '546'
+source-wordcount: '548'
 ht-degree: 95%
 
 ---
@@ -151,5 +151,6 @@ ht-degree: 95%
    + [Simplificar la administración de duplicados](/help/main/managing-duplicates/simplify-acs.md)
    + [Elija la mejor estrategia para administrar duplicados](/help/main/managing-duplicates/duplicate-strategy.md)
 + Shorts {#shorts}
-   + [Asistente de IA para Email Designer](/help/main/shorts/ai-assistant-email-designer.md)
+   + [Asistente de IA para diseñador de correo electrónico](/help/main/shorts/ai-assistant-email-designer.md)
+   + [Contenido condicional](/help/main/shorts/conditional-content.md)
 
