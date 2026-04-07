@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Utilice el asistente de IA en el Designer de correo electrónico de Marketo Engage para crear correos electrónicos contemporáneos, eficaces e intuitivos.
 
->[!VIDEO](https://video.tv.adobe.com/v/3483183/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483187/?captions=spa&learn=on&enablevpops)
