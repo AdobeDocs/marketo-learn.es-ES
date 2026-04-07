@@ -19,4 +19,4 @@ ht-degree: 14%
 
 Aprenda a controlar dinámicamente qué contenido se ve por cada audiencia.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481282/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3481285/?captions=spa&learn=on&enablevpops)
