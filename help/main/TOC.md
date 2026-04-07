@@ -3,17 +3,17 @@ user-guide-title: Tutoriales de Marketo Engage
 user-guide-description: Una colección de vídeos y tutoriales para Adobe Marketo Engage.
 breadcrumb-title: Tutoriales de Marketo Engage
 auto-video-transcripts: true
-source-git-commit: 22d16ad38bdaa319705cc26ac96056f33c4a255d
+source-git-commit: 85ab4e6b4a14b2dfa2faf6b427cb86aab72dc7d0
 workflow-type: tm+mt
-source-wordcount: '548'
-ht-degree: 96%
+source-wordcount: '546'
+ht-degree: 95%
 
 ---
 
 
 # Tutoriales de [!DNL Marketo Engage] {#tutorials}
 
-+ [Tutoriales de [!DNL Marketo Engage]](overview.md)
++ [Tutoriales de [!DNL Marketo Engage]](/help/main/overview.md)
 + Aspectos básicos {#fundamentals}
    + [Objetivos y estrategia](/help/main/fundamentals/goals-and-strategy-learn.md)
    + [Estructura organizativa](/help/main/fundamentals/organizational-structure-learn.md)
@@ -74,8 +74,6 @@ ht-degree: 96%
    + [Recorrido por los formularios](/help/main/email-marketing/forms-watch.md)
    + [Integración del marketing móvil](/help/main/cross-channel-marketing/mobile-marketing-learn.md)
    + [Recorrido por el marketing móvil](/help/main/cross-channel-marketing/mobile-marketing-watch.md)
-   + [SEO y PPC](/help/main/cross-channel-marketing/seo-and-ppc-learn.md)
-   + [Recorrido por SEO y PPC](/help/main/cross-channel-marketing/seo-and-ppc-watch.md)
    + [Personalización web](/help/main/cross-channel-marketing/web-personalization-learn.md)
    + [Recorrido por la personalización web](/help/main/cross-channel-marketing/web-personalization-watch.md)
 + Dynamic Chat {#dynamic-chat}
@@ -152,3 +150,6 @@ ht-degree: 96%
    + [Automatización de la administración de duplicados, parte 2](/help/main/managing-duplicates/automate-integration-part-2.md)
    + [Simplificar la administración de duplicados](/help/main/managing-duplicates/simplify-acs.md)
    + [Elija la mejor estrategia para administrar duplicados](/help/main/managing-duplicates/duplicate-strategy.md)
++ Shorts {#shorts}
+   + [Asistente de IA para Email Designer](/help/main/shorts/ai-assistant-email-designer.md)
+

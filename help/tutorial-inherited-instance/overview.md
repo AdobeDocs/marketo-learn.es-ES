@@ -10,7 +10,7 @@ jira: KT-13890
 thumbnail: KT-13890.jpeg
 index: true
 exl-id: e42b8fe8-1d9d-4cc1-8175-c47d911f96f3
-source-git-commit: 66ace67a9f5e1df875a56124676842372c93589b
+source-git-commit: 68bcc96ad48de8df1ab64c45fe5ce80af21bc288
 workflow-type: tm+mt
 source-wordcount: '295'
 ht-degree: 0%
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 Si hereda una instancia de Marketo Engage activa que ha sido administrada por varias personas, es posible que se encuentre tomando notas mentales de todo lo que parece fuera de lugar. Es importante organizar el trabajo de limpieza y optimización categorizando las tareas y priorizando después las tareas que ayudan mucho.
 
-Este tutorial &quot;Consejos y trucos heredados de auditoría de instancias&quot;, originado en Adobe Marketo Champions, proporciona orientación paso a paso para nuevos administradores. El tutorial incluye [listas de comprobación de auditoría](https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/inheriting-a-marketo-engage-instance/where-to-start.html?lang=es) descargables y plantillas para ayudarle a iniciar una instancia heredada de inmediato. Siga los tutoriales y siéntase inspirado por el aprendizaje de sus compañeros. 
+Este tutorial &quot;Consejos y trucos heredados de auditoría de instancias&quot;, originado en Adobe Marketo Champions, proporciona orientación paso a paso para nuevos administradores. El tutorial incluye [listas de comprobación de auditoría](https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/inheriting-a-marketo-engage-instance/where-to-start.html) descargables y plantillas para ayudarle a iniciar una instancia heredada de inmediato. Siga los tutoriales y siéntase inspirado por el aprendizaje de sus compañeros.
 
 ## Temas y lo que aprenderá
 
@@ -33,7 +33,7 @@ Este tutorial &quot;Consejos y trucos heredados de auditoría de instancias&quot
 * **[Registrar errores de sincronización de CRM para facilitar la resolución de problemas](/help/tutorial-inherited-instance/log-crm-sync-errors-for-easy-troubleshootig.md)**
   *Aprenda a establecer una rutina de administración para revisar las notificaciones, la sincronización de CRM, el punto de inicio y los servicios web, así como para solucionar errores a tiempo.*
 
-* **[Desarrollar una guía de administración de instancias](/help/tutorial-inherited-instance/develop-an-instance-governance-guide.md)**
+* **[Desarrollar una guía de gobernanza de instancia](/help/tutorial-inherited-instance/develop-an-instance-governance-guide.md)**
   *Aprenda a lograr ganancias de eficiencia rápida para optimizar la generación, el control y las operaciones de marketing generales del programa*
 
 * **[Asigne visualmente su pila de tecnología de marketing](/help/tutorial-inherited-instance/create-a-visual-data-flow-diagram.md)**
