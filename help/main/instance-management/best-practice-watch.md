@@ -4,11 +4,10 @@ description: Descubra cómo implementar las prácticas recomendadas de instancia
 role: User
 level: Beginner
 jira: KT-10737
-hidefromtoc: true
 hide: true
 thumbnail: 345421.jpeg
 exl-id: 6dc6cf48-240a-45fd-9156-ece411064e89
-source-git-commit: 096d4b42008446a72f92b8fe509c0c216bc8f904
+source-git-commit: 62ea57d025da4f21bc289ce2d454b51e9e2ff415
 workflow-type: tm+mt
 source-wordcount: '41'
 ht-degree: 0%
