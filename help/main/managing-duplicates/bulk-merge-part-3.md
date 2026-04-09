@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Finalice la combinación masiva reimportando los datos limpios en Marketo Engage y administrando los duplicados de forma eficaz con una campaña operativa.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429488/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3452750/?captions=spa&learn=on&enablevpops)

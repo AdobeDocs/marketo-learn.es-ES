@@ -19,4 +19,4 @@ ht-degree: 25%
 
 Recapile las soluciones clave para gestionar duplicados en Marketo Engage y elija la mejor solución para las necesidades y los recursos de su equipo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429502/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3436643/?captions=spa&learn=on&enablevpops)
