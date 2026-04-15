@@ -3,10 +3,10 @@ title: Tutoriales de Marketo Engage
 description: Vea tutoriales de vídeo sobre  [!DNL Marketo Engage]. Mejore su comprensión sobre cómo utilizar las funciones de automatización de marketing y mucho más.
 doc-type: overview-page
 exl-id: 1b2d6334-377a-4f59-923a-ecbe0dc0ba0c
-source-git-commit: 1ff5db25b71902fa4ad0e10a1466c9a12dd63404
+source-git-commit: ecf4ce8d2f81b04c2eb95ef0d580b0987d71f893
 workflow-type: tm+mt
-source-wordcount: '249'
-ht-degree: 73%
+source-wordcount: '216'
+ht-degree: 71%
 
 ---
 
@@ -25,14 +25,14 @@ Examine nuestra biblioteca de tutoriales y aproveche al máximo [!DNL Marketo En
 
 ## Novedades {#whats-new}
 
-* [Asistente de IA para correo electrónico en Designer](https://experienceleague.adobe.com/es/docs/marketo-learn/tutorials/shorts/ai-assistant-email-designer)
+* [Importación de plantilla](/help/main/shorts/template-import.md)
+  _Aprenda a importar las plantillas de correo electrónico existentes del editor clásico en el Designer de correo electrónico, preservando los diseños y acelerando la creación de plantillas.._
+
+* [Asistente de IA para correo electrónico en Designer](/help/main/shorts/ai-assistant-email-designer.md)
   _Use el Asistente para IA en Marketo Engage Email Designer para crear correos electrónicos contemporáneos, eficaces e intuitivos._
 
-* [Contenido condicional](https://experienceleague.adobe.com/es/docs/marketo-learn/tutorials/shorts/conditional-content)
+* [Contenido condicional](/help/main/shorts/conditional-content.md)
   _Aprenda a controlar dinámicamente qué contenido ve cada audiencia._
-
-* [Prácticas recomendadas para implementar el chat en vivo](https://experienceleague.adobe.com/es/docs/marketo-learn/tutorials/dynamic-chat/live-chat-best-practices)
-  _Conozca las prácticas recomendadas que debe seguir al implementar la función de chat en directo en Dynamic Chat._
 
 ## Vídeos más populares {#most-popular-videos}
 

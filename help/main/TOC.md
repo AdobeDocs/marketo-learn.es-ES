@@ -3,9 +3,9 @@ user-guide-title: Tutoriales de Marketo Engage
 user-guide-description: Una colección de vídeos y tutoriales para Adobe Marketo Engage.
 breadcrumb-title: Tutoriales de Marketo Engage
 auto-video-transcripts: true
-source-git-commit: 1ff5db25b71902fa4ad0e10a1466c9a12dd63404
+source-git-commit: a5c3faae17e635dc2a7b5fc802b99b8c54276252
 workflow-type: tm+mt
-source-wordcount: '543'
+source-wordcount: '545'
 ht-degree: 84%
 
 ---
@@ -152,4 +152,5 @@ ht-degree: 84%
 + Shorts {#shorts}
    + [Asistente de IA para diseñador de correo electrónico](/help/main/shorts/ai-assistant-email-designer.md)
    + [Contenido condicional](/help/main/shorts/conditional-content.md)
+   + [Importación de plantillas](/help/main/shorts/template-import.md)
 
