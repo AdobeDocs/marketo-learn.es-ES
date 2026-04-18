@@ -20,4 +20,4 @@ ht-degree: 8%
 
 Obtenga información sobre cómo importar las plantillas de correo electrónico existentes desde el editor clásico a Email Designer, preservando los diseños y acelerando la creación de plantillas.
 
->[!VIDEO](https://video.tv.adobe.com/v/3483490/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483493/?captions=spa&learn=on&enablevpops)
