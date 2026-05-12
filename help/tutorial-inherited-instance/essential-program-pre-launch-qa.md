@@ -5,14 +5,47 @@ feature: Administration
 role: Admin
 level: Intermediate, Experienced
 doc-type: Tutorial
-last-substantial-update: 2023-10-16T00:00:00Z
+last-substantial-update: 2023-10-16T00:00:00.000Z
 jira: KT-13888
 thumbnail: KT-13888.jpeg
 index: true
 exl-id: d8c743eb-28d9-4509-8f96-f369167d423c
-source-git-commit: 98e4cfe72cc7dfe0158f49c910d263d8e4671297
+TQID: https://experienceleague.adobe.com/-JKThAf-WSFUCKjDwYt4eeIDiCjXDd11YI8P-jXoU94
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+  - id: c954475c-8548-4e33-a0b8-6b550d956115
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2:
+  - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
+  - id: ad89fb33-8541-4339-afe7-bb13d1633714
+  - id: cdd4e0f6-e87e-453f-88ee-2ee54a7de272
+  - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
+  - id: df8eb12b-4f82-491f-acbb-d74012ca5654
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2:
+  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+source-git-commit: 0f8ea3988fd586ccbd4b414b3558f6e5f36882bf
 workflow-type: tm+mt
-source-wordcount: '6064'
+source-wordcount: 6064
 ht-degree: 2%
 
 ---
@@ -168,7 +201,7 @@ Puede haber elementos que faltan o que no son aplicables, ya que su equipo ejecu
 | 2 | **Nombre del remitente** | ¿Ha consultado con el propietario de la marca y ha confirmado que el nombre es seguro para su uso? | **Sí:** <br>Si no puede responder con un sí, debe comprobarlo antes de continuar. | [Edita el encabezado de tu correo electrónico](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/general/creating-an-email/edit-your-email-header.html?lang=es){target="_blank"}<br><br>[Cambia la etiqueta predeterminada Desde correo electrónico y Desde](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/email-setup/change-the-default-from-email-and-from-label.html?lang=es){target="_blank"} |
 | 3 | **Dirección de respuesta** | ¿Ha consultado con el propietario de la marca y ha confirmado que es seguro para su uso? | **Sí:** <br> Si no puede responder con un sí, debe comprobarlo antes de continuar. | [Editar el encabezado del correo electrónico](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/general/creating-an-email/edit-your-email-header.html?lang=es){target="_blank"} |
 | 4 | **Configuración del encabezado previo** | ¿Ha configurado el encabezado previo según las prácticas recomendadas (es decir, mín. 80 caracteres, frases completas, carga frontal de los bits valiosos)? | **Sí:** <br><br>Si no puede responder con un sí, debe actualizar antes de continuar. | [Configuración de correo electrónico](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.html?lang=es){target="_blank"} |
-| 5 | **Revisión de copia** | ¿Hay algún problema ortográfico o gramatical? <br>¿El tono es apropiado para su marca? | **Sí:** <br>Si no puede responder con un sí, debe corregirlo antes de continuar. |  |
+| 5 | **Revisión de copia** | ¿Hay algún problema ortográfico o gramatical? <br>¿Es el tono apropiado para su marca? | **Sí:** <br>Si no puede responder con un sí, debe corregirlo antes de continuar. |  |
 | 6 | **Capacidad De Exploración** | ¿Puede comprender la información clave de este correo electrónico durante un análisis? | **Sí o no aplicable:** <br>La práctica recomendada de correo electrónico sugiere que es importante asegurarse de que el mensaje clave del correo electrónico se pueda entender durante un análisis. Si decide no aplicar esta práctica, tenga en cuenta que puede afectar al rendimiento del correo electrónico. |  |
 | 7 | **Cancelar suscripción** | ¿El correo electrónico tiene un vínculo funcional de cancelación de suscripción que ha probado? | **Sí o no aplicable:**<br> No aplicable solo debe ser válido si el correo electrónico está [operativo](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.html?lang=es){target="_blank"}. Tenga la seguridad de que no es necesario cancelar la suscripción, si tiene dudas, la inclusión es más segura. | [Descripción de la cancelación de suscripción](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/deliverability/understanding-unsubscribe.html?lang=es){target="_blank"} |
 | 8 | **Versión del texto** | <li>¿Ha creado una versión de texto del correo electrónico? <li>¿Se ha enviado usted mismo a probar la versión de texto? | **Sí:**<br> Si no puede responder con un sí, debe realizar la prueba antes de continuar. |  |
@@ -185,7 +218,7 @@ Puede haber elementos que faltan o que no son aplicables, ya que su equipo ejecu
 | 19 | **Pruebas A/B y Champ/Challenger** | ¿Estás realizando alguna prueba de campeón/aspirante en el correo electrónico? | **Sí o no:**<br> Si no está realizando ninguna prueba, piense si puede estar perdiendo la oportunidad de obtener más información acerca de su audiencia. | [Crear una prueba A/B](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/email-marketing/ab-testing-watch.html?lang=es)<br><br>[Agregar un campeón/aspirante de correo electrónico](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.html?lang=es){target="_blank"} |
 | 20 | **Pruebas de cliente** | ¿Ha ejecutado el correo electrónico a través del software de prueba del cliente?<li>¿Ha identificado algún problema de visualización con los principales clientes de correo electrónico? <li>¿Ha corregido o registrado como corrección de plantilla no urgente? <li>¿Ha identificado algún problema con la velocidad de carga y ha intentado mejorar?<li>¿Ha identificado algún problema con la línea de asunto/vista previa? ¿Están resueltos? | **Sí o no aplicable:**<br> Si no puede responder con un sí (a menos que no tenga software de prueba), debe hacerlo antes de enviar. | Algunos ejemplos de software de prueba de cliente son Litmus o Correo electrónico en Acid o [Marketo Email Deliverability Power Pack](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/deliverability/email-deliverability-power-pack-how-to-import-a-seed-list.html?lang=es)<br><br>[Tutoriales del rastreador de la bandeja de entrada](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/deliverability/inbox-tracker/inbox-tracker-tutorials.html?lang=es){target="_blank"} |
 | 21 | **Pruebas de spam** | ¿Ha ejecutado el correo electrónico a través del proceso de correo no deseado?<li>¿Hay alguna bandera de inclusión en la lista de bloqueados levantada para concienciar?<li>¿Ha identificado algún indicador de ubicación de bandeja de entrada/cliente de correo electrónico? <li>¿Ha buscado posibles causas e intentado resolverlas? | **Sí o no aplicable:**<br> Si no puede responder con un sí (a menos que no tenga software de prueba), debe hacerlo antes de enviar. | Use la funcionalidad [Rastreador de la bandeja de entrada de Marketo](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/deliverability/inbox-tracker/inbox-tracker-tutorials.html?lang=es){target="_blank"} para esto si la tiene incluida en su contrato o en herramientas como Litmus o Correo electrónico en Acid. |
-| 22 | **Análisis adicionales** | ¿El correo electrónico incluye código de análisis adicional? | **Sí o no aplicable:**<br>       Si no puede responder con un sí (a menos que no tenga software de análisis adicional), debe hacerlo antes de enviar. |  |
+| 22 | **Análisis adicionales** | ¿El correo electrónico incluye código de análisis adicional? | **Sí o no aplicable:**<br> Si no puede responder con un sí (a menos que no tenga software de Analytics adicional), debe hacerlo antes de enviar. |  |
 
 >[!TAB Comprobaciones Finales]
 
