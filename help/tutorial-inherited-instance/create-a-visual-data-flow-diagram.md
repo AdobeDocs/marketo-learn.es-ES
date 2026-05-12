@@ -5,14 +5,20 @@ feature: Administration
 role: Admin
 level: Intermediate, Experienced
 doc-type: Tutorial
-last-substantial-update: 2023-10-16T00:00:00Z
+last-substantial-update: 2023-10-16T00:00:00.000Z
 jira: KT-13877
 thumbnail: KT-13877.jpeg
 index: true
 exl-id: 0964ca8e-6b8f-413f-a0ea-76ffabd49c39
-source-git-commit: 66ace67a9f5e1df875a56124676842372c93589b
+TQID: https://experienceleague.adobe.com/fE5i06izcS16LHY5dMbVxWcxV-ObDnw8k-7pCnqIR2s
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adebid: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 0f8ea3988fd586ccbd4b414b3558f6e5f36882bf
 workflow-type: tm+mt
-source-wordcount: '605'
+source-wordcount: 605
 ht-degree: 1%
 
 ---
@@ -25,7 +31,7 @@ Como administrador que se hace cargo de una instancia de [!DNL Marketo Engage] q
 
 1. **Familiarícese con la pila de tecnología de marketing que heredó de una instancia activa.** Se recomienda a todos los responsables de operaciones de marketing/administradores de operaciones de plataforma que realicen este ejercicio al empezar en una empresa nueva. Este proceso de creación permite a los usuarios administradores ver una imagen completa de los datos y las actividades enviados desde integraciones externas a [!DNL Marketo Engage] y solucionar fácilmente los errores de la API.
 2. **Familiarícese con las partes interesadas clave que administran las integraciones externas.** Una sugerencia que Kelly Jo Horton utiliza para identificar rápidamente a las partes interesadas es hacer referencia a la lista de usuarios de API.
-   1. **Vaya a la ficha &#39;Integración>LaunchPoint&#39; en la sección &#39;Administración&#39;.** Obtenga más información acerca de cómo ir a la ficha &quot;LaunchPoint&quot;: [Crear un servicio personalizado para utilizarlo con la API de REST](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.html?lang=es){target="_blank"}.
+   1. **Vaya a la ficha &#39;Integración>LaunchPoint&#39; en la sección &#39;Administración&#39;.** Obtenga más información acerca de cómo ir a la ficha &quot;LaunchPoint&quot;: [Crear un servicio personalizado para utilizarlo con la API de REST](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.html){target="_blank"}.
    2. Busque estadísticas de uso de API por usuario de API en la pestaña Integración > Servicios web de la sección Información de llamada de API. Al hacer clic en el número de llamada de la API, puede ver las llamadas individuales específicas realizadas por cada usuario.
 
 ## Cómo realizar este ejercicio de diagrama de flujo de datos visuales
