@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Obtenga más información sobre los escenarios y las razones detrás del procesamiento de la combinación de duplicados de forma masiva. Comience la combinación masiva exportando registros duplicados a Excel para una limpieza y consolidación de datos eficientes.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429473/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3439228/?captions=spa&learn=on&enablevpops)

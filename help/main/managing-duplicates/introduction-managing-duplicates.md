@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Obtenga más información acerca de los conceptos principales de la administración de registros duplicados en la base de datos de Marketo Engage, su impacto en los flujos de trabajo y los 4 métodos para mantener datos limpios. Vea cada clip de vídeo para aprender a mantener la base de datos limpia y saludable.
 
->[!VIDEO](https://video.tv.adobe.com/v/3441776/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3441953/?captions=spa&learn=on&enablevpops)
