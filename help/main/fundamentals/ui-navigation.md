@@ -20,11 +20,11 @@ ht-degree: 1%
 
 Aprenda a navegar por la interfaz de usuario y a familiarizarse con la plataforma de Marketo Engage.
 
->[!VIDEO](https://video.tv.adobe.com/v/3450676/?captions=spa&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3419131/?learn=on){transcript=true}
 
 ## Recursos adicionales
 
-* [Glosario de Marketo Engage](https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/marketo-glossary.html?lang=es)
+* [Glosario de Marketo Engage](https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/marketo-glossary.html?lang=en)
 Definiciones de muchos de los términos que puede encontrar al utilizar Marketo.
-* [Glosario de iconos](https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-engage-modern-ux/icon-glossary.html?lang=es)
+* [Glosario de iconos](https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-engage-modern-ux/icon-glossary.html?lang=en)
 Glosario de los iconos de la interfaz de Marketo Engage.
