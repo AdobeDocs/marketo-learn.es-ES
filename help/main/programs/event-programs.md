@@ -36,11 +36,11 @@ Desarrolle una comprensión básica y cree su primer programa de eventos viendo 
 
 Consulte las guías del producto relacionadas para obtener más información:
 
-* [Explicación de la documentación de programas de eventos](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/understanding-events/understanding-event-programs.html?lang=en)
+* [Explicación de la documentación de programas de eventos](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/understanding-events/understanding-event-programs.html?lang=es)
 
 Vea vídeos adicionales para obtener más ayuda sobre esta función:
 * [Recorrido por eventos](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/events/events-watch.html?lang=es)
-* [Recorrido por seminarios web](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/events/webinar-watch.html?lang=en)
+* [Recorrido por seminarios web](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/events/webinar-watch.html?lang=es)
 
 Aprenda de sus compañeros a utilizar los programas de eventos:
 * [Publicación del blog del cliente experto: Programas de eventos](https://nation.marketo.com/t5/product-blogs/marketo-success-series-event-programs/ba-p/299191)
