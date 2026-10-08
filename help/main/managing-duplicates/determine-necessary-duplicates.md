@@ -28,4 +28,4 @@ ht-degree: 23%
 
 Descubra los escenarios en los que los duplicados tienen un propósito, como hogares con varias personas o necesidades de cumplimiento, y cómo administrarlos de forma eficaz.
 
->[!VIDEO](https://video.tv.adobe.com/v/3441949/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3442048/?captions=spa&learn=on&enablevpops)

@@ -35,4 +35,4 @@ ht-degree: 0%
 
 Obtenga información sobre cómo crear, personalizar y probar un correo electrónico en un programa de correo electrónico.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470630/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470637/?captions=spa&learn=on&enablevpops)
