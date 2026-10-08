@@ -5,13 +5,28 @@ feature: REST API
 role: Admin, Developer
 level: Experienced
 exl-id: 46e54729-92ab-4bbb-9877-f762708def67
-source-git-commit: 096d4b42008446a72f92b8fe509c0c216bc8f904
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: dca84292-69e9-4116-a575-667d31fa060d
+    internal-label: APIs
+subfeature_v2:
+  - id: cf1396d8-ab85-4e93-b35d-d9b573024abf
+    internal-label: REST APIs
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: 4768ecb20d4d9c70452ae084256928261f3a80eb
 workflow-type: tm+mt
 source-wordcount: '718'
 ht-degree: 3%
-
 ---
-
 # Cómo activar una campaña inteligente en Marketo Engage mediante la API REST y los tokens
 
 Este tutorial le explica cómo almacenar en déclencheur una campaña inteligente en Marketo Engage mediante la API de REST y personalizar el correo electrónico con Mis tokens. Este caso de uso es ideal para notificaciones activadas por el cliente, como recordatorios de seminarios web, pasos de incorporación o seguimientos posteriores a la compra.
@@ -22,9 +37,9 @@ Una persona se registra para un seminario web a través de una plataforma extern
 
 * Déclencheur de un correo electrónico recordatorio desde Marketo Engage
 * Personalícelo con:
-   * El nombre de la persona
-   * Título del seminario web
-   * Un vínculo de unión único
+  * El nombre de la persona
+  * Título del seminario web
+  * Un vínculo de unión único
 
 Esto se puede hacer mediante la API de REST y Mis tokens.
 

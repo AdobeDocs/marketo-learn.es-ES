@@ -4,18 +4,28 @@ description: Conozca los cuatro tipos de programas, cómo importar programas, pr
 role: Admin
 level: Beginner
 doc-type: Feature Video
-last-substantial-update: 2023-07-11T00:00:00Z
+last-substantial-update: 2023-07-11T00:00:00.000Z
 jira: KT-13567
 thumbnail: 3421275.jpeg
 feature: Programs
 exl-id: 2b850b08-3e9d-4bfb-8ac1-21fd9bdeaf83
-source-git-commit: 096d4b42008446a72f92b8fe509c0c216bc8f904
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 4768ecb20d4d9c70452ae084256928261f3a80eb
 workflow-type: tm+mt
 source-wordcount: '182'
 ht-degree: 13%
-
 ---
-
 # Prácticas recomendadas para crear programas básicos
 
 Conozca los cuatro tipos de programas, cómo importar programas, programas de puntuación de posibles clientes/personas y definición de etiquetas de canal. Conozca los casos de uso comunes y las prácticas recomendadas.
